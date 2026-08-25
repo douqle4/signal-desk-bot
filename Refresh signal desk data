@@ -1,0 +1,31 @@
+name: Refresh signal desk data
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run fetch script
+        run: python fetch_signals.py
+      - name: Commit updated data
+        run: |
+          git config user.name "signal-desk-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/live.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update live signals"
+            git push
+          fi
