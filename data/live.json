@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-25T21:00:48.117910+00:00",
+  "generated_at": "2026-08-25T22:54:52.026430+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Tue, 25 Aug 2026 17:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "The U.S. Power Play in Iraq That Moscow and Beijing Didn’t See Coming",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "As Russia remains occupied with its war in Ukraine, Iran focuses on defending its territory against U.S. and Israeli attacks, and China maintains its involvement in both conflicts under the bar that would trigger direct "
+    },
     {
       "category": "macro",
       "impact": "critical",
@@ -99,15 +108,6 @@
       "headline": "Uranium Prices Surge as Nuclear Demand Accelerates",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Bloomberg's continuous front-month uranium futures contract (UXA1 Comdty) briefly surged above $100 a pound in late January, driven by tightening supplies, renewed government support for nuclear power, and rising electri"
-    },
-    {
-      "category": "geo",
-      "impact": "high",
-      "time": "Tue, 25 Aug 2026 12:15:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "China Defies U.S. Economic D-Day against Iran",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "China on Tuesday signaled it would not end its ties and trade relations with Iran following the U.S. sanctions unveiled on Monday that target Chinese and Hong Kong entities for helping Iran do business. On Monday, the U."
     },
     {
       "category": "macro",
