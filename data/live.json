@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-25T17:59:48.065190+00:00",
+  "generated_at": "2026-08-25T19:47:28.141879+00:00",
   "stories": [
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Tue, 25 Aug 2026 13:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Russia Eyes Central Asia as a Safe Haven for Its Defense Industry",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "With Russian infrastructure being pummeled by Ukrainian drones, the Kremlin is hoping to sustain its war effort in Ukraine going by deepening defense cooperation with Kazakhstan and Uzbekistan. It is uncertain, however, "
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -99,15 +108,6 @@
       "headline": "Oil Prices Fall as Iran Negotiation Hopes Return",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "U.S. sanctions pressure on Iran intensifies, but Pakistani mediation hopes push Brent back to $89. US Blockade Leaves Iran’s Oil Trade on Borrowed Time - The announcement of the Trump administration’s ‘Economic D-Day’ sa"
-    },
-    {
-      "category": "geo",
-      "impact": "high",
-      "time": "Tue, 25 Aug 2026 09:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Can Trump Isolate Iran Without Triggering a Clash With China?",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "US sanctions experts say the Trump administration's new campaign to economically isolate Iran could be an effective escalation -- but only if Washington backs its threats with action. US Treasury Secretary Scott Bessent "
     },
     {
       "category": "macro",
