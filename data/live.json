@@ -1,4 +1,131 @@
 {
-  "generated_at": "2026-08-25T00:00:00+00:00",
-  "stories": []
+  "generated_at": "2026-08-25T16:48:52.508853+00:00",
+  "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Tue, 25 Aug 2026 04:45:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "India’s Crude Import Bill Surges as Hormuz Shipping Rates Soar",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "India’s crude oil import bill has soared since the Iran war choked Middle Eastern oil supply, raised benchmark crude prices, quadrupled freight rates, and boosted insurance on a single Strait of Hormuz voyage to never-be"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-08-25T21:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "AUD CPI m/m",
+      "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 0.9% · Previous: -0.1%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-08-25T21:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "AUD CPI y/y",
+      "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 3.3% · Previous: 3.8%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-08-25T21:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "AUD Trimmed Mean CPI m/m",
+      "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 0.4% · Previous: 0.3%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-08-26T08:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Core PCE Price Index m/m",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 0.2% · Previous: 0.1%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-08-26T08:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Prelim GDP q/q",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 1.5% · Previous: 1.5%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-08-28T08:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "CAD GDP m/m",
+      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 0.2% · Previous: 0.3%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-08-28T10:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Fed Chairman Warsh Speaks",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-08-28T10:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Prelim Benchmark Payrolls Revision",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Previous: -911K"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-08-28T12:15:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "All Jackson Hole Symposium",
+      "why": "Scheduled All data release — historically moves All pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "geo",
+      "impact": "high",
+      "time": "Tue, 25 Aug 2026 10:53:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Oil Prices Fall as Iran Negotiation Hopes Return",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "U.S. sanctions pressure on Iran intensifies, but Pakistani mediation hopes push Brent back to $89. US Blockade Leaves Iran’s Oil Trade on Borrowed Time - The announcement of the Trump administration’s ‘Economic D-Day’ sa"
+    },
+    {
+      "category": "geo",
+      "impact": "high",
+      "time": "Tue, 25 Aug 2026 09:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Can Trump Isolate Iran Without Triggering a Clash With China?",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "US sanctions experts say the Trump administration's new campaign to economically isolate Iran could be an effective escalation -- but only if Washington backs its threats with action. US Treasury Secretary Scott Bessent "
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-08-24T13:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Treasury Sec Bessent Speaks",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-08-25T10:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD CB Consumer Confidence",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 90.3 · Previous: 90.8"
+    }
+  ]
 }
