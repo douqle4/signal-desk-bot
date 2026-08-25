@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-08-25T16:55:27.551969+00:00",
+  "generated_at": "2026-08-25T17:59:48.065190+00:00",
   "stories": [
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Tue, 25 Aug 2026 04:45:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "India’s Crude Import Bill Surges as Hormuz Shipping Rates Soar",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "India’s crude oil import bill has soared since the Iran war choked Middle Eastern oil supply, raised benchmark crude prices, quadrupled freight rates, and boosted insurance on a single Strait of Hormuz voyage to never-be"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -90,6 +81,15 @@
       "headline": "All Jackson Hole Symposium",
       "why": "Scheduled All data release — historically moves All pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
+    },
+    {
+      "category": "geo",
+      "impact": "high",
+      "time": "Tue, 25 Aug 2026 12:15:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "China Defies U.S. Economic D-Day against Iran",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "China on Tuesday signaled it would not end its ties and trade relations with Iran following the U.S. sanctions unveiled on Monday that target Chinese and Hong Kong entities for helping Iran do business. On Monday, the U."
     },
     {
       "category": "geo",
