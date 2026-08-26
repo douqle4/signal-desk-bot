@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T05:53:39.759484+00:00",
+  "generated_at": "2026-08-26T08:10:38.378626+00:00",
   "stories": [
     {
       "category": "geo",
@@ -92,6 +92,15 @@
       "summary": "Scheduled economic release."
     },
     {
+      "category": "geo",
+      "impact": "high",
+      "time": "Wed, 26 Aug 2026 02:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Iran’s Tanker Blacklist Raises New Risks for Gulf Oil",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Three Indian refining companies and “a global energy major” will stop using tankers included in a black list that Iran issued earlier on Sunday in response to U.S. sanctions, Reuters has reported, citing unnamed sources."
+    },
+    {
       "category": "macro",
       "impact": "high",
       "time": "Tue, 25 Aug 2026 15:00:00 -0500",
@@ -117,15 +126,6 @@
       "headline": "USD CB Consumer Confidence",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 90.3 · Previous: 90.8"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-08-26T08:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Prelim GDP Price Index q/q",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 6.2% · Previous: 6.2%"
     }
   ]
 }
