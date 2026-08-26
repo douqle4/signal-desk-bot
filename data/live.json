@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T08:10:38.378626+00:00",
+  "generated_at": "2026-08-26T10:18:49.193979+00:00",
   "stories": [
     {
       "category": "geo",
@@ -102,15 +102,6 @@
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "Tue, 25 Aug 2026 15:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Uranium Prices Surge as Nuclear Demand Accelerates",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Bloomberg's continuous front-month uranium futures contract (UXA1 Comdty) briefly surged above $100 a pound in late January, driven by tightening supplies, renewed government support for nuclear power, and rising electri"
-    },
-    {
-      "category": "macro",
       "impact": "medium",
       "time": "2026-08-24T13:00:00-04:00",
       "source": "ForexFactory calendar",
@@ -126,6 +117,15 @@
       "headline": "USD CB Consumer Confidence",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 90.3 · Previous: 90.8"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-08-26T08:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Prelim GDP Price Index q/q",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 6.2% · Previous: 6.2%"
     }
   ]
 }
