@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-26T11:56:28.769183+00:00",
+  "generated_at": "2026-08-26T14:28:00.467621+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Wed, 26 Aug 2026 09:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "CIA Director’s Surprise Moscow Trip Raises Questions Over Iran and Ukraine",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "CIA Director John Ratcliffe made an unannounced visit to Moscow on August 25, US officials confirmed to RFE/RL, a rare trip that comes as Washington's efforts to end Russia's war against Ukraine have stalled and tensions"
+    },
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Wed, 26 Aug 2026 08:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "UK Energy Bills to Hit Three-Year High as Gas Prices Surge",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "UK energy bills are set for a three-year high at the beginning of the winter, as higher gas prices due to the Iran war have prompted the energy regulator to raise the energy price cap on household costs by 4% for October"
+    },
     {
       "category": "geo",
       "impact": "critical",
@@ -9,15 +27,6 @@
       "headline": "Qatar Loses $24 Billion as LNG Exports Collapse 96%",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Six months since the Iran war crippled Qatar’s LNG exports via the Strait of Hormuz, the world’s second-largest liquefied natural gas exporter has lost $24 billion in sales as exports tumbled by as much as 96%, Reuters c"
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Tue, 25 Aug 2026 17:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "The U.S. Power Play in Iraq That Moscow and Beijing Didn’t See Coming",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "As Russia remains occupied with its war in Ukraine, Iran focuses on defending its territory against U.S. and Israeli attacks, and China maintains its involvement in both conflicts under the bar that would trigger direct "
     },
     {
       "category": "macro",
@@ -101,6 +110,15 @@
       "summary": "Scheduled economic release."
     },
     {
+      "category": "macro",
+      "impact": "high",
+      "time": "Wed, 26 Aug 2026 07:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "India’s Russian Oil Imports Slide From Record High as Supply Tightens",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "India’s crude oil imports from Russia have eased so far this month from July’s record high, as Ukrainian attacks on Russian export infrastructure and competition from China for Russia’s barrels have dented Indian intake "
+    },
+    {
       "category": "geo",
       "impact": "high",
       "time": "Wed, 26 Aug 2026 02:30:00 -0500",
@@ -108,24 +126,6 @@
       "headline": "Iran’s Tanker Blacklist Raises New Risks for Gulf Oil",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Three Indian refining companies and “a global energy major” will stop using tankers included in a black list that Iran issued earlier on Sunday in response to U.S. sanctions, Reuters has reported, citing unnamed sources."
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-08-24T13:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Treasury Sec Bessent Speaks",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-08-25T10:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD CB Consumer Confidence",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 90.3 · Previous: 90.8"
     }
   ]
 }
