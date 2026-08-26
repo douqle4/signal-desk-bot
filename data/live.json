@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T23:52:55.144891+00:00",
+  "generated_at": "2026-08-26T03:35:49.572655+00:00",
   "stories": [
     {
       "category": "geo",
@@ -9,15 +9,6 @@
       "headline": "The U.S. Power Play in Iraq That Moscow and Beijing Didn’t See Coming",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "As Russia remains occupied with its war in Ukraine, Iran focuses on defending its territory against U.S. and Israeli attacks, and China maintains its involvement in both conflicts under the bar that would trigger direct "
-    },
-    {
-      "category": "macro",
-      "impact": "critical",
-      "time": "Tue, 25 Aug 2026 13:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Russia Eyes Central Asia as a Safe Haven for Its Defense Industry",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "With Russian infrastructure being pummeled by Ukrainian drones, the Kremlin is hoping to sustain its war effort in Ukraine going by deepening defense cooperation with Kazakhstan and Uzbekistan. It is uncertain, however, "
     },
     {
       "category": "macro",
@@ -126,6 +117,15 @@
       "headline": "USD CB Consumer Confidence",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 90.3 · Previous: 90.8"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-08-26T08:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Prelim GDP Price Index q/q",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 6.2% · Previous: 6.2%"
     }
   ]
 }
