@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-26T10:18:49.193979+00:00",
+  "generated_at": "2026-08-26T11:56:28.769183+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Wed, 26 Aug 2026 06:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Qatar Loses $24 Billion as LNG Exports Collapse 96%",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Six months since the Iran war crippled Qatar’s LNG exports via the Strait of Hormuz, the world’s second-largest liquefied natural gas exporter has lost $24 billion in sales as exports tumbled by as much as 96%, Reuters c"
+    },
     {
       "category": "geo",
       "impact": "critical",
@@ -117,15 +126,6 @@
       "headline": "USD CB Consumer Confidence",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 90.3 · Previous: 90.8"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-08-26T08:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Prelim GDP Price Index q/q",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 6.2% · Previous: 6.2%"
     }
   ]
 }
