@@ -1,32 +1,23 @@
 {
-  "generated_at": "2026-08-26T14:28:00.467621+00:00",
+  "generated_at": "2026-08-28T00:58:02.829271+00:00",
   "stories": [
     {
-      "category": "geo",
+      "category": "macro",
       "impact": "critical",
-      "time": "Wed, 26 Aug 2026 09:00:00 -0500",
+      "time": "Thu, 27 Aug 2026 16:00:00 -0500",
       "source": "OilPrice.com",
-      "headline": "CIA Director’s Surprise Moscow Trip Raises Questions Over Iran and Ukraine",
+      "headline": "Europe Heads Into Winter With Gas Storage at a Two-Decade Low",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "CIA Director John Ratcliffe made an unannounced visit to Moscow on August 25, US officials confirmed to RFE/RL, a rare trip that comes as Washington's efforts to end Russia's war against Ukraine have stalled and tensions"
+      "summary": "Europe is heading for the winter with one of the lowest levels of gas in storage in the past two decades as the war in the Middle East crippled LNG supply from Qatar, sent gas and LNG prices in Europe and Asia skyrocketi"
     },
     {
-      "category": "geo",
+      "category": "macro",
       "impact": "critical",
-      "time": "Wed, 26 Aug 2026 08:30:00 -0500",
+      "time": "Thu, 27 Aug 2026 14:00:00 -0500",
       "source": "OilPrice.com",
-      "headline": "UK Energy Bills to Hit Three-Year High as Gas Prices Surge",
+      "headline": "Trump’s War on Offshore Wind Leaves U.S. Workers in Limbo",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "UK energy bills are set for a three-year high at the beginning of the winter, as higher gas prices due to the Iran war have prompted the energy regulator to raise the energy price cap on household costs by 4% for October"
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Wed, 26 Aug 2026 06:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Qatar Loses $24 Billion as LNG Exports Collapse 96%",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Six months since the Iran war crippled Qatar’s LNG exports via the Strait of Hormuz, the world’s second-largest liquefied natural gas exporter has lost $24 billion in sales as exports tumbled by as much as 96%, Reuters c"
+      "summary": "United States President Trump has strongly criticised wind power since coming into office, introducing several executive actions aimed at restricting the development of wind farms. Trump has particularly targeted offshor"
     },
     {
       "category": "macro",
@@ -111,21 +102,30 @@
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "Wed, 26 Aug 2026 07:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "India’s Russian Oil Imports Slide From Record High as Supply Tightens",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "India’s crude oil imports from Russia have eased so far this month from July’s record high, as Ukrainian attacks on Russian export infrastructure and competition from China for Russia’s barrels have dented Indian intake "
+      "impact": "medium",
+      "time": "2026-08-24T13:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Treasury Sec Bessent Speaks",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
     },
     {
-      "category": "geo",
-      "impact": "high",
-      "time": "Wed, 26 Aug 2026 02:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Iran’s Tanker Blacklist Raises New Risks for Gulf Oil",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Three Indian refining companies and “a global energy major” will stop using tankers included in a black list that Iran issued earlier on Sunday in response to U.S. sanctions, Reuters has reported, citing unnamed sources."
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-08-25T10:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD CB Consumer Confidence",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 90.3 · Previous: 90.8"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-08-26T08:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Prelim GDP Price Index q/q",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 6.2% · Previous: 6.2%"
     }
   ]
 }
