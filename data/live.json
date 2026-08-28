@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-08-28T00:58:02.829271+00:00",
+  "generated_at": "2026-08-28T21:53:05.179711+00:00",
   "stories": [
     {
       "category": "macro",
       "impact": "critical",
-      "time": "Thu, 27 Aug 2026 16:00:00 -0500",
+      "time": "Fri, 28 Aug 2026 13:00:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Europe Heads Into Winter With Gas Storage at a Two-Decade Low",
+      "headline": "Russia’s Energy Crisis Puts Kazakhstan in a Tough Spot",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Europe is heading for the winter with one of the lowest levels of gas in storage in the past two decades as the war in the Middle East crippled LNG supply from Qatar, sent gas and LNG prices in Europe and Asia skyrocketi"
+      "summary": "Kazakhstan is trying to keep the Kremlin at arm’s length amid Russian efforts to lean on Central Asian states for help in bolstering Moscow’s staggering war economy. Ukraine’s ongoing drone campaign has inflicted severe "
     },
     {
-      "category": "macro",
+      "category": "geo",
       "impact": "critical",
-      "time": "Thu, 27 Aug 2026 14:00:00 -0500",
+      "time": "Fri, 28 Aug 2026 12:30:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Trump’s War on Offshore Wind Leaves U.S. Workers in Limbo",
+      "headline": "The Iran War Has Turned VLCCs Into $650,000-a-Day Assets",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "United States President Trump has strongly criticised wind power since coming into office, introducing several executive actions aimed at restricting the development of wind farms. Trump has particularly targeted offshor"
+      "summary": "More Gulf oil is moving again. Getting it out now costs a fortune. Earnings on the benchmark Saudi Arabia-to-China supertanker route surged to a record $647,000 per day on Thursday, according to Baltic Exchange data cite"
     },
     {
       "category": "macro",
@@ -101,6 +101,24 @@
       "summary": "Scheduled economic release."
     },
     {
+      "category": "geo",
+      "impact": "high",
+      "time": "Fri, 28 Aug 2026 15:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Europe’s Russia Sanctions Have a Major Blind Spot",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Over the last two years, the EU and UK have emerged as leading actors in imposing sanctions on Russia. But people like Maria Demertzis, Professor at the European University Institute in Italy, have raised questions aroun"
+    },
+    {
+      "category": "geo",
+      "impact": "high",
+      "time": "Fri, 28 Aug 2026 10:55:22 -0500",
+      "source": "OilPrice.com",
+      "headline": "Oil Shrugs Off Trump’s ‘Toughest Sanctions in History’",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Oil holds near $90 despite sweeping Iran sanctions as uncertainty over Hormuz transits keeps markets on edge. Friday, August 28, 2026 The US announcement of ‘toughest sanctions in history’ against Iran did relatively lit"
+    },
+    {
       "category": "macro",
       "impact": "medium",
       "time": "2026-08-24T13:00:00-04:00",
@@ -108,24 +126,6 @@
       "headline": "USD Treasury Sec Bessent Speaks",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-08-25T10:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD CB Consumer Confidence",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 90.3 · Previous: 90.8"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-08-26T08:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Prelim GDP Price Index q/q",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 6.2% · Previous: 6.2%"
     }
   ]
 }
