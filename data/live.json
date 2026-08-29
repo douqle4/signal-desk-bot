@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-29T22:36:33.511767+00:00",
+  "generated_at": "2026-08-29T23:06:33.603035+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Sat, 29 Aug 2026 18:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Iran War Adds $330 Billion to Global Energy Import Bill",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The war between the United States, Israel, and Iran has caused the oil and gas import bill of the world to swell by as much as $330 billion over the six months between March and August. That’s despite a smaller-than-fear"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -117,15 +126,6 @@
       "headline": "USD Prelim GDP Price Index q/q",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 6.2% · Previous: 6.2%"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-08-27T08:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Unemployment Claims",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 208K · Previous: 206K"
     }
   ]
 }
