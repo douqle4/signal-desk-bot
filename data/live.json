@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T14:36:30.589816+00:00",
+  "generated_at": "2026-08-29T15:06:44.761787+00:00",
   "stories": [
     {
       "category": "macro",
@@ -110,15 +110,6 @@
       "summary": "Over the last two years, the EU and UK have emerged as leading actors in imposing sanctions on Russia. But people like Maria Demertzis, Professor at the European University Institute in Italy, have raised questions aroun"
     },
     {
-      "category": "geo",
-      "impact": "high",
-      "time": "Fri, 28 Aug 2026 10:55:22 -0500",
-      "source": "OilPrice.com",
-      "headline": "Oil Shrugs Off Trump’s ‘Toughest Sanctions in History’",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Oil holds near $90 despite sweeping Iran sanctions as uncertainty over Hormuz transits keeps markets on edge. Friday, August 28, 2026 The US announcement of ‘toughest sanctions in history’ against Iran did relatively lit"
-    },
-    {
       "category": "macro",
       "impact": "medium",
       "time": "2026-08-24T13:00:00-04:00",
@@ -126,6 +117,15 @@
       "headline": "USD Treasury Sec Bessent Speaks",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-08-25T10:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD CB Consumer Confidence",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 90.3 · Previous: 90.8"
     }
   ]
 }
