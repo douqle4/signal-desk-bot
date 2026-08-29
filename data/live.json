@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-08-29T20:36:23.965065+00:00",
+  "generated_at": "2026-08-29T21:06:47.966523+00:00",
   "stories": [
-    {
-      "category": "macro",
-      "impact": "critical",
-      "time": "Fri, 28 Aug 2026 13:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Russia’s Energy Crisis Puts Kazakhstan in a Tough Spot",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Kazakhstan is trying to keep the Kremlin at arm’s length amid Russian efforts to lean on Central Asian states for help in bolstering Moscow’s staggering war economy. Ukraine’s ongoing drone campaign has inflicted severe "
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -126,6 +117,15 @@
       "headline": "USD Prelim GDP Price Index q/q",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 6.2% · Previous: 6.2%"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-08-27T08:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Unemployment Claims",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 208K · Previous: 206K"
     }
   ]
 }
