@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T18:36:24.414521+00:00",
+  "generated_at": "2026-08-29T19:06:29.228896+00:00",
   "stories": [
     {
       "category": "macro",
@@ -9,15 +9,6 @@
       "headline": "Russia’s Energy Crisis Puts Kazakhstan in a Tough Spot",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Kazakhstan is trying to keep the Kremlin at arm’s length amid Russian efforts to lean on Central Asian states for help in bolstering Moscow’s staggering war economy. Ukraine’s ongoing drone campaign has inflicted severe "
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Fri, 28 Aug 2026 12:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "The Iran War Has Turned VLCCs Into $650,000-a-Day Assets",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "More Gulf oil is moving again. Getting it out now costs a fortune. Earnings on the benchmark Saudi Arabia-to-China supertanker route surged to a record $647,000 per day on Thursday, according to Baltic Exchange data cite"
     },
     {
       "category": "macro",
@@ -126,6 +117,15 @@
       "headline": "USD CB Consumer Confidence",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 90.3 · Previous: 90.8"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-08-26T08:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Prelim GDP Price Index q/q",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 6.2% · Previous: 6.2%"
     }
   ]
 }
