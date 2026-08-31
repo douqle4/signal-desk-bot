@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-31T20:36:37.347807+00:00",
+  "generated_at": "2026-08-31T21:06:38.485294+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Mon, 31 Aug 2026 16:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Canada Tariffs Deepen North America’s Steel and Aluminum Squeeze",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The renewed trade war between the United States and Canada adds even more uncertainty to the complex steel and aluminum supply chains critical for heavy manufacturing and North America’s automotive industry. Last week’s "
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -98,7 +107,7 @@
       "source": "ForexFactory calendar",
       "headline": "CAD Employment Change",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 15.8K · Previous: 75.1K"
+      "summary": "Forecast: 15.1K · Previous: 75.1K"
     },
     {
       "category": "macro",
@@ -117,15 +126,6 @@
       "headline": "USD Average Hourly Earnings m/m",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 0.3% · Previous: 0.1%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-09-04T08:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Non-Farm Employment Change",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 55K · Previous: -23K"
     }
   ]
 }
