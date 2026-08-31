@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-08-31T19:36:37.624735+00:00",
+  "generated_at": "2026-08-31T20:06:33.492166+00:00",
   "stories": [
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Mon, 31 Aug 2026 11:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Iran Weakened but Defiant After 6 Months of War",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Six months after US and Israeli air strikes against Iran launched a conflict that has shaken energy markets and disrupted global shipping, there is still no clear end to the confrontation. While Iran's military capabilit"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -126,6 +117,15 @@
       "headline": "USD Average Hourly Earnings m/m",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 0.3% · Previous: 0.1%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-09-04T08:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Non-Farm Employment Change",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 55K · Previous: -23K"
     }
   ]
 }
