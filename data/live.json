@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-31T08:06:55.204210+00:00",
+  "generated_at": "2026-08-31T08:36:40.997007+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Mon, 31 Aug 2026 03:35:35 -0500",
+      "source": "OilPrice.com",
+      "headline": "Asian Refiners Turn to Argentina as Iran War Disrupts Oil Supply",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Asian crude oil importers, including China, Japan, and South Korea, have turned to buying oil from as far as Argentina to offset supply losses from the Middle East, anonymous traders with knowledge of the purchases told "
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -117,15 +126,6 @@
       "headline": "USD Average Hourly Earnings m/m",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 0.3% · Previous: 0.1%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-09-04T08:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Non-Farm Employment Change",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 58K · Previous: -23K"
     }
   ]
 }
