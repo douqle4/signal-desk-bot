@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-01T19:37:43.066224+00:00",
+  "generated_at": "2026-09-01T20:12:34.547670+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Tue, 01 Sep 2026 14:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Bessent Says Strait of Hormuz Obsolete Within Two Years",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Treasury Secretary Scott Bessent says Gulf oil producers could bypass the Strait of Hormuz within two years, putting a remarkably short timetable on a pipeline buildout that has accelerated since the Iran war disrupted o"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -117,15 +126,6 @@
       "headline": "USD Average Hourly Earnings m/m",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 0.3% · Previous: 0.1%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-09-04T08:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Non-Farm Employment Change",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 55K · Previous: -23K"
     }
   ]
 }
