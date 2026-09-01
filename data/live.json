@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T10:42:19.738238+00:00",
+  "generated_at": "2026-09-01T11:12:00.437793+00:00",
   "stories": [
     {
       "category": "geo",
@@ -9,15 +9,6 @@
       "headline": "Iran War Triggers Billions in New Oil Pipeline and Port Investment",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "The severe disruption of oil and gas flows out of the Persian Gulf resulting from the war between the U.S. and Israel and Iran, has saddled energy-importing nations with soaring bills, supply uncertainty, and a murky out"
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Mon, 31 Aug 2026 16:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Canada Tariffs Deepen North America’s Steel and Aluminum Squeeze",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The renewed trade war between the United States and Canada adds even more uncertainty to the complex steel and aluminum supply chains critical for heavy manufacturing and North America’s automotive industry. Last week’s "
     },
     {
       "category": "macro",
@@ -126,6 +117,15 @@
       "headline": "CAD Unemployment Rate",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 6.4% · Previous: 6.4%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-09-04T08:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Average Hourly Earnings m/m",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 0.3% · Previous: 0.1%"
     }
   ]
 }
