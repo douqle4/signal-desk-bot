@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-09-01T11:12:00.437793+00:00",
+  "generated_at": "2026-09-01T11:40:28.163700+00:00",
   "stories": [
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Mon, 31 Aug 2026 16:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Iran War Triggers Billions in New Oil Pipeline and Port Investment",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The severe disruption of oil and gas flows out of the Persian Gulf resulting from the war between the U.S. and Israel and Iran, has saddled energy-importing nations with soaring bills, supply uncertainty, and a murky out"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -126,6 +117,15 @@
       "headline": "USD Average Hourly Earnings m/m",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 0.3% · Previous: 0.1%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-09-04T08:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Non-Farm Employment Change",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 55K · Previous: -23K"
     }
   ]
 }
