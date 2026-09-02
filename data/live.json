@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-02T13:13:02.472315+00:00",
+  "generated_at": "2026-09-02T13:42:03.519971+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Wed, 02 Sep 2026 08:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "India Boosts Far East Russian Oil Imports as War Upends Trade Routes",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "India raised its purchases of Russia’s Far East crude blend ESPO in the first seven months of the year as China backed out of the spot market in the first months of the Iran war and deliveries to India from the Middle Ea"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -117,15 +126,6 @@
       "headline": "USD Average Hourly Earnings m/m",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 0.3% · Previous: 0.1%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-09-04T08:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Non-Farm Employment Change",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 55K · Previous: -23K"
     }
   ]
 }
