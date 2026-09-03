@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T08:42:13.754658+00:00",
+  "generated_at": "2026-09-03T09:13:24.531150+00:00",
   "stories": [
     {
       "category": "geo",
@@ -18,15 +18,6 @@
       "headline": "U.S. Diesel Prices Close In on April War Peak",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "A diesel-price shock may be approaching Western economies. That's because the industrial fuel sits at the epicenter of freight, agriculture, construction, and heavy industry; soaring prices ripple quickly through supply "
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Wed, 02 Sep 2026 14:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "OPEC+ Set to Hold Oil Output Steady as Iran War Disrupts Supply",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "OPEC+ is likely to leave its oil production policy unchanged for October when seven of its core members meet on Sunday, Reuters reported Wednesday, citing three sources close to the matter. Saudi Arabia, Russia, Iraq, Ku"
     },
     {
       "category": "macro",
@@ -126,6 +117,15 @@
       "headline": "CAD Employment Change",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 15.1K · Previous: 75.1K"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-09-04T08:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "CAD Unemployment Rate",
+      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 6.4% · Previous: 6.4%"
     }
   ]
 }
