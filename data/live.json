@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-09-03T19:38:01.790475+00:00",
+  "generated_at": "2026-09-03T20:11:59.362153+00:00",
   "stories": [
-    {
-      "category": "macro",
-      "impact": "critical",
-      "time": "Thu, 03 Sep 2026 10:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "U.S. Diesel Prices Surge Toward All-Time High",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The average price of diesel in the United States hit $5.7832 per gallon on Thursday, which is just three cents lower than the record-high of $5.8159 in mid-June 2022, when the Russian invasion of Ukraine sent fuel prices"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -126,6 +117,15 @@
       "headline": "USD Average Hourly Earnings m/m",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 0.3% · Previous: 0.1%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-09-04T08:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Non-Farm Employment Change",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 55K · Previous: -23K"
     }
   ]
 }
