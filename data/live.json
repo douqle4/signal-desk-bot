@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-03T10:40:35.908388+00:00",
+  "generated_at": "2026-09-03T11:11:49.669961+00:00",
   "stories": [
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Thu, 03 Sep 2026 06:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Global Refining Crunch Could Keep Fuel Prices High Into 2027",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Damaged refineries in the Middle East and Russia and insufficient capacity elsewhere to offset the supply disruptions will likely keep global fuel prices elevated into the next year, analysts say. The Middle East conflic"
+    },
     {
       "category": "geo",
       "impact": "critical",
@@ -117,15 +126,6 @@
       "headline": "CAD Unemployment Rate",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 6.4% · Previous: 6.4%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-09-04T08:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Average Hourly Earnings m/m",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 0.3% · Previous: 0.1%"
     }
   ]
 }
