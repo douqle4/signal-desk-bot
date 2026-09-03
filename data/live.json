@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-03T14:40:54.823582+00:00",
+  "generated_at": "2026-09-03T15:12:36.840763+00:00",
   "stories": [
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Thu, 03 Sep 2026 10:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "U.S. Diesel Prices Surge Toward All-Time High",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The average price of diesel in the United States hit $5.7832 per gallon on Thursday, which is just three cents lower than the record-high of $5.8159 in mid-June 2022, when the Russian invasion of Ukraine sent fuel prices"
+    },
     {
       "category": "macro",
       "impact": "critical",
@@ -9,15 +18,6 @@
       "headline": "Global Refining Crunch Could Keep Fuel Prices High Into 2027",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Damaged refineries in the Middle East and Russia and insufficient capacity elsewhere to offset the supply disruptions will likely keep global fuel prices elevated into the next year, analysts say. The Middle East conflic"
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Thu, 03 Sep 2026 02:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Asian LNG Prices Surge to Highest Since 2022 as Iran War Escalates",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Spot LNG prices for Asian buyers went up to almost $26 per million British thermal units yesterday for a 5% weekly gain following the resumption of strikes between the United States and Iran. Spot LNG for Asia traded at "
     },
     {
       "category": "macro",
