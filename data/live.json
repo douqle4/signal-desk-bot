@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T09:41:10.834234+00:00",
+  "generated_at": "2026-09-03T10:13:32.332785+00:00",
   "stories": [
     {
       "category": "geo",
@@ -9,15 +9,6 @@
       "headline": "Asian LNG Prices Surge to Highest Since 2022 as Iran War Escalates",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Spot LNG prices for Asian buyers went up to almost $26 per million British thermal units yesterday for a 5% weekly gain following the resumption of strikes between the United States and Iran. Spot LNG for Asia traded at "
-    },
-    {
-      "category": "macro",
-      "impact": "critical",
-      "time": "Wed, 02 Sep 2026 14:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "U.S. Diesel Prices Close In on April War Peak",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "A diesel-price shock may be approaching Western economies. That's because the industrial fuel sits at the epicenter of freight, agriculture, construction, and heavy industry; soaring prices ripple quickly through supply "
     },
     {
       "category": "macro",
@@ -126,6 +117,15 @@
       "headline": "CAD Unemployment Rate",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 6.4% · Previous: 6.4%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-09-04T08:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Average Hourly Earnings m/m",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 0.3% · Previous: 0.1%"
     }
   ]
 }
