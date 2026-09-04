@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-09-04T12:16:32.327830+00:00",
+  "generated_at": "2026-09-04T12:45:22.078775+00:00",
   "stories": [
     {
       "category": "geo",
       "impact": "critical",
-      "time": "Fri, 04 Sep 2026 00:40:00 -0500",
+      "time": "Fri, 04 Sep 2026 07:30:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Brent Nears $96 as Iran Conflict Keeps Oil Market on Edge",
+      "headline": "The Iran War Has Put Venezuela’s Oil Back in the Spotlight",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Crude oil prices extended their climb today and are set for a sharp weekly gain as the war in the Middle East continues with little chance of peace. At the time of writing, Brent crude was trading at $95.55 per barrel, a"
+      "summary": "Politics, Geopolitics & Conflict The U.S. restarted major strikes on Iran this week, hitting missile, radar, and other military installations along the southern coast and on Larak Island. Iran retaliated against U.S. pos"
+    },
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Fri, 04 Sep 2026 07:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "WTI Back Above $91 as War Premium Returns",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "October WTI crude oil futures are trading at $91.80 Thursday night, up $8.36 or 10.02% for the week so far. The contract traded as low as $84.11 early in the week before reaching $93.14, its strongest level since late Ju"
     },
     {
       "category": "macro",
@@ -117,15 +126,6 @@
       "headline": "CAD Unemployment Rate",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 6.4% · Previous: 6.4%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-09-04T08:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Average Hourly Earnings m/m",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 0.3% · Previous: 0.1%"
     }
   ]
 }
