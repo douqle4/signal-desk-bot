@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T16:13:14.402829+00:00",
+  "generated_at": "2026-09-04T16:39:30.051767+00:00",
   "stories": [
     {
       "category": "geo",
@@ -9,15 +9,6 @@
       "headline": "The Iran War Has Put Venezuela’s Oil Back in the Spotlight",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Politics, Geopolitics & Conflict The U.S. restarted major strikes on Iran this week, hitting missile, radar, and other military installations along the southern coast and on Larak Island. Iran retaliated against U.S. pos"
-    },
-    {
-      "category": "macro",
-      "impact": "critical",
-      "time": "Fri, 04 Sep 2026 07:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "WTI Back Above $91 as War Premium Returns",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "October WTI crude oil futures are trading at $91.80 Thursday night, up $8.36 or 10.02% for the week so far. The contract traded as low as $84.11 early in the week before reaching $93.14, its strongest level since late Ju"
     },
     {
       "category": "macro",
@@ -126,6 +117,15 @@
       "headline": "CAD Unemployment Rate",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 6.4% · Previous: 6.4%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-09-04T08:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Average Hourly Earnings m/m",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 0.3% · Previous: 0.1%"
     }
   ]
 }
