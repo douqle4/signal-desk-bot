@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-09-04T17:11:31.151426+00:00",
+  "generated_at": "2026-09-04T17:38:23.407446+00:00",
   "stories": [
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Fri, 04 Sep 2026 07:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "The Iran War Has Put Venezuela’s Oil Back in the Spotlight",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Politics, Geopolitics & Conflict The U.S. restarted major strikes on Iran this week, hitting missile, radar, and other military installations along the southern coast and on Larak Island. Iran retaliated against U.S. pos"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -126,6 +117,15 @@
       "headline": "USD Average Hourly Earnings m/m",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 0.3% · Previous: 0.1%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-09-04T08:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Non-Farm Employment Change",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 55K · Previous: -23K"
     }
   ]
 }
