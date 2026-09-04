@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-04T05:11:48.885017+00:00",
+  "generated_at": "2026-09-04T05:40:20.876829+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Fri, 04 Sep 2026 00:40:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Brent Nears $96 as Iran Conflict Keeps Oil Market on Edge",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Crude oil prices extended their climb today and are set for a sharp weekly gain as the war in the Middle East continues with little chance of peace. At the time of writing, Brent crude was trading at $95.55 per barrel, a"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -117,15 +126,6 @@
       "headline": "USD Average Hourly Earnings m/m",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 0.3% · Previous: 0.1%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-09-04T08:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Non-Farm Employment Change",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 55K · Previous: -23K"
     }
   ]
 }
