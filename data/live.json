@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-05T22:37:46.942540+00:00",
+  "generated_at": "2026-09-05T23:10:45.207683+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Sat, 05 Sep 2026 18:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Iran War Forces a Rewrite of Global Oil Trade Routes",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Oil prices are about to book yet another weekly gain as the war in the Middle East remains hot, with a pessimistic outlook. Oil exporters from the region are rushing to diversify their export channels, and importers are "
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -117,15 +126,6 @@
       "headline": "USD Average Hourly Earnings m/m",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 0.3% · Previous: 0.1%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-09-04T08:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Non-Farm Employment Change",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 55K · Previous: -23K"
     }
   ]
 }
