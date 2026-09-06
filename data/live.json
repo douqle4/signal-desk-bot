@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T20:39:31.388937+00:00",
+  "generated_at": "2026-09-06T21:11:15.900590+00:00",
   "stories": [
     {
       "category": "geo",
@@ -102,15 +102,6 @@
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "Sat, 05 Sep 2026 10:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Green Bonds Hit Record High Despite Persistent Challenges",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Green bonds account for a tiny proportion of the global bond market but have significant growth potential as consumers become increasingly concerned about environmental issues, such as climate change. The issuance of gre"
-    },
-    {
-      "category": "macro",
       "impact": "medium",
       "time": "2026-09-10T08:30:00-04:00",
       "source": "ForexFactory calendar",
@@ -126,6 +117,15 @@
       "headline": "CHF SNB Chairman Schlegel Speaks",
       "why": "Scheduled CHF data release — historically moves CHF pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-11T10:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Prelim UoM Consumer Sentiment",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 51.0 · Previous: 51.0"
     }
   ]
 }
