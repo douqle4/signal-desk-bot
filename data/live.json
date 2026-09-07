@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-07T10:40:57.405742+00:00",
+  "generated_at": "2026-09-07T11:12:50.818692+00:00",
   "stories": [
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Mon, 07 Sep 2026 06:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "India’s Crude Oil Benchmark Tops $100 as Middle East War Escalates",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "India’s average crude import price soared to above $100 per barrel at the end of last week and is set to further rise this week as international crude prices rallied amid intensified hostilities in the Middle East. The s"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -117,15 +126,6 @@
       "headline": "Oil Prices Climb After U.S. Strikes Three Iranian Tankers and Iran Vows Revenge",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Oil prices edged higher in early Asian trade on Monday following another weekend of escalation in the U.S.-Iran war.  At the time of writing, WTI was trading at $92.14 per barrel, up 0.72% on the session, while Brent had"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-08T09:15:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "GBP Monetary Policy Report Hearings",
-      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
     }
   ]
 }
