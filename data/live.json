@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-09-07T17:40:47.033764+00:00",
+  "generated_at": "2026-09-07T18:15:04.263205+00:00",
   "stories": [
-    {
-      "category": "macro",
-      "impact": "critical",
-      "time": "Mon, 07 Sep 2026 09:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Trump Envoys Shuttle Between Moscow and Kyiv as U.S. Revives Ukraine Peace Push",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The Trump administration has revived its diplomatic drive to end Russia’s war in Ukraine, as US envoys Steve Witkoff and Jared Kushner traveled from Moscow to Kyiv in a high-profile effort to lay the groundwork for anoth"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -126,6 +117,15 @@
       "headline": "EUR ECB President Lagarde Speaks",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-10T08:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Unemployment Claims",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 205K · Previous: 206K"
     }
   ]
 }
