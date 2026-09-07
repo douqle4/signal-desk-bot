@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T17:11:44.686374+00:00",
+  "generated_at": "2026-09-07T17:40:47.033764+00:00",
   "stories": [
     {
       "category": "macro",
@@ -9,15 +9,6 @@
       "headline": "Trump Envoys Shuttle Between Moscow and Kyiv as U.S. Revives Ukraine Peace Push",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "The Trump administration has revived its diplomatic drive to end Russia’s war in Ukraine, as US envoys Steve Witkoff and Jared Kushner traveled from Moscow to Kyiv in a high-profile effort to lay the groundwork for anoth"
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Mon, 07 Sep 2026 08:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "High Crude and LNG Prices Weigh on India’s Oil and Gas Sector",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The renewed rally in crude oil and LNG prices and the higher freight costs are pressuring the marketing margins of India’s oil and gas sector, which has to contend with the fallout of the Iran war on global oil and LNG t"
     },
     {
       "category": "macro",
@@ -108,6 +99,15 @@
       "headline": "USD CPI y/y",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 3.4% · Previous: 3.4%"
+    },
+    {
+      "category": "geo",
+      "impact": "high",
+      "time": "Mon, 07 Sep 2026 12:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Russia Vows to Keep Selling Oil to India Despite U.S. Tariff Threat",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Russia will remain a key crude oil supplier to India, Russia’s Ambassador to India, Denis Alipov, said in an interview with Asian News International, in which he also criticized the planned U.S. legislation to slap tarif"
     },
     {
       "category": "macro",
