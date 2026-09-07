@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T15:13:10.110458+00:00",
+  "generated_at": "2026-09-07T15:41:32.679548+00:00",
   "stories": [
     {
       "category": "macro",
@@ -120,12 +120,12 @@
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "Mon, 07 Sep 2026 04:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Goldman Sachs Warns Oil Could Hit $120 as Shipping Risks Rise",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Oil prices could surge to as much as $120 per barrel if attacks on shipping in the Middle East intensify, according to Goldman Sachs. “Events over the last few days do suggest that the risk of shipping disruptions broade"
+      "impact": "medium",
+      "time": "2026-09-08T09:15:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "GBP Monetary Policy Report Hearings",
+      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
     }
   ]
 }
