@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T09:13:59.434694+00:00",
+  "generated_at": "2026-09-07T09:43:01.738882+00:00",
   "stories": [
     {
       "category": "macro",
@@ -94,6 +94,15 @@
     {
       "category": "macro",
       "impact": "high",
+      "time": "Mon, 07 Sep 2026 04:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Goldman Sachs Warns Oil Could Hit $120 as Shipping Risks Rise",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Oil prices could surge to as much as $120 per barrel if attacks on shipping in the Middle East intensify, according to Goldman Sachs. “Events over the last few days do suggest that the risk of shipping disruptions broade"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
       "time": "Mon, 07 Sep 2026 00:50:00 -0500",
       "source": "OilPrice.com",
       "headline": "Shipping Fuel Shortage Looms as Refiners Prioritize Diesel",
@@ -116,15 +125,6 @@
       "source": "ForexFactory calendar",
       "headline": "GBP Monetary Policy Report Hearings",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-09T13:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR ECB President Lagarde Speaks",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     }
   ]
