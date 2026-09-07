@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-07T13:14:11.987914+00:00",
+  "generated_at": "2026-09-07T13:42:56.495386+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Mon, 07 Sep 2026 08:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "High Crude and LNG Prices Weigh on India’s Oil and Gas Sector",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The renewed rally in crude oil and LNG prices and the higher freight costs are pressuring the marketing margins of India’s oil and gas sector, which has to contend with the fallout of the Iran war on global oil and LNG t"
+    },
     {
       "category": "macro",
       "impact": "critical",
@@ -117,15 +126,6 @@
       "headline": "Shipping Fuel Shortage Looms as Refiners Prioritize Diesel",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Supply of fuel oil for the shipping industry is getting squeezed by the war-driven tightness in diesel fuel, as refiners prioritize the latter over the former, Reuters has reported, with Asia set to suffer the most sever"
-    },
-    {
-      "category": "geo",
-      "impact": "high",
-      "time": "Sun, 06 Sep 2026 22:40:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Oil Prices Climb After U.S. Strikes Three Iranian Tankers and Iran Vows Revenge",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Oil prices edged higher in early Asian trade on Monday following another weekend of escalation in the U.S.-Iran war.  At the time of writing, WTI was trading at $92.14 per barrel, up 0.72% on the session, while Brent had"
     }
   ]
 }
