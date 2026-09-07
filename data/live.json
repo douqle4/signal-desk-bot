@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T03:13:08.336734+00:00",
+  "generated_at": "2026-09-07T03:42:35.579266+00:00",
   "stories": [
     {
       "category": "geo",
@@ -101,6 +101,15 @@
       "summary": "Forecast: 3.4% · Previous: 3.4%"
     },
     {
+      "category": "geo",
+      "impact": "high",
+      "time": "Sun, 06 Sep 2026 22:40:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Oil Prices Climb After U.S. Strikes Three Iranian Tankers and Iran Vows Revenge",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Oil prices edged higher in early Asian trade on Monday following another weekend of escalation in the U.S.-Iran war.  At the time of writing, WTI was trading at $92.14 per barrel, up 0.72% on the session, while Brent had"
+    },
+    {
       "category": "macro",
       "impact": "medium",
       "time": "2026-09-08T09:15:00-04:00",
@@ -117,15 +126,6 @@
       "headline": "EUR ECB President Lagarde Speaks",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-10T08:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Unemployment Claims",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 205K · Previous: 206K"
     }
   ]
 }
