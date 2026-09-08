@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T18:44:36.955732+00:00",
+  "generated_at": "2026-09-08T19:11:54.834420+00:00",
   "stories": [
     {
       "category": "macro",
@@ -101,15 +101,6 @@
       "summary": "The United States has imposed sanctions on a Turkish investment bank and two subsidiaries, accusing them of helping Iran move oil revenue and providing access to the international financial system as Washington intensifi"
     },
     {
-      "category": "geo",
-      "impact": "high",
-      "time": "Tue, 08 Sep 2026 10:13:18 -0500",
-      "source": "OilPrice.com",
-      "headline": "Oil Prices Are Once Again on the Brink of $100",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Oil prices surge toward $100 as Houthi attacks, U.S. strikes on Iranian tankers and renewed Middle East tensions rattle markets.   Europe’s Gas Prices Surge as Storage Fears Return - European natural gas prices have jump"
-    },
-    {
       "category": "macro",
       "impact": "medium",
       "time": "2026-09-08T09:15:00-04:00",
@@ -126,6 +117,15 @@
       "headline": "USD Unemployment Claims",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 205K · Previous: 206K"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-11T05:15:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "CHF SNB Chairman Schlegel Speaks",
+      "why": "Scheduled CHF data release — historically moves CHF pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
     }
   ]
 }
