@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T06:46:04.553364+00:00",
+  "generated_at": "2026-09-08T07:14:04.017759+00:00",
   "stories": [
     {
       "category": "macro",
@@ -92,6 +92,15 @@
       "summary": "Forecast: 3.4% · Previous: 3.4%"
     },
     {
+      "category": "macro",
+      "impact": "high",
+      "time": "Tue, 08 Sep 2026 02:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Germany Faces Winter Gas Shortage Risk as Storage Lags",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Germany is risking gas shortages this winter if it turns out to be colder than previous years, the country’s gas storage association has warned. With current gas storage levels at 54.52%, the industry association, INES, "
+    },
+    {
       "category": "geo",
       "impact": "high",
       "time": "Mon, 07 Sep 2026 16:00:00 -0500",
@@ -117,15 +126,6 @@
       "headline": "EUR ECB President Lagarde Speaks",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-10T08:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Unemployment Claims",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 205K · Previous: 206K"
     }
   ]
 }
