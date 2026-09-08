@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T17:40:02.933341+00:00",
+  "generated_at": "2026-09-08T18:15:29.858652+00:00",
   "stories": [
     {
       "category": "macro",
@@ -94,29 +94,20 @@
     {
       "category": "geo",
       "impact": "high",
+      "time": "Tue, 08 Sep 2026 13:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "How the U.S. Is Targeting Iran's Oil Money",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The United States has imposed sanctions on a Turkish investment bank and two subsidiaries, accusing them of helping Iran move oil revenue and providing access to the international financial system as Washington intensifi"
+    },
+    {
+      "category": "geo",
+      "impact": "high",
       "time": "Tue, 08 Sep 2026 10:13:18 -0500",
       "source": "OilPrice.com",
       "headline": "Oil Prices Are Once Again on the Brink of $100",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Oil prices surge toward $100 as Houthi attacks, U.S. strikes on Iranian tankers and renewed Middle East tensions rattle markets.   Europe’s Gas Prices Surge as Storage Fears Return - European natural gas prices have jump"
-    },
-    {
-      "category": "geo",
-      "impact": "high",
-      "time": "Tue, 08 Sep 2026 09:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "$100 Brent Looms as China’s Oil Buying Rebounds",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "One of the reasons why the price of oil failed to soar during the \"actively kinetic\" phase of the Iran war, when shipments through Hormuz were effectively halted and the world faced a shortage of about 10-15 million barr"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "Tue, 08 Sep 2026 08:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Oil Tankers Flood Back Into Suez Canal As Red Sea Risk Grows",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Suez Canal's revenue jumped by 42% in July from the same month last year as the number of oil tankers passing through the Egyptian gateway to the Mediterranean surged amid threats to shipping in the southern Red Sea and "
     },
     {
       "category": "macro",
@@ -126,6 +117,15 @@
       "headline": "GBP Monetary Policy Report Hearings",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-10T08:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Unemployment Claims",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 205K · Previous: 206K"
     }
   ]
 }
