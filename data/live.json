@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T11:12:33.786610+00:00",
+  "generated_at": "2026-09-09T11:41:51.135939+00:00",
   "stories": [
     {
       "category": "geo",
@@ -9,15 +9,6 @@
       "headline": "Iran’s Oil Exports Collapse as Hormuz Standoff Drags On",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "More than six months after the U.S.-Iran war began, shipping traffic at the Strait of Hormuz remains disrupted, and oil prices are once again closing in on the $100 per barrel mark. The U.S. and Iran remain deadlocked at"
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Tue, 08 Sep 2026 18:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Hedge Funds Pile Into Fuels as U.S. Supply Squeeze Deepens",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "For the first four months of the war between the United States and Israel and Iran, oil traders remained largely bearish. The overwhelming expectation was that the war would end soon—even as July rolled around—and oil fl"
     },
     {
       "category": "macro",
@@ -126,6 +117,15 @@
       "headline": "GBP Monetary Policy Report Hearings",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-10T08:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Unemployment Claims",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 205K · Previous: 206K"
     }
   ]
 }
