@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-09-09T12:16:35.331466+00:00",
+  "generated_at": "2026-09-09T12:46:40.278951+00:00",
   "stories": [
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Tue, 08 Sep 2026 19:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Iran’s Oil Exports Collapse as Hormuz Standoff Drags On",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "More than six months after the U.S.-Iran war began, shipping traffic at the Strait of Hormuz remains disrupted, and oil prices are once again closing in on the $100 per barrel mark. The U.S. and Iran remain deadlocked at"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -126,6 +117,15 @@
       "headline": "USD President Trump Speaks",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-10T08:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Unemployment Claims",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 205K · Previous: 206K"
     }
   ]
 }
