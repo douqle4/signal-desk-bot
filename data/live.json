@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T19:38:53.148916+00:00",
+  "generated_at": "2026-09-09T20:12:58.758856+00:00",
   "stories": [
     {
       "category": "geo",
@@ -110,21 +110,21 @@
       "summary": "The United States has imposed sanctions on all of Iran's remaining active airlines, sharply escalating pressure on Tehran's aviation sector as part of a broader campaign aimed at cutting the Islamic Republic off from int"
     },
     {
-      "category": "minerals",
-      "impact": "high",
-      "time": "Wed, 09 Sep 2026 10:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Copper Hits Record Highs While Smelters Lose Money on Every Ton",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Copper is trading at record prices, and the people who turn raw ore into usable metal can't make money doing it. That's the copper market right now, and it says more about who actually controls the world's most important"
-    },
-    {
       "category": "macro",
       "impact": "medium",
       "time": "2026-09-08T09:15:00-04:00",
       "source": "ForexFactory calendar",
       "headline": "GBP Monetary Policy Report Hearings",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-09T21:15:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD President Trump Speaks",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     }
   ]
