@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T18:43:26.189277+00:00",
+  "generated_at": "2026-09-09T19:11:20.517220+00:00",
   "stories": [
     {
       "category": "geo",
@@ -120,12 +120,12 @@
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "Wed, 09 Sep 2026 09:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "California Heat Wave Tests Grid as Power Demand Surges",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The National Weather Service has issued heat advisories across California's Central Valley and coastal areas, including the Bay Area and Los Angeles, with more severe extreme heat warnings in parts of Southern California"
+      "impact": "medium",
+      "time": "2026-09-08T09:15:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "GBP Monetary Policy Report Hearings",
+      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
     }
   ]
 }
