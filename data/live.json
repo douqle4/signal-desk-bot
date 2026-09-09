@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-08T23:39:09.777870+00:00",
+  "generated_at": "2026-09-09T00:21:11.078240+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Tue, 08 Sep 2026 19:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Iran’s Oil Exports Collapse as Hormuz Standoff Drags On",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "More than six months after the U.S.-Iran war began, shipping traffic at the Strait of Hormuz remains disrupted, and oil prices are once again closing in on the $100 per barrel mark. The U.S. and Iran remain deadlocked at"
+    },
     {
       "category": "geo",
       "impact": "critical",
@@ -117,15 +126,6 @@
       "headline": "How the U.S. Is Targeting Iran's Oil Money",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "The United States has imposed sanctions on a Turkish investment bank and two subsidiaries, accusing them of helping Iran move oil revenue and providing access to the international financial system as Washington intensifi"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-08T09:15:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "GBP Monetary Policy Report Hearings",
-      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
     }
   ]
 }
