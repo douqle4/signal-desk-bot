@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-09T15:43:35.312914+00:00",
+  "generated_at": "2026-09-09T16:13:42.646193+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Wed, 09 Sep 2026 11:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Bank of England Warns Iran War Could Push UK Inflation Above 4%",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Bank of England governor Andrew Bailey has warned inflationary pressures are still buffeting the UK economy and energy prices could rise further next year if the war in Iran continues. Speaking to MPs on Tuesday, the Ban"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -108,15 +117,6 @@
       "headline": "California Heat Wave Tests Grid as Power Demand Surges",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "The National Weather Service has issued heat advisories across California's Central Valley and coastal areas, including the Bay Area and Los Angeles, with more severe extreme heat warnings in parts of Southern California"
-    },
-    {
-      "category": "minerals",
-      "impact": "high",
-      "time": "Wed, 09 Sep 2026 05:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "India’s Refineries Run at Up to 108% as Diesel Demand Surges",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "India’s refineries have been running at 105% to 108% capacity utilization in the past six months as demand for diesel soars and international fuel markets tighten amid the ongoing Middle East crisis. Refinery capacity ut"
     },
     {
       "category": "macro",
