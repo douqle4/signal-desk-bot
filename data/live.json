@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T10:13:21.995005+00:00",
+  "generated_at": "2026-09-09T10:42:27.302272+00:00",
   "stories": [
     {
       "category": "geo",
@@ -110,6 +110,15 @@
       "summary": "Forecast: 3.4% · Previous: 3.4%"
     },
     {
+      "category": "minerals",
+      "impact": "high",
+      "time": "Wed, 09 Sep 2026 05:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "India’s Refineries Run at Up to 108% as Diesel Demand Surges",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "India’s refineries have been running at 105% to 108% capacity utilization in the past six months as demand for diesel soars and international fuel markets tighten amid the ongoing Middle East crisis. Refinery capacity ut"
+    },
+    {
       "category": "macro",
       "impact": "medium",
       "time": "2026-09-08T09:15:00-04:00",
@@ -117,15 +126,6 @@
       "headline": "GBP Monetary Policy Report Hearings",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-10T08:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Unemployment Claims",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 205K · Previous: 206K"
     }
   ]
 }
