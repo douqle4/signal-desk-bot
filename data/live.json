@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T03:42:21.764605+00:00",
+  "generated_at": "2026-09-09T04:12:55.385192+00:00",
   "stories": [
     {
       "category": "geo",
@@ -119,13 +119,13 @@
       "summary": "Copper futures in London reached a record high on Tuesday as expectations of US tariffs drew record volumes from the seaborne market into US warehouses, tightening availability elsewhere despite subdued demand. As we hig"
     },
     {
-      "category": "geo",
-      "impact": "high",
-      "time": "Tue, 08 Sep 2026 13:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "How the U.S. Is Targeting Iran's Oil Money",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The United States has imposed sanctions on a Turkish investment bank and two subsidiaries, accusing them of helping Iran move oil revenue and providing access to the international financial system as Washington intensifi"
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-08T09:15:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "GBP Monetary Policy Report Hearings",
+      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
     }
   ]
 }
