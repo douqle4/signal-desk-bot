@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T17:40:41.396995+00:00",
+  "generated_at": "2026-09-09T18:16:28.535678+00:00",
   "stories": [
     {
       "category": "geo",
@@ -101,6 +101,15 @@
       "summary": "Forecast: 3.4% · Previous: 3.4%"
     },
     {
+      "category": "geo",
+      "impact": "high",
+      "time": "Wed, 09 Sep 2026 13:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "U.S. Moves to Isolate Iran’s Aviation Sector From the Global Economy",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The United States has imposed sanctions on all of Iran's remaining active airlines, sharply escalating pressure on Tehran's aviation sector as part of a broader campaign aimed at cutting the Islamic Republic off from int"
+    },
+    {
       "category": "minerals",
       "impact": "high",
       "time": "Wed, 09 Sep 2026 10:00:00 -0500",
@@ -117,15 +126,6 @@
       "headline": "California Heat Wave Tests Grid as Power Demand Surges",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "The National Weather Service has issued heat advisories across California's Central Valley and coastal areas, including the Bay Area and Los Angeles, with more severe extreme heat warnings in parts of Southern California"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-08T09:15:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "GBP Monetary Policy Report Hearings",
-      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
     }
   ]
 }
