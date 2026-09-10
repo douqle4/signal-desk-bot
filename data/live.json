@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T20:41:01.087366+00:00",
+  "generated_at": "2026-09-10T21:11:28.368469+00:00",
   "stories": [
     {
       "category": "macro",
@@ -92,6 +92,15 @@
       "summary": "Forecast: 3.4% · Previous: 3.4%"
     },
     {
+      "category": "macro",
+      "impact": "high",
+      "time": "Thu, 10 Sep 2026 16:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "How China Became the World's First Electrostate",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "More Top Reads From Oilprice.com\n\nDiesel Crunch Set to Worsen as Refining Capacity Falls Short, Industry Warns\nRussia Strikes Moldova Border as Ukraine Hits Black Sea Port\nPermian Gas Has Been Worth Less Than Nothing for"
+    },
+    {
       "category": "minerals",
       "impact": "high",
       "time": "Thu, 10 Sep 2026 15:00:00 -0500",
@@ -116,15 +125,6 @@
       "source": "ForexFactory calendar",
       "headline": "GBP Monetary Policy Report Hearings",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-09T21:15:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD President Trump Speaks",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     }
   ]
