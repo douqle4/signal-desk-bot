@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T09:13:11.624195+00:00",
+  "generated_at": "2026-09-10T09:42:29.022233+00:00",
   "stories": [
     {
       "category": "geo",
@@ -9,15 +9,6 @@
       "headline": "Oil Holds Above $100 as U.S.-Iran Tanker War Escalates",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Crude oil prices held near recent highs after rallying sharply earlier this week, with gains driven by an escalation in the U.S.-Iran conflict and intensifying attacks on tankers in the Persian Gulf. Iran reported hits o"
-    },
-    {
-      "category": "macro",
-      "impact": "critical",
-      "time": "Wed, 09 Sep 2026 16:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Negative Power Prices Are Piling Up Across Europe",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Europe desperately needs to ramp up its energy storage capacity if it wants to avoid another energy crisis. In the wake of Vladimir Putin's invasion of Ukraine back in 2022, the European Union made major strides in build"
     },
     {
       "category": "macro",
@@ -126,6 +117,15 @@
       "headline": "USD President Trump Speaks",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-10T08:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Unemployment Claims",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 205K · Previous: 206K"
     }
   ]
 }
