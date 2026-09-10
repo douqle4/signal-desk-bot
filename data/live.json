@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-10T05:12:04.539385+00:00",
+  "generated_at": "2026-09-10T05:41:20.276266+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Thu, 10 Sep 2026 00:35:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Oil Holds Above $100 as U.S.-Iran Tanker War Escalates",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Crude oil prices held near recent highs after rallying sharply earlier this week, with gains driven by an escalation in the U.S.-Iran conflict and intensifying attacks on tankers in the Persian Gulf. Iran reported hits o"
+    },
     {
       "category": "macro",
       "impact": "critical",
@@ -117,15 +126,6 @@
       "headline": "USD President Trump Speaks",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-10T08:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Unemployment Claims",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 205K · Previous: 206K"
     }
   ]
 }
