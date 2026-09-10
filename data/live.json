@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-10T14:12:26.104888+00:00",
+  "generated_at": "2026-09-10T14:43:25.757156+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Thu, 10 Sep 2026 09:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "IEA: Global Coal Demand Set to Hit Record High as Iran War Chokes LNG Supply",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Soaring LNG prices due to the Strait of Hormuz blockage are prompting economies to shift to alternative energy sources, pushing coal demand to a another record high this year, the International Energy Agency (IEA) said i"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -116,15 +125,6 @@
       "source": "ForexFactory calendar",
       "headline": "GBP Monetary Policy Report Hearings",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-09T21:15:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD President Trump Speaks",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     }
   ]
