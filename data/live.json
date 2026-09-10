@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T15:42:27.629631+00:00",
+  "generated_at": "2026-09-10T16:13:40.565988+00:00",
   "stories": [
     {
       "category": "geo",
@@ -111,20 +111,20 @@
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "Thu, 10 Sep 2026 05:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Oil Tanker Rates Hit Record Highs as Middle East Shipping Risks Soar",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Oil tanker rates have jumped to record highs as escalating risks to shipping in and out of the Middle East are prompting traders and tanker operators to undertake inefficient and more expensive trade routes. While the cr"
-    },
-    {
-      "category": "macro",
       "impact": "medium",
       "time": "2026-09-08T09:15:00-04:00",
       "source": "ForexFactory calendar",
       "headline": "GBP Monetary Policy Report Hearings",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-09T21:15:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD President Trump Speaks",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     }
   ]
