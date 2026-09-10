@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-09-10T19:38:41.964948+00:00",
+  "generated_at": "2026-09-10T20:11:51.446027+00:00",
   "stories": [
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Thu, 10 Sep 2026 09:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "IEA: Global Coal Demand Set to Hit Record High as Iran War Chokes LNG Supply",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Soaring LNG prices due to the Strait of Hormuz blockage are prompting economies to shift to alternative energy sources, pushing coal demand to a another record high this year, the International Energy Agency (IEA) said i"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -99,6 +90,15 @@
       "headline": "USD CPI y/y",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 3.4% · Previous: 3.4%"
+    },
+    {
+      "category": "minerals",
+      "impact": "high",
+      "time": "Thu, 10 Sep 2026 15:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Copper Stocks Sink as White House Tariff Uncertainty Spooks Traders",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Copper future and related stocks plunged on Thursday morning after a Reuters report said that the White House's \"copper tariff plan stalls amid affordability concerns.\" The Trump administration has yet to decide whether "
     },
     {
       "category": "macro",
