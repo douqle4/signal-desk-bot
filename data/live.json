@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-09-10T13:42:06.133338+00:00",
+  "generated_at": "2026-09-10T14:12:26.104888+00:00",
   "stories": [
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Thu, 10 Sep 2026 00:35:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Oil Holds Above $100 as U.S.-Iran Tanker War Escalates",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Crude oil prices held near recent highs after rallying sharply earlier this week, with gains driven by an escalation in the U.S.-Iran conflict and intensifying attacks on tankers in the Persian Gulf. Iran reported hits o"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -99,6 +90,15 @@
       "headline": "USD CPI y/y",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 3.4% · Previous: 3.4%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "Thu, 10 Sep 2026 09:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Russia Strikes Moldova Border as Ukraine Hits Black Sea Port",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "A Russian drone attack targeted a border crossing between Ukraine and Moldova, killing two people and injuring three others, while Russian drones also struck in Kyiv, as Moscow continues its campaign of near-continuous s"
     },
     {
       "category": "macro",
