@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-11T05:12:06.198042+00:00",
+  "generated_at": "2026-09-11T05:40:56.809947+00:00",
   "stories": [
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Fri, 11 Sep 2026 00:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Oil Prices Surge to Four-Month Highs as War Risks Mount",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Crude oil prices extended their climb this week, reaching the highest since May as hostilities in the Gulf continue and the prospect of peace gets even more remote. At the time of writing, Brent crude was trading at $107"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -117,15 +126,6 @@
       "headline": "US Natural Gas Market Verging on Record Growth",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "US natural gas production is projected to reach a record high of 111.7 billion cubic feet per day (bcfd) in 2026, up from 107.6 bcfd in 2025, according to the U.S. Energy Information Administration (EIA). By 2027, domest"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-08T09:15:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "GBP Monetary Policy Report Hearings",
-      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
     }
   ]
 }
