@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T06:16:28.259521+00:00",
+  "generated_at": "2026-09-11T06:45:26.980108+00:00",
   "stories": [
     {
       "category": "macro",
@@ -120,12 +120,12 @@
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "Thu, 10 Sep 2026 14:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "US Natural Gas Market Verging on Record Growth",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "US natural gas production is projected to reach a record high of 111.7 billion cubic feet per day (bcfd) in 2026, up from 107.6 bcfd in 2025, according to the U.S. Energy Information Administration (EIA). By 2027, domest"
+      "impact": "medium",
+      "time": "2026-09-08T09:15:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "GBP Monetary Policy Report Hearings",
+      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
     }
   ]
 }
