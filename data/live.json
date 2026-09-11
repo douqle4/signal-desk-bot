@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T16:41:51.770916+00:00",
+  "generated_at": "2026-09-11T17:11:26.842519+00:00",
   "stories": [
     {
       "category": "macro",
@@ -94,6 +94,15 @@
     {
       "category": "macro",
       "impact": "high",
+      "time": "Fri, 11 Sep 2026 12:04:36 -0500",
+      "source": "OilPrice.com",
+      "headline": "Drone Strikes Hit Saudi Arabia’s Vital East-West Oil Pipeline",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Saudi Arabia’s critical East-West oil pipeline system was struck on Thursday, with multiple pumping stations hit in an attack that could threaten one of the kingdom’s most important crude export routes, according to CNN,"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
       "time": "Fri, 11 Sep 2026 11:05:00 -0500",
       "source": "OilPrice.com",
       "headline": "Saudi Arabia’s Critical Oil Bypass Comes Under Threat",
@@ -117,15 +126,6 @@
       "headline": "IEA Sees 5.7 Million Bpd Oil Supply Plunge as Gulf Recovery Slips to 2027",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "The IEA just took another 1.4 million barrels per day out of its 2026 global oil supply outlook, and it no longer expects normal Gulf flows to return this year, according to a new agency report released on Friday. Global"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-08T09:15:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "GBP Monetary Policy Report Hearings",
-      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
     }
   ]
 }
