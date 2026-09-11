@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T15:12:21.944478+00:00",
+  "generated_at": "2026-09-11T15:41:35.567190+00:00",
   "stories": [
     {
       "category": "macro",
@@ -93,6 +93,15 @@
     },
     {
       "category": "macro",
+      "impact": "high",
+      "time": "Fri, 11 Sep 2026 10:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "IEA Sees 5.7 Million Bpd Oil Supply Plunge as Gulf Recovery Slips to 2027",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The IEA just took another 1.4 million barrels per day out of its 2026 global oil supply outlook, and it no longer expects normal Gulf flows to return this year, according to a new agency report released on Friday. Global"
+    },
+    {
+      "category": "macro",
       "impact": "medium",
       "time": "2026-09-08T09:15:00-04:00",
       "source": "ForexFactory calendar",
@@ -117,15 +126,6 @@
       "headline": "USD Unemployment Claims",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 205K · Previous: 206K"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-11T05:15:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "CHF SNB Chairman Schlegel Speaks",
-      "why": "Scheduled CHF data release — historically moves CHF pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
     }
   ]
 }
