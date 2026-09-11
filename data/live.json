@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-09-11T13:42:06.828952+00:00",
+  "generated_at": "2026-09-11T14:13:04.691117+00:00",
   "stories": [
-    {
-      "category": "macro",
-      "impact": "critical",
-      "time": "Fri, 11 Sep 2026 05:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Hormuz Shipping Traffic Plunges as Middle East War Escalates",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Ship traffic through the Strait of Hormuz slumped to single digits on Thursday, down from a 10-day average of 15 vessels that transited the chokepoint in both directions, Reuters reports, citing preliminary vessel-tracki"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -126,6 +117,15 @@
       "headline": "USD Unemployment Claims",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 205K · Previous: 206K"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-11T05:15:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "CHF SNB Chairman Schlegel Speaks",
+      "why": "Scheduled CHF data release — historically moves CHF pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
     }
   ]
 }
