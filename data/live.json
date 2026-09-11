@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T21:38:09.982339+00:00",
+  "generated_at": "2026-09-11T22:12:18.367563+00:00",
   "stories": [
     {
       "category": "macro",
@@ -94,6 +94,15 @@
     {
       "category": "macro",
       "impact": "high",
+      "time": "Fri, 11 Sep 2026 17:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Europe's \"Less\" Is Doing More Than Anyone Gives It Credit For",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Brent is sitting a touch above $104 this morning, down slightly from yesterday's surge. The Strait of Hormuz, which used to move something like a fifth of the world's oil and LNG before the war, has been effectively shut"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
       "time": "Fri, 11 Sep 2026 12:04:36 -0500",
       "source": "OilPrice.com",
       "headline": "Drone Strikes Hit Saudi Arabia’s Vital East-West Oil Pipeline",
@@ -117,15 +126,6 @@
       "headline": "Supertanker Rates Hit $800,000 a Day as Gulf Tensions Escalate",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Supertanker rates on the Baltic Exchange's benchmark Middle East-to-China shipping route have surged to a staggering $800,000 a day. With US forces having destroyed five Iranian-linked tankers and Tehran threatening furt"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "Fri, 11 Sep 2026 10:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "IEA Sees 5.7 Million Bpd Oil Supply Plunge as Gulf Recovery Slips to 2027",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The IEA just took another 1.4 million barrels per day out of its 2026 global oil supply outlook, and it no longer expects normal Gulf flows to return this year, according to a new agency report released on Friday. Global"
     }
   ]
 }
