@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T18:40:22.599575+00:00",
+  "generated_at": "2026-09-12T19:10:11.216200+00:00",
   "stories": [
     {
       "category": "macro",
@@ -102,15 +102,6 @@
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "Fri, 11 Sep 2026 12:04:36 -0500",
-      "source": "OilPrice.com",
-      "headline": "Drone Strikes Hit Saudi Arabia’s Vital East-West Oil Pipeline",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Saudi Arabia’s critical East-West oil pipeline system was struck on Thursday, with multiple pumping stations hit in an attack that could threaten one of the kingdom’s most important crude export routes, according to CNN,"
-    },
-    {
-      "category": "macro",
       "impact": "medium",
       "time": "2026-09-08T09:15:00-04:00",
       "source": "ForexFactory calendar",
@@ -126,6 +117,15 @@
       "headline": "USD President Trump Speaks",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-10T08:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Unemployment Claims",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 205K · Previous: 206K"
     }
   ]
 }
