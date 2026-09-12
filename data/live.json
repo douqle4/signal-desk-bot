@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-12T22:40:57.943311+00:00",
+  "generated_at": "2026-09-12T23:11:21.446312+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Sat, 12 Sep 2026 18:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Oil Industry Braces for Years-Long Iran War",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Oil producers, traders, and refiners are bracing for a prolonged war between the United States and Iran in the Persian Gulf with little to no hope of a quick resolution. By extension, they are also preparing for higher p"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -117,15 +126,6 @@
       "headline": "USD President Trump Speaks",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-10T08:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Unemployment Claims",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 205K · Previous: 206K"
     }
   ]
 }
