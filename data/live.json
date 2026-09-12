@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T14:41:24.260983+00:00",
+  "generated_at": "2026-09-12T15:11:27.280716+00:00",
   "stories": [
     {
       "category": "macro",
@@ -119,13 +119,13 @@
       "summary": "Houthi strikes threaten Saudi oil exports as Brent hits $105 and Middle Eastern crude soars to $120. Friday, September 11, 2026 Houthi strikes on Saudi Arabia’s oil infrastructure have alerted the oil markets to the poss"
     },
     {
-      "category": "geo",
-      "impact": "high",
-      "time": "Fri, 11 Sep 2026 11:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Supertanker Rates Hit $800,000 a Day as Gulf Tensions Escalate",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Supertanker rates on the Baltic Exchange's benchmark Middle East-to-China shipping route have surged to a staggering $800,000 a day. With US forces having destroyed five Iranian-linked tankers and Tehran threatening furt"
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-08T09:15:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "GBP Monetary Policy Report Hearings",
+      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
     }
   ]
 }
