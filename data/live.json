@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T16:39:27.498012+00:00",
+  "generated_at": "2026-09-12T17:11:05.812656+00:00",
   "stories": [
     {
       "category": "macro",
@@ -111,20 +111,20 @@
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "Fri, 11 Sep 2026 11:05:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Saudi Arabia’s Critical Oil Bypass Comes Under Threat",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Houthi strikes threaten Saudi oil exports as Brent hits $105 and Middle Eastern crude soars to $120. Friday, September 11, 2026 Houthi strikes on Saudi Arabia’s oil infrastructure have alerted the oil markets to the poss"
-    },
-    {
-      "category": "macro",
       "impact": "medium",
       "time": "2026-09-08T09:15:00-04:00",
       "source": "ForexFactory calendar",
       "headline": "GBP Monetary Policy Report Hearings",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-09T21:15:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD President Trump Speaks",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     }
   ]
