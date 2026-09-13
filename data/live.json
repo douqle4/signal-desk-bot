@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T21:39:34.453734+00:00",
+  "generated_at": "2026-09-13T22:12:27.237381+00:00",
   "stories": [
     {
       "category": "geo",
@@ -62,7 +62,7 @@
       "source": "ForexFactory calendar",
       "headline": "USD Federal Funds Rate",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 3.75% · Previous: 3.75%"
+      "summary": "Forecast: 4.00% · Previous: 3.75%"
     },
     {
       "category": "macro",
