@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T04:40:20.154352+00:00",
+  "generated_at": "2026-09-13T05:11:43.171267+00:00",
   "stories": [
     {
       "category": "geo",
@@ -13,119 +13,119 @@
     {
       "category": "macro",
       "impact": "high",
-      "time": "2026-09-10T08:15:00-04:00",
+      "time": "2026-09-14T08:30:00-04:00",
       "source": "ForexFactory calendar",
-      "headline": "EUR Main Refinancing Rate",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 2.65% · Previous: 2.40%"
+      "headline": "CAD CPI m/m",
+      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: -0.1% · Previous: 0.5%"
     },
     {
       "category": "macro",
       "impact": "high",
-      "time": "2026-09-10T08:15:00-04:00",
+      "time": "2026-09-14T08:30:00-04:00",
       "source": "ForexFactory calendar",
-      "headline": "EUR Monetary Policy Statement",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
+      "headline": "CAD Median CPI y/y",
+      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 2.0% · Previous: 2.0%"
     },
     {
       "category": "macro",
       "impact": "high",
-      "time": "2026-09-10T08:30:00-04:00",
+      "time": "2026-09-14T08:30:00-04:00",
       "source": "ForexFactory calendar",
-      "headline": "USD Core PPI m/m",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 0.3% · Previous: 0.2%"
+      "headline": "CAD Trimmed CPI y/y",
+      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 1.9% · Previous: 1.9%"
     },
     {
       "category": "macro",
       "impact": "high",
-      "time": "2026-09-10T08:30:00-04:00",
+      "time": "2026-09-15T02:00:00-04:00",
       "source": "ForexFactory calendar",
-      "headline": "USD PPI m/m",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 0.4% · Previous: 0.0%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-09-10T08:45:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR ECB Press Conference",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-09-11T02:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "GBP GDP m/m",
+      "headline": "GBP Claimant Count Change",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 0.0% · Previous: 0.3%"
+      "summary": "Forecast: 8.3K · Previous: -11.0K"
     },
     {
       "category": "macro",
       "impact": "high",
-      "time": "2026-09-11T08:30:00-04:00",
+      "time": "2026-09-16T02:00:00-04:00",
       "source": "ForexFactory calendar",
-      "headline": "USD Core CPI m/m",
+      "headline": "GBP CPI y/y",
+      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 3.1% · Previous: 2.9%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-09-16T14:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Federal Funds Rate",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 0.2% · Previous: 0.2%"
+      "summary": "Previous: 3.75%"
     },
     {
       "category": "macro",
       "impact": "high",
-      "time": "2026-09-11T08:30:00-04:00",
+      "time": "2026-09-16T14:00:00-04:00",
       "source": "ForexFactory calendar",
-      "headline": "USD Core CPI y/y",
+      "headline": "USD FOMC Economic Projections",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 2.4% · Previous: 2.5%"
+      "summary": "Scheduled economic release."
     },
     {
       "category": "macro",
       "impact": "high",
-      "time": "2026-09-11T08:30:00-04:00",
+      "time": "2026-09-16T14:00:00-04:00",
       "source": "ForexFactory calendar",
-      "headline": "USD CPI m/m",
+      "headline": "USD FOMC Statement",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 0.4% · Previous: 0.1%"
+      "summary": "Scheduled economic release."
     },
     {
       "category": "macro",
       "impact": "high",
-      "time": "2026-09-11T08:30:00-04:00",
+      "time": "2026-09-16T14:30:00-04:00",
       "source": "ForexFactory calendar",
-      "headline": "USD CPI y/y",
+      "headline": "USD FOMC Press Conference",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 3.4% · Previous: 3.4%"
+      "summary": "Scheduled economic release."
     },
     {
       "category": "macro",
       "impact": "high",
-      "time": "Fri, 11 Sep 2026 17:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Europe's \"Less\" Is Doing More Than Anyone Gives It Credit For",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Brent is sitting a touch above $104 this morning, down slightly from yesterday's surge. The Strait of Hormuz, which used to move something like a fifth of the world's oil and LNG before the war, has been effectively shut"
+      "time": "2026-09-16T18:45:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "NZD GDP q/q",
+      "why": "Scheduled NZD data release — historically moves NZD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 0.1% · Previous: 0.8%"
     },
     {
       "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-08T09:15:00-04:00",
+      "impact": "high",
+      "time": "2026-09-17T07:00:00-04:00",
       "source": "ForexFactory calendar",
-      "headline": "GBP Monetary Policy Report Hearings",
+      "headline": "GBP Monetary Policy Summary",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     },
     {
       "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-09T21:15:00-04:00",
+      "impact": "high",
+      "time": "2026-09-17T07:00:00-04:00",
       "source": "ForexFactory calendar",
-      "headline": "USD President Trump Speaks",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
+      "headline": "GBP MPC Official Bank Rate Votes",
+      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 3-0-6 · Previous: 3-0-6"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-09-17T07:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "GBP Official Bank Rate",
+      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 3.75% · Previous: 3.75%"
     }
   ]
 }
