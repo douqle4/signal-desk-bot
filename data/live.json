@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-14T02:13:01.895622+00:00",
+  "generated_at": "2026-09-14T02:42:11.731051+00:00",
   "stories": [
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Sun, 13 Sep 2026 21:39:17 -0500",
+      "source": "OilPrice.com",
+      "headline": "Oil Prices Surge as Middle East Attacks Continue and Diplomacy Stumbles",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Oil prices initially jumped by over 3% in early Asian trade on Monday as fears of a major and extended supply disruption were stoked by continued attacks in the Middle East and the postponement of a crunch meeting betwee"
+    },
     {
       "category": "geo",
       "impact": "critical",
@@ -117,15 +126,6 @@
       "headline": "GBP MPC Official Bank Rate Votes",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Forecast: 3-0-6 · Previous: 3-0-6"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-09-17T07:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "GBP Official Bank Rate",
-      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 3.75% · Previous: 3.75%"
     }
   ]
 }
