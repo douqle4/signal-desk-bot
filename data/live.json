@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-14T22:42:34.595278+00:00",
+  "generated_at": "2026-09-14T23:11:29.937387+00:00",
   "stories": [
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Mon, 14 Sep 2026 18:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "$100 Oil Puts Central Banks Back on Inflation Alert",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Crude oil prices have extended their earlier gains into this week, with little chance of reversing course as the war in the Middle East expands and desire for a peaceful resolution seems to wane, as global oil stocks con"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -117,15 +126,6 @@
       "headline": "GBP Official Bank Rate",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Forecast: 3.75% · Previous: 3.75%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-09-17T22:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "JPY BOJ Policy Rate",
-      "why": "Scheduled JPY data release — historically moves JPY pairs, yields, and risk sentiment.",
-      "summary": "Forecast: <1.25% · Previous: <1.00%"
     }
   ]
 }
