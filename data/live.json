@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T16:43:32.809624+00:00",
+  "generated_at": "2026-09-14T17:11:18.884832+00:00",
   "stories": [
     {
       "category": "chips",
@@ -9,15 +9,6 @@
       "headline": "The U.S.-China AI War Has Kazakhstan Caught in the Crossfire",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "The United States and China each have initiatives racing to shape the future of artificial intelligence, and Kazakhstan may have to choose a side. As the only country to have joined both the American-led Pax Silica initi"
-    },
-    {
-      "category": "macro",
-      "impact": "critical",
-      "time": "Mon, 14 Sep 2026 07:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Chevron Expects LNG Prices To Remain High in the Short Term",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "LNG prices are set to remain at elevated levels over the next few months amid the massive supply disruption from the Middle East, Chevron Australia says. “I have a hard time seeing the prices come down” in the next six m"
     },
     {
       "category": "macro",
@@ -126,6 +117,15 @@
       "headline": "GBP MPC Official Bank Rate Votes",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Forecast: 3-0-6 · Previous: 3-0-6"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-09-17T07:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "GBP Official Bank Rate",
+      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 3.75% · Previous: 3.75%"
     }
   ]
 }
