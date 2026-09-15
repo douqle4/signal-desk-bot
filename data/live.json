@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T12:16:10.452192+00:00",
+  "generated_at": "2026-09-15T12:45:49.243841+00:00",
   "stories": [
     {
       "category": "geo",
@@ -9,15 +9,6 @@
       "headline": "LNG Demand in China and India Could Surge When Prices Normalize",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Depressed LNG demand in recent months in China and India is the result of spiking LNG prices due to the Middle East conflict, and consumption in the key Asian gas import markets is set to rebound once the war ends and pr"
-    },
-    {
-      "category": "macro",
-      "impact": "critical",
-      "time": "Mon, 14 Sep 2026 18:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "$100 Oil Puts Central Banks Back on Inflation Alert",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Crude oil prices have extended their earlier gains into this week, with little chance of reversing course as the war in the Middle East expands and desire for a peaceful resolution seems to wane, as global oil stocks con"
     },
     {
       "category": "macro",
@@ -126,6 +117,15 @@
       "headline": "GBP MPC Official Bank Rate Votes",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Forecast: 3-0-6 · Previous: 3-0-6"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-09-17T07:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "GBP Official Bank Rate",
+      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 3.75% · Previous: 3.75%"
     }
   ]
 }
