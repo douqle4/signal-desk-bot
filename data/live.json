@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-16T15:12:54.242163+00:00",
+  "generated_at": "2026-09-16T15:41:23.851557+00:00",
   "stories": [
+    {
+      "category": "minerals",
+      "impact": "critical",
+      "time": "Wed, 16 Sep 2026 10:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Russia Extends Diesel Export Ban Through October",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Russia will extend its ban on diesel exports for all fuel producers to October 31, Vedomosti reported Tuesday, citing delayed refinery maintenance and the need to rebuild fuel reserves before winter. The ban, expanded in"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -117,15 +126,6 @@
       "headline": "GBP Official Bank Rate",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Forecast: 3.75% · Previous: 3.75%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-09-17T22:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "JPY BOJ Policy Rate",
-      "why": "Scheduled JPY data release — historically moves JPY pairs, yields, and risk sentiment.",
-      "summary": "Forecast: <1.25% · Previous: <1.00%"
     }
   ]
 }
