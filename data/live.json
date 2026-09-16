@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-09-16T13:14:12.516382+00:00",
+  "generated_at": "2026-09-16T13:42:52.043959+00:00",
   "stories": [
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Tue, 15 Sep 2026 19:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Saudi Pipeline Outage Hits an Oil Market Running Out of Buffers",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The war in Iran that had to be over and won by the United States in about six weeks is now in its seventh month and the oil markets are starting to crack. Gone are most of the cushions the market had in the early weeks a"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -126,6 +117,15 @@
       "headline": "GBP Official Bank Rate",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Forecast: 3.75% · Previous: 3.75%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-09-17T22:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "JPY BOJ Policy Rate",
+      "why": "Scheduled JPY data release — historically moves JPY pairs, yields, and risk sentiment.",
+      "summary": "Forecast: <1.25% · Previous: <1.00%"
     }
   ]
 }
