@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-16T19:39:59.100788+00:00",
+  "generated_at": "2026-09-16T20:13:51.122636+00:00",
   "stories": [
+    {
+      "category": "chips",
+      "impact": "critical",
+      "time": "Wed, 16 Sep 2026 15:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "AI Data Centers Are Driving Southeast Asia's LNG Demand Through the Roof",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The artificial intelligence boom is sending Southeast Asia’s natural gas demand projections through the roof – but prolonged price hikes triggered by the war in Iran could turn the region toward renewable energies instea"
+    },
     {
       "category": "minerals",
       "impact": "critical",
@@ -117,15 +126,6 @@
       "headline": "GBP MPC Official Bank Rate Votes",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Forecast: 3-0-6 · Previous: 3-0-6"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-09-17T07:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "GBP Official Bank Rate",
-      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 3.75% · Previous: 3.75%"
     }
   ]
 }
