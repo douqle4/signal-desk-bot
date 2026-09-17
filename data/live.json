@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-09-17T19:11:26.549987+00:00",
+  "generated_at": "2026-09-17T19:39:56.898947+00:00",
   "stories": [
-    {
-      "category": "minerals",
-      "impact": "critical",
-      "time": "Thu, 17 Sep 2026 09:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Ukraine Hits Refinery as Moscow Prepares to Extend Diesel Export Ban",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Ukraine hit overnight an oil refinery near Moscow, damaging a processing plant co-owned by Rosneft and Gazprom Neft, as Russia prepares to extend its ban on diesel exports through the end of October. In a sign that Ukrai"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -126,6 +117,15 @@
       "headline": "GBP Official Bank Rate",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Forecast: 3.75% · Previous: 3.75%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-09-17T22:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "JPY BOJ Policy Rate",
+      "why": "Scheduled JPY data release — historically moves JPY pairs, yields, and risk sentiment.",
+      "summary": "Forecast: <1.25% · Previous: <1.00%"
     }
   ]
 }
