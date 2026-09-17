@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T08:14:38.607758+00:00",
+  "generated_at": "2026-09-17T08:41:02.153228+00:00",
   "stories": [
     {
       "category": "macro",
@@ -9,15 +9,6 @@
       "headline": "Inside Putin’s $135 Billion Arctic Gamble That Could Save His Ukraine War",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Back in early February 2022, Vladimir Putin had his first in-person meeting with his Chinese counterpart Xi Jinping for nearly two years, at the opening of the Winter Olympics ceremony in Beijing. To avoid disrupting thi"
-    },
-    {
-      "category": "chips",
-      "impact": "critical",
-      "time": "Wed, 16 Sep 2026 15:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "AI Data Centers Are Driving Southeast Asia's LNG Demand Through the Roof",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The artificial intelligence boom is sending Southeast Asia’s natural gas demand projections through the roof – but prolonged price hikes triggered by the war in Iran could turn the region toward renewable energies instea"
     },
     {
       "category": "macro",
@@ -126,6 +117,15 @@
       "headline": "GBP MPC Official Bank Rate Votes",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Forecast: 3-0-6 · Previous: 3-0-6"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-09-17T07:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "GBP Official Bank Rate",
+      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 3.75% · Previous: 3.75%"
     }
   ]
 }
