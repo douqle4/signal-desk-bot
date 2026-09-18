@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T09:12:40.897956+00:00",
+  "generated_at": "2026-09-18T09:40:46.005940+00:00",
   "stories": [
     {
       "category": "geo",
@@ -18,15 +18,6 @@
       "headline": "Saudi Pipeline Outage Could Deepen the Global Fuel Crunch",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "The temporary closure of the key onshore pipeline Saudi Arabia uses to bypass the Strait of Hormuz has added another shock to an oil market already struggling with six months of Middle East supply disruptions. And the da"
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Thu, 17 Sep 2026 15:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "U.S. and Houthis Open Talks as Saudi Oil Crisis Deepens",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "With assorted economic and military crises boiling all across the Middle East in the wake of his disastrous decision to launch a war on Iran, President Trump will meet with Persian Gulf leaders in New York next week, on "
     },
     {
       "category": "macro",
@@ -126,6 +117,15 @@
       "headline": "GBP Monetary Policy Summary",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-09-17T07:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "GBP MPC Official Bank Rate Votes",
+      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 3-0-6 · Previous: 3-0-6"
     }
   ]
 }
