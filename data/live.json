@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-17T23:37:53.103243+00:00",
+  "generated_at": "2026-09-18T00:17:29.496379+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Thu, 17 Sep 2026 19:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "What Yemen Really Means to the U.S.-Iran War",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Yemen's Houthis aren't fighting Iran's war, which complicates things further. They're running their own war and letting Iran's war pay for it. Their September 8 demands are the same ones they've held since rejecting a 20"
+    },
     {
       "category": "macro",
       "impact": "critical",
@@ -117,15 +126,6 @@
       "headline": "GBP Monetary Policy Summary",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-09-17T07:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "GBP MPC Official Bank Rate Votes",
-      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 3-0-6 · Previous: 3-0-6"
     }
   ]
 }
