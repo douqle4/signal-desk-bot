@@ -1,23 +1,14 @@
 {
-  "generated_at": "2026-09-18T12:15:42.602770+00:00",
+  "generated_at": "2026-09-18T12:44:39.965132+00:00",
   "stories": [
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Thu, 17 Sep 2026 19:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "What Yemen Really Means to the U.S.-Iran War",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Yemen's Houthis aren't fighting Iran's war, which complicates things further. They're running their own war and letting Iran's war pay for it. Their September 8 demands are the same ones they've held since rejecting a 20"
-    },
     {
       "category": "macro",
       "impact": "critical",
-      "time": "Thu, 17 Sep 2026 18:00:00 -0500",
+      "time": "Fri, 18 Sep 2026 07:30:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Saudi Pipeline Outage Could Deepen the Global Fuel Crunch",
+      "headline": "The Race to Build a World Beyond Hormuz",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The temporary closure of the key onshore pipeline Saudi Arabia uses to bypass the Strait of Hormuz has added another shock to an oil market already struggling with six months of Middle East supply disruptions. And the da"
+      "summary": "Every actor with the power to end this war has instead spent September building permanent infrastructure to live around it. The House voted for a third time Tuesday to curb Trump's war powers, passing the latest resoluti"
     },
     {
       "category": "macro",
@@ -126,6 +117,15 @@
       "headline": "GBP MPC Official Bank Rate Votes",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Forecast: 3-0-6 · Previous: 3-0-6"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-09-17T07:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "GBP Official Bank Rate",
+      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 3.75% · Previous: 3.75%"
     }
   ]
 }
