@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T18:40:45.741530+00:00",
+  "generated_at": "2026-09-20T19:10:16.076508+00:00",
   "stories": [
     {
       "category": "macro",
@@ -67,6 +67,15 @@
     {
       "category": "macro",
       "impact": "high",
+      "time": "Sun, 20 Sep 2026 14:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Hormuz Crisis to Push Global Coal Demand to Record High",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The International Energy Agency expects coal demand to increase this year in response to ongoing oil and gas trade constraints stemming from the closure of the Strait of Hormuz. Several countries have been forced to turn"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
       "time": "Sat, 19 Sep 2026 18:00:00 -0500",
       "source": "OilPrice.com",
       "headline": "Europe Outbids Asia for LNG as Prices Surge 150%",
@@ -117,15 +126,6 @@
       "headline": "EUR French Flash Services PMI",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Forecast: 48.4 · Previous: 48.4"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-23T03:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR German Flash Manufacturing PMI",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 54.0 · Previous: 54.1"
     }
   ]
 }
