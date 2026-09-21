@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T08:14:26.346650+00:00",
+  "generated_at": "2026-09-21T08:41:51.942094+00:00",
   "stories": [
     {
       "category": "geo",
@@ -84,15 +84,6 @@
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "Sat, 19 Sep 2026 18:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Europe Outbids Asia for LNG as Prices Surge 150%",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Liquefied natural gas prices on the spot market are moving higher as demand picks up seasonally and Asian importers are souring on the fuel. European buyers are stepping up purchases, however, despite the price. They hav"
-    },
-    {
-      "category": "macro",
       "impact": "medium",
       "time": "2026-09-21T11:00:00-04:00",
       "source": "ForexFactory calendar",
@@ -126,6 +117,15 @@
       "headline": "EUR French Flash Manufacturing PMI",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Forecast: 50.9 · Previous: 51.5"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-23T03:15:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR French Flash Services PMI",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 48.4 · Previous: 48.4"
     }
   ]
 }
