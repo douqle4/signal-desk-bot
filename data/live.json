@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-09-21T21:39:17.074542+00:00",
+  "generated_at": "2026-09-21T22:12:26.574827+00:00",
   "stories": [
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Mon, 21 Sep 2026 11:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Record Diesel Prices Raise Fears of Local Fuel Shortages",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Even as U.S. diesel and gasoline prices soared in the wake of the U.S.-Israeli war with Iran, both fuels remained widely available, just more expensive. Now, a few station owners are saying they are out of diesel, though"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -72,6 +63,15 @@
       "headline": "GBP BOE Gov Bailey Speaks",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
+    },
+    {
+      "category": "minerals",
+      "impact": "high",
+      "time": "Mon, 21 Sep 2026 17:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Global Refinery Crunch Pushes Diesel Prices to New Records",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "U.S. diesel prices broke another record last week, topping $6.50 per gallon. In Europe, fuel prices are soaring, and shortages are looming over already struggling economies. There is simply not enough refining capacity i"
     },
     {
       "category": "geo",
