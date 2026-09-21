@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T17:10:18.764834+00:00",
+  "generated_at": "2026-09-21T17:39:45.746292+00:00",
   "stories": [
     {
       "category": "geo",
@@ -102,15 +102,6 @@
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "Mon, 21 Sep 2026 08:51:13 -0500",
-      "source": "OilPrice.com",
-      "headline": "Saudi Arabia Reroutes Oil Exports as Houthi Strikes Target Yanbu",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Satellite images gathered by Bloomberg show supertankers with capacity for 14 million barrels at Saudi Arabia's Gulf export terminals over the weekend, the highest tanker count observed since at least June, according to "
-    },
-    {
-      "category": "macro",
       "impact": "medium",
       "time": "2026-09-21T11:00:00-04:00",
       "source": "ForexFactory calendar",
@@ -125,6 +116,15 @@
       "source": "ForexFactory calendar",
       "headline": "CAD BOC Gov Macklem Speaks",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-22T07:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR ECB President Lagarde Speaks",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     }
   ]
