@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T19:40:25.768594+00:00",
+  "generated_at": "2026-09-21T20:12:20.550348+00:00",
   "stories": [
     {
       "category": "geo",
@@ -74,6 +74,15 @@
       "summary": "Scheduled economic release."
     },
     {
+      "category": "geo",
+      "impact": "high",
+      "time": "Mon, 21 Sep 2026 15:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Where Is OPEC+? Riyadh and Moscow’s Silence Is Becoming Deafening",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "“The roar of the engines does not herald true dominance, but the absolute silence that precedes the strike.\" “Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt.\" The last decade"
+    },
+    {
       "category": "macro",
       "impact": "high",
       "time": "Mon, 21 Sep 2026 12:00:00 -0500",
@@ -117,15 +126,6 @@
       "headline": "EUR ECB President Lagarde Speaks",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-23T03:15:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR French Flash Manufacturing PMI",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 50.9 · Previous: 51.5"
     }
   ]
 }
