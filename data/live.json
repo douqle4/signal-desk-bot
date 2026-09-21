@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-09-21T13:41:06.126375+00:00",
+  "generated_at": "2026-09-21T14:12:43.641196+00:00",
   "stories": [
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Mon, 21 Sep 2026 00:45:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Oil Prices Slide as Traders Bet on Iran Diplomacy",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Crude oil prices started the week with a slide, moving down to the lowest in a week on renewed hopes about a diplomatic resolution of the war in the Middle East, despite the absence of any evidence that there is willingn"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -72,6 +63,15 @@
       "headline": "GBP BOE Gov Bailey Speaks",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "Mon, 21 Sep 2026 08:51:13 -0500",
+      "source": "OilPrice.com",
+      "headline": "Saudi Arabia Reroutes Oil Exports as Houthi Strikes Target Yanbu",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Satellite images gathered by Bloomberg show supertankers with capacity for 14 million barrels at Saudi Arabia's Gulf export terminals over the weekend, the highest tanker count observed since at least June, according to "
     },
     {
       "category": "macro",
