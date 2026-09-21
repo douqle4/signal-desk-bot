@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T14:12:43.641196+00:00",
+  "generated_at": "2026-09-21T14:41:47.957210+00:00",
   "stories": [
     {
       "category": "macro",
@@ -67,6 +67,15 @@
     {
       "category": "macro",
       "impact": "high",
+      "time": "Mon, 21 Sep 2026 09:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Wholesale Gas Prices Are Reaching Consumers Faster, ECB Says",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The surge in wholesale natural gas prices is set to pass through the retail and electricity inflation in the Eurozone faster than in the past, the European Central Bank (ECB) said in its Economic Bulletin on Monday. Whil"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
       "time": "Mon, 21 Sep 2026 08:51:13 -0500",
       "source": "OilPrice.com",
       "headline": "Saudi Arabia Reroutes Oil Exports as Houthi Strikes Target Yanbu",
@@ -117,15 +126,6 @@
       "headline": "EUR French Flash Services PMI",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Forecast: 48.4 · Previous: 48.4"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-23T03:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR German Flash Manufacturing PMI",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 54.0 · Previous: 54.1"
     }
   ]
 }
