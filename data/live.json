@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-21T05:41:24.166132+00:00",
+  "generated_at": "2026-09-21T06:18:02.578797+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Mon, 21 Sep 2026 00:45:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Oil Prices Slide as Traders Bet on Iran Diplomacy",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Crude oil prices started the week with a slide, moving down to the lowest in a week on renewed hopes about a diplomatic resolution of the war in the Middle East, despite the absence of any evidence that there is willingn"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -117,15 +126,6 @@
       "headline": "EUR French Flash Manufacturing PMI",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Forecast: 50.9 · Previous: 51.5"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-23T03:15:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR French Flash Services PMI",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 48.4 · Previous: 48.4"
     }
   ]
 }
