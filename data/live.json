@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-21T15:39:59.888850+00:00",
+  "generated_at": "2026-09-21T16:13:29.159870+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Mon, 21 Sep 2026 11:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Record Diesel Prices Raise Fears of Local Fuel Shortages",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Even as U.S. diesel and gasoline prices soared in the wake of the U.S.-Israeli war with Iran, both fuels remained widely available, just more expensive. Now, a few station owners are saying they are out of diesel, though"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -117,15 +126,6 @@
       "headline": "EUR ECB President Lagarde Speaks",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-23T03:15:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR French Flash Manufacturing PMI",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 50.9 · Previous: 51.5"
     }
   ]
 }
