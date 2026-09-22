@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-22T22:39:44.899628+00:00",
+  "generated_at": "2026-09-22T23:11:26.784131+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Tue, 22 Sep 2026 18:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Trump Proposes $5 Billion Fund to Rebuild Gulf Energy Infrastructure",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "U.S. President Donald Trump has proposed a fund to finance infrastructure rebuilding damaged in the war with Iran, offering $5 billion in U.S. money for starters. The information comes from the Wall Street Journal, which"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -117,15 +126,6 @@
       "headline": "EUR French Flash Manufacturing PMI",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Forecast: 50.9 · Previous: 51.5"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-23T03:15:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR French Flash Services PMI",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 48.3 · Previous: 48.4"
     }
   ]
 }
