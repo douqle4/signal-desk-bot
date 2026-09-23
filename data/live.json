@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T14:42:48.240324+00:00",
+  "generated_at": "2026-09-23T15:12:20.045595+00:00",
   "stories": [
     {
       "category": "geo",
@@ -74,6 +74,15 @@
       "summary": "Scheduled economic release."
     },
     {
+      "category": "minerals",
+      "impact": "high",
+      "time": "Wed, 23 Sep 2026 10:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Copper Erases Tariff Selloff as Shanghai Stockpiles Hit Three-Year Low",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Copper closed Tuesday a hair below its all-time high, extending its winning streak to six sessions as Chinese buyers restocked ahead of back-to-back holidays and warehouse inventories in Shanghai and London kept draining"
+    },
+    {
       "category": "macro",
       "impact": "medium",
       "time": "2026-09-21T11:00:00-04:00",
@@ -117,15 +126,6 @@
       "headline": "EUR French Flash Manufacturing PMI",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Forecast: 50.9 · Previous: 51.5"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-23T03:15:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR French Flash Services PMI",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 48.3 · Previous: 48.4"
     }
   ]
 }
