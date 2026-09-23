@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-23T05:11:47.781072+00:00",
+  "generated_at": "2026-09-23T05:40:48.955676+00:00",
   "stories": [
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Wed, 23 Sep 2026 00:35:19 -0500",
+      "source": "OilPrice.com",
+      "headline": "Trump Backs Diesel Export Ban as Prices Hit Record Highs",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "President Trump has declared his support for a potential ban on diesel fuel exports amid record-breaking prices at the pump. “I've said let's not send out the diesel. We make a lot of diesel ... I've called for it. I've "
+    },
     {
       "category": "geo",
       "impact": "critical",
@@ -117,15 +126,6 @@
       "headline": "USD President Trump Speaks",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-23T03:15:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR French Flash Manufacturing PMI",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 50.9 · Previous: 51.5"
     }
   ]
 }
