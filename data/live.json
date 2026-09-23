@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T13:42:23.779849+00:00",
+  "generated_at": "2026-09-23T14:13:36.180122+00:00",
   "stories": [
     {
       "category": "geo",
@@ -9,15 +9,6 @@
       "headline": "Asia's Crude Imports Hit Highest Level Since the Iran War Began",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Asia is set to import the highest volumes of crude oil in September since February this year, when the Iran war started, crippled supply from the Middle East, and forced buyers in Asia to slash purchases.  Asia is expect"
-    },
-    {
-      "category": "macro",
-      "impact": "critical",
-      "time": "Wed, 23 Sep 2026 00:35:19 -0500",
-      "source": "OilPrice.com",
-      "headline": "Trump Backs Diesel Export Ban as Prices Hit Record Highs",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "President Trump has declared his support for a potential ban on diesel fuel exports amid record-breaking prices at the pump. “I've said let's not send out the diesel. We make a lot of diesel ... I've called for it. I've "
     },
     {
       "category": "macro",
@@ -35,7 +26,7 @@
       "source": "ForexFactory calendar",
       "headline": "AUD Employment Change",
       "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 22.5K · Previous: -15.8K"
+      "summary": "Forecast: 21.5K · Previous: -15.8K"
     },
     {
       "category": "macro",
@@ -126,6 +117,15 @@
       "headline": "EUR French Flash Manufacturing PMI",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Forecast: 50.9 · Previous: 51.5"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-23T03:15:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR French Flash Services PMI",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 48.3 · Previous: 48.4"
     }
   ]
 }
