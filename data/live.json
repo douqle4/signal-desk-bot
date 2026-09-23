@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-23T21:40:04.060150+00:00",
+  "generated_at": "2026-09-23T22:12:34.727311+00:00",
   "stories": [
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Wed, 23 Sep 2026 17:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "White House Rules Out Diesel Export Ban as Prices Surge Above $6.50",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The White House on Wednesday denied that the Administration is considering a ban on U.S. diesel exports, clarifying comments from President Donald Trump and Treasury Secretary Scott Bessent a day earlier that appeared to"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -117,15 +126,6 @@
       "headline": "EUR French Flash Services PMI",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Forecast: 48.3 · Previous: 48.4"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-23T03:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR German Flash Manufacturing PMI",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 54.1 · Previous: 54.1"
     }
   ]
 }
