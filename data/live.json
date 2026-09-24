@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T13:43:25.997538+00:00",
+  "generated_at": "2026-09-24T14:13:29.153725+00:00",
   "stories": [
     {
       "category": "geo",
@@ -83,6 +83,15 @@
       "summary": "Scheduled economic release."
     },
     {
+      "category": "geo",
+      "impact": "high",
+      "time": "Thu, 24 Sep 2026 09:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "South Korea Follows Japan's Playbook With $22.3 Billion Texas Gas Bet",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Ten months, one tariff threat and several \"sleepless nights\" later, South Korea has finally found somewhere to put the first piece of the $350 billion it promised to invest in America. The winner is a gas-fired power com"
+    },
+    {
       "category": "macro",
       "impact": "medium",
       "time": "2026-09-21T11:00:00-04:00",
@@ -117,15 +126,6 @@
       "headline": "USD President Trump Speaks",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-23T03:15:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR French Flash Manufacturing PMI",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 50.9 · Previous: 51.5"
     }
   ]
 }
