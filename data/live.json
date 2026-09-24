@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T17:11:51.082545+00:00",
+  "generated_at": "2026-09-24T17:39:55.237259+00:00",
   "stories": [
     {
       "category": "geo",
@@ -9,15 +9,6 @@
       "headline": "Iran Warns U.S. Strikes Could Push War Into Indian Ocean",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "It was just this month that saw the Iran conflict spill over into a renewed fight between the Saudi coalition and Yemen's Houthi rebels. Now Iran is threatening to expand the fight further, even into the Indian Ocean. Ya"
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Thu, 24 Sep 2026 07:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Europe’s Gas Prices Jump as Hormuz Standoff Drags On",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Europe’s benchmark natural gas prices jumped by 4% at trade open in Amsterdam on Thursday, as the United States and Iran remain distant on how to end the war and put an end to the blocked LNG shipments at the Strait of H"
     },
     {
       "category": "macro",
@@ -125,6 +116,15 @@
       "source": "ForexFactory calendar",
       "headline": "CAD BOC Gov Macklem Speaks",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-22T07:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR ECB President Lagarde Speaks",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     }
   ]
