@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-24T18:15:32.071790+00:00",
+  "generated_at": "2026-09-24T21:41:58.884167+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Thu, 24 Sep 2026 16:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Can the World Hit 35% Electrification by 2035?",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The energy crisis caused by the United States and Israel’s war in Iran could be just what the world needed to achieve 35 percent electrification by 2035. This goal, “35 by ‘35” has emerged as a key platform of the upcomi"
+    },
     {
       "category": "geo",
       "impact": "critical",
@@ -76,29 +85,20 @@
     {
       "category": "geo",
       "impact": "high",
-      "time": "Thu, 24 Sep 2026 10:35:00 -0500",
+      "time": "Thu, 24 Sep 2026 15:00:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Russia Begins Oil Exports From Its Giant Vostok Arctic Project",
+      "headline": "Global Biofuels Output Could Surge 70% Amid Energy Crisis",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Russia has begun commercial crude exports from Rosneft’s Vostok Oil project, putting barrels on the water from its new Arctic terminal after years of sanctions, investor exits, and construction delays. Three ice-class ta"
+      "summary": "Global biofuels production is projected to surge by nearly 70% by 2030 as major producing countries raise their fuel-blending mandates in response to the energy crisis triggered by the Middle East conflict, a study co-au"
     },
     {
       "category": "macro",
       "impact": "high",
-      "time": "Thu, 24 Sep 2026 10:00:00 -0500",
+      "time": "Thu, 24 Sep 2026 13:30:00 -0500",
       "source": "OilPrice.com",
-      "headline": "China Could Cut Fuel Exports in October as Inventories Plunge",
+      "headline": "Saudi Oil Export Costs Surge as Red Sea Risks Mount",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "China could lower its fuel exports again in October, potentially tightening the global fuel market further, as domestic gasoline and diesel inventories have slumped to multi-year lows. China’s fuel exports recovered in A"
-    },
-    {
-      "category": "geo",
-      "impact": "high",
-      "time": "Thu, 24 Sep 2026 09:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "South Korea Follows Japan's Playbook With $22.3 Billion Texas Gas Bet",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Ten months, one tariff threat and several \"sleepless nights\" later, South Korea has finally found somewhere to put the first piece of the $350 billion it promised to invest in America. The winner is a gas-fired power com"
+      "summary": "Saudi Arabia’s workaround for the Strait of Hormuz now carries a war-risk insurance bill nearly as expensive as sending tankers through Hormuz itself. Quoted premiums for Saudi-linked tankers calling at the Red Sea port "
     },
     {
       "category": "macro",
