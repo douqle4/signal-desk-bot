@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-24T08:42:55.219046+00:00",
+  "generated_at": "2026-09-24T09:13:43.955385+00:00",
   "stories": [
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Thu, 24 Sep 2026 04:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Morgan Stanley: Diesel Export Ban Would Push U.S. Gas Prices Higher",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "U.S. gasoline prices will spike further if the Trump Administration bans diesel exports, Morgan Stanley analysts say, as restrictions remain a debate amid record-high diesel prices in America.  “A diesel export ban could"
+    },
     {
       "category": "macro",
       "impact": "critical",
@@ -117,15 +126,6 @@
       "headline": "EUR French Flash Manufacturing PMI",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Forecast: 50.9 · Previous: 51.5"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-23T03:15:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR French Flash Services PMI",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 48.3 · Previous: 48.4"
     }
   ]
 }
