@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T14:43:31.153768+00:00",
+  "generated_at": "2026-09-24T15:13:35.906163+00:00",
   "stories": [
     {
       "category": "geo",
@@ -83,6 +83,15 @@
       "summary": "Scheduled economic release."
     },
     {
+      "category": "macro",
+      "impact": "high",
+      "time": "Thu, 24 Sep 2026 10:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "China Could Cut Fuel Exports in October as Inventories Plunge",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "China could lower its fuel exports again in October, potentially tightening the global fuel market further, as domestic gasoline and diesel inventories have slumped to multi-year lows. China’s fuel exports recovered in A"
+    },
+    {
       "category": "geo",
       "impact": "high",
       "time": "Thu, 24 Sep 2026 09:00:00 -0500",
@@ -116,15 +125,6 @@
       "source": "ForexFactory calendar",
       "headline": "EUR ECB President Lagarde Speaks",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-22T09:55:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD President Trump Speaks",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     }
   ]
