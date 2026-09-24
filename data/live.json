@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T15:13:35.906163+00:00",
+  "generated_at": "2026-09-24T15:41:58.172388+00:00",
   "stories": [
     {
       "category": "geo",
@@ -9,15 +9,6 @@
       "headline": "Europe’s Gas Prices Jump as Hormuz Standoff Drags On",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Europe’s benchmark natural gas prices jumped by 4% at trade open in Amsterdam on Thursday, as the United States and Iran remain distant on how to end the war and put an end to the blocked LNG shipments at the Strait of H"
-    },
-    {
-      "category": "macro",
-      "impact": "critical",
-      "time": "Thu, 24 Sep 2026 04:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Morgan Stanley: Diesel Export Ban Would Push U.S. Gas Prices Higher",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "U.S. gasoline prices will spike further if the Trump Administration bans diesel exports, Morgan Stanley analysts say, as restrictions remain a debate amid record-high diesel prices in America.  “A diesel export ban could"
     },
     {
       "category": "macro",
@@ -81,6 +72,15 @@
       "headline": "GBP BOE Gov Bailey Speaks",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
+    },
+    {
+      "category": "geo",
+      "impact": "high",
+      "time": "Thu, 24 Sep 2026 10:35:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Russia Begins Oil Exports From Its Giant Vostok Arctic Project",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Russia has begun commercial crude exports from Rosneft’s Vostok Oil project, putting barrels on the water from its new Arctic terminal after years of sanctions, investor exits, and construction delays. Three ice-class ta"
     },
     {
       "category": "macro",
