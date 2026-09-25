@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T05:13:48.522380+00:00",
+  "generated_at": "2026-09-25T10:26:07.009650+00:00",
   "stories": [
     {
       "category": "geo",
@@ -18,15 +18,6 @@
       "headline": "Why a U.S. Diesel Export Ban Won’t Lower Fuel Prices",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "As the national average diesel price soared to a record $6.52 per gallon, the Trump Administration sent mixed signals this week about restricting U.S. diesel exports.  The White House has denied that an export ban is in "
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Thu, 24 Sep 2026 16:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Can the World Hit 35% Electrification by 2035?",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The energy crisis caused by the United States and Israel’s war in Iran could be just what the world needed to achieve 35 percent electrification by 2035. This goal, “35 by ‘35” has emerged as a key platform of the upcomi"
     },
     {
       "category": "macro",
@@ -92,24 +83,6 @@
       "summary": "Scheduled economic release."
     },
     {
-      "category": "geo",
-      "impact": "high",
-      "time": "Thu, 24 Sep 2026 15:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Global Biofuels Output Could Surge 70% Amid Energy Crisis",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Global biofuels production is projected to surge by nearly 70% by 2030 as major producing countries raise their fuel-blending mandates in response to the energy crisis triggered by the Middle East conflict, a study co-au"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "Thu, 24 Sep 2026 13:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Saudi Oil Export Costs Surge as Red Sea Risks Mount",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Saudi Arabia’s workaround for the Strait of Hormuz now carries a war-risk insurance bill nearly as expensive as sending tankers through Hormuz itself. Quoted premiums for Saudi-linked tankers calling at the Red Sea port "
-    },
-    {
       "category": "macro",
       "impact": "medium",
       "time": "2026-09-21T11:00:00-04:00",
@@ -126,6 +99,33 @@
       "headline": "CAD BOC Gov Macklem Speaks",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-22T07:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR ECB President Lagarde Speaks",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-22T09:55:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD President Trump Speaks",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-23T03:15:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR French Flash Manufacturing PMI",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 50.9 · Previous: 51.5"
     }
   ]
 }
