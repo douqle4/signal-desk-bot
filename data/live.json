@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-24T21:41:58.884167+00:00",
+  "generated_at": "2026-09-25T00:19:39.265336+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Thu, 24 Sep 2026 19:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "5 Energy Stocks Positioned for a Prolonged Iran War",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "For the first time since the Iran war began, JPMorgan says it no longer has a clear baseline for how the oil market gets out of it. The bank had previously worked on the assumption that rising oil prices and the economic"
+    },
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Thu, 24 Sep 2026 17:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Why a U.S. Diesel Export Ban Won’t Lower Fuel Prices",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "As the national average diesel price soared to a record $6.52 per gallon, the Trump Administration sent mixed signals this week about restricting U.S. diesel exports.  The White House has denied that an export ban is in "
+    },
     {
       "category": "geo",
       "impact": "critical",
@@ -9,15 +27,6 @@
       "headline": "Can the World Hit 35% Electrification by 2035?",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "The energy crisis caused by the United States and Israel’s war in Iran could be just what the world needed to achieve 35 percent electrification by 2035. This goal, “35 by ‘35” has emerged as a key platform of the upcomi"
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Thu, 24 Sep 2026 12:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Iran Warns U.S. Strikes Could Push War Into Indian Ocean",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "It was just this month that saw the Iran conflict spill over into a renewed fight between the Saudi coalition and Yemen's Houthi rebels. Now Iran is threatening to expand the fight further, even into the Indian Ocean. Ya"
     },
     {
       "category": "macro",
@@ -116,15 +125,6 @@
       "source": "ForexFactory calendar",
       "headline": "CAD BOC Gov Macklem Speaks",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-22T07:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR ECB President Lagarde Speaks",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     }
   ]
