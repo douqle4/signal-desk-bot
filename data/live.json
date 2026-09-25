@@ -1,24 +1,6 @@
 {
-  "generated_at": "2026-09-25T15:27:16.781136+00:00",
+  "generated_at": "2026-09-25T19:28:07.650047+00:00",
   "stories": [
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Fri, 25 Sep 2026 08:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "U.S.-Iran Talks Revive June Plan for Ending Hormuz Standoff",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Politics, Geopolitics & Conflict The U.S. and Iran are back to negotiating over the same basic bargain that briefly ended the war in June: reopen Hormuz, ease the U.S. blockade, and use a temporary ceasefire to negotiate"
-    },
-    {
-      "category": "macro",
-      "impact": "critical",
-      "time": "Fri, 25 Sep 2026 08:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Aramco Restores East-West Pipeline as War Risk Closes In on Yanbu",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Saudi Aramco has restarted its East-West pipeline (Petroline) less than two weeks after attacks knocked out the 7 million bpd system, restoring at least some of the route that has carried the bulk of Saudi crude around t"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -92,15 +74,6 @@
       "summary": "Italy’s industry and energy security ministers will meet with executives from the Italian refining sector in early October to discuss how refineries could raise diesel and gasoline production to help lower the record-hig"
     },
     {
-      "category": "geo",
-      "impact": "high",
-      "time": "Fri, 25 Sep 2026 08:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "EU Pressures UK to Match Its Tariffs on Chinese-Made Cars",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The European Union is urging the UK to raise tariffs on China-made cars that would bring its customs policy closer to the bloc’s and remove some barriers to including British products in the “made in Europe” policy, the "
-    },
-    {
       "category": "macro",
       "impact": "medium",
       "time": "2026-09-21T11:00:00-04:00",
@@ -126,6 +99,33 @@
       "headline": "EUR ECB President Lagarde Speaks",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-22T09:55:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD President Trump Speaks",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-23T03:15:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR French Flash Manufacturing PMI",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 50.9 · Previous: 51.5"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-23T03:15:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR French Flash Services PMI",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 48.3 · Previous: 48.4"
     }
   ]
 }
