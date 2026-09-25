@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T19:28:07.650047+00:00",
+  "generated_at": "2026-09-25T22:43:25.553975+00:00",
   "stories": [
     {
       "category": "macro",
@@ -66,15 +66,6 @@
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "Fri, 25 Sep 2026 09:15:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Italy Pushes Refineries to Raise Fuel Output Amid Price Surge",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Italy’s industry and energy security ministers will meet with executives from the Italian refining sector in early October to discuss how refineries could raise diesel and gasoline production to help lower the record-hig"
-    },
-    {
-      "category": "macro",
       "impact": "medium",
       "time": "2026-09-21T11:00:00-04:00",
       "source": "ForexFactory calendar",
@@ -126,6 +117,15 @@
       "headline": "EUR French Flash Services PMI",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Forecast: 48.3 · Previous: 48.4"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-23T03:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR German Flash Manufacturing PMI",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 54.1 · Previous: 54.1"
     }
   ]
 }
