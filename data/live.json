@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T11:43:01.767435+00:00",
+  "generated_at": "2026-09-26T15:59:17.688170+00:00",
   "stories": [
     {
       "category": "macro",
@@ -66,6 +66,15 @@
     },
     {
       "category": "macro",
+      "impact": "high",
+      "time": "Sat, 26 Sep 2026 10:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "North Carolina Regulators Reject Duke Energy Gas Power Plant",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Natural gas output in the United States is expected to reach record highs in 2026 and 2027, as the country ramps up production and seeks to fill the gap created by restrictions on energy trade through the Strait of Hormu"
+    },
+    {
+      "category": "macro",
       "impact": "medium",
       "time": "2026-09-21T11:00:00-04:00",
       "source": "ForexFactory calendar",
@@ -117,15 +126,6 @@
       "headline": "EUR French Flash Services PMI",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Forecast: 48.3 · Previous: 48.4"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-23T03:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR German Flash Manufacturing PMI",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 54.1 · Previous: 54.1"
     }
   ]
 }
