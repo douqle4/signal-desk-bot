@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-09-28T16:55:49.294360+00:00",
+  "generated_at": "2026-09-28T22:27:08.267031+00:00",
   "stories": [
-    {
-      "category": "macro",
-      "impact": "critical",
-      "time": "Mon, 28 Sep 2026 09:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Zelenskyy Warns Russia Wants to Widen War Beyond Ukraine",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Russian drone strikes killed at least four people in Ukraine overnight and into September 27, including one person in the capital, Kyiv, and three in the southeastern Zaporizhzhya region, Ukrainian officials said. In Kyi"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -89,7 +80,7 @@
       "source": "ForexFactory calendar",
       "headline": "USD Non-Farm Employment Change",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 89K · Previous: 162K"
+      "summary": "Forecast: 90K · Previous: 162K"
     },
     {
       "category": "macro",
@@ -99,6 +90,15 @@
       "headline": "USD Unemployment Rate",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 4.1% · Previous: 4.1%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "Mon, 28 Sep 2026 13:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Record Diesel Costs Add Fresh Pressure on UK Economy",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The UK economy entered “uncharted territory” on Monday, battling an assortment of financial pressures as fears intensified ahead of the next Budget.  Diesel costs surged to a record high of 199.18p per litre, marking the"
     },
     {
       "category": "macro",
