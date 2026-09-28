@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-28T01:53:58.431175+00:00",
+  "generated_at": "2026-09-28T08:22:54.062115+00:00",
   "stories": [
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Mon, 28 Sep 2026 03:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Goldman Warns Diesel Export Ban Would Send Gasoline Prices Higher",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "If the United States institutes a ban on diesel fuel exports, Goldman Sachs analysts estimate it would initially push prices lower. The effect, however, would only continue until storage space fills up, the bank warned. "
+    },
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Mon, 28 Sep 2026 00:37:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Oil Moves Higher on Rekindled War Fears",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Crude oil prices started the week with a jump after President Trump rejected a peace deal proposal tabled by Iran last week at the UN General Assembly. At the time of writing, Brent crude was trading at $107.24 per barre"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -93,15 +111,6 @@
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "Sat, 26 Sep 2026 10:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "North Carolina Regulators Reject Duke Energy Gas Power Plant",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Natural gas output in the United States is expected to reach record highs in 2026 and 2027, as the country ramps up production and seeks to fill the gap created by restrictions on energy trade through the Strait of Hormu"
-    },
-    {
-      "category": "macro",
       "impact": "medium",
       "time": "2026-09-28T09:30:00-04:00",
       "source": "ForexFactory calendar",
@@ -116,15 +125,6 @@
       "source": "ForexFactory calendar",
       "headline": "AUD RBA Press Conference",
       "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-29T07:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR ECB President Lagarde Speaks",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     }
   ]
