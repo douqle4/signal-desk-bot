@@ -1,23 +1,14 @@
 {
-  "generated_at": "2026-09-28T08:22:54.062115+00:00",
+  "generated_at": "2026-09-28T16:55:49.294360+00:00",
   "stories": [
     {
       "category": "macro",
       "impact": "critical",
-      "time": "Mon, 28 Sep 2026 03:00:00 -0500",
+      "time": "Mon, 28 Sep 2026 09:00:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Goldman Warns Diesel Export Ban Would Send Gasoline Prices Higher",
+      "headline": "Zelenskyy Warns Russia Wants to Widen War Beyond Ukraine",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "If the United States institutes a ban on diesel fuel exports, Goldman Sachs analysts estimate it would initially push prices lower. The effect, however, would only continue until storage space fills up, the bank warned. "
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Mon, 28 Sep 2026 00:37:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Oil Moves Higher on Rekindled War Fears",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Crude oil prices started the week with a jump after President Trump rejected a peace deal proposal tabled by Iran last week at the UN General Assembly. At the time of writing, Brent crude was trading at $107.24 per barre"
+      "summary": "Russian drone strikes killed at least four people in Ukraine overnight and into September 27, including one person in the capital, Kyiv, and three in the southeastern Zaporizhzhya region, Ukrainian officials said. In Kyi"
     },
     {
       "category": "macro",
@@ -98,7 +89,7 @@
       "source": "ForexFactory calendar",
       "headline": "USD Non-Farm Employment Change",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 98K · Previous: 162K"
+      "summary": "Forecast: 89K · Previous: 162K"
     },
     {
       "category": "macro",
@@ -125,6 +116,15 @@
       "source": "ForexFactory calendar",
       "headline": "AUD RBA Press Conference",
       "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-29T07:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR ECB President Lagarde Speaks",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     }
   ]
