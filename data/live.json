@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-29T20:10:52.277970+00:00",
+  "generated_at": "2026-09-29T23:54:00.370446+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Tue, 29 Sep 2026 18:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Europe’s Gas Crisis Deepens as Hormuz LNG Crunch Drives Prices Higher",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "European natural gas prices have soared dramatically since the war in Iran trapped a fifth of the world’s liquefied natural gas supply behind the Strait of Hormuz.  The high prices are creating a headache for governments"
+    },
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Tue, 29 Sep 2026 16:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "White House Weighs Red-Dyed Diesel Relief as Fuel Prices Soar",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The U.S. federal government has come up with an alternative to a diesel fuel export ban that could alleviate the price pain at the pump by boosting the availability of a tax-free sort of diesel. That’s according to unnam"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -108,24 +126,6 @@
       "headline": "AUD RBA Press Conference",
       "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-29T07:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR ECB President Lagarde Speaks",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-29T08:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "CAD GDP m/m",
-      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 0.0% · Previous: 0.3%"
     }
   ]
 }
