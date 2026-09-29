@@ -1,24 +1,6 @@
 {
-  "generated_at": "2026-09-29T15:27:23.420856+00:00",
+  "generated_at": "2026-09-29T20:10:52.277970+00:00",
   "stories": [
-    {
-      "category": "macro",
-      "impact": "critical",
-      "time": "Tue, 29 Sep 2026 09:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "The Hidden Tradeoffs of a U.S. Diesel Export Ban",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "With diesel prices at record highs, restricting U.S. diesel exports has an obvious appeal. Keep more American-made diesel at home, increase domestic supply, and take some pressure off farmers, truckers, construction comp"
-    },
-    {
-      "category": "macro",
-      "impact": "critical",
-      "time": "Tue, 29 Sep 2026 06:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "India Looks to Boost Exploration as Hormuz Crisis Threatens Supply",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "India needs to boost domestic oil and gas exploration to enhance its energy security amid supply disruptions that drive energy prices higher, according to a senior official at state-owned exploration and production compa"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -110,22 +92,40 @@
       "summary": "Forecast: 4.1% · Previous: 4.1%"
     },
     {
-      "category": "geo",
-      "impact": "high",
-      "time": "Tue, 29 Sep 2026 04:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "India Unlikely to Ditch Russian Oil Despite Trump's 100% Tariff Threat",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "India cannot and likely will not replace all the Russian crude oil it is importing despite the threat of 100% tariffs on its products in the United States, according to analysts.  Earlier this month, U.S. President Donal"
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-28T09:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR ECB President Lagarde Speaks",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "Tue, 29 Sep 2026 03:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Argentina Threatens UK with Court Action Over Falklands Oil Drilling",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Argentina will sue the UK unless it suspends an oil drilling project off the coast of the Falkland Islands, the BBC has reported, citing an X post by Argentine president Javier Milei. \"I instructed the Foreign Ministry a"
+      "impact": "medium",
+      "time": "2026-09-29T01:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "AUD RBA Press Conference",
+      "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-29T07:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR ECB President Lagarde Speaks",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-29T08:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "CAD GDP m/m",
+      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 0.0% · Previous: 0.3%"
     }
   ]
 }
