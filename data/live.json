@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-30T04:35:16.236641+00:00",
+  "generated_at": "2026-09-30T10:58:32.238968+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Wed, 30 Sep 2026 04:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Foreign Investors Pull $3.2 Billion From Indian Markets as Oil Rally Returns",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The renewed rally in oil prices above $100 per barrel Brent has prompted foreign investors to pull money out of India’s stock and bond markets at the highest pace since March, when the start of the Iran war and the oil s"
+    },
     {
       "category": "geo",
       "impact": "critical",
@@ -9,15 +18,6 @@
       "headline": "Europe’s Gas Crisis Deepens as Hormuz LNG Crunch Drives Prices Higher",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "European natural gas prices have soared dramatically since the war in Iran trapped a fifth of the world’s liquefied natural gas supply behind the Strait of Hormuz.  The high prices are creating a headache for governments"
-    },
-    {
-      "category": "macro",
-      "impact": "critical",
-      "time": "Tue, 29 Sep 2026 16:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "White House Weighs Red-Dyed Diesel Relief as Fuel Prices Soar",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The U.S. federal government has come up with an alternative to a diesel fuel export ban that could alleviate the price pain at the pump by boosting the availability of a tax-free sort of diesel. That’s according to unnam"
     },
     {
       "category": "macro",
@@ -111,21 +111,21 @@
     },
     {
       "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-28T09:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR ECB President Lagarde Speaks",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
+      "impact": "high",
+      "time": "Wed, 30 Sep 2026 05:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "China’s Thermal Coal Prices Surge to Three-Year High",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "China’s benchmark thermal coal prices have jumped for 11 straight weeks, hitting the highest level in three years this week, amid lower domestic production and reduced imports from top coal exporter Indonesia.  The spot "
     },
     {
       "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-29T01:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "AUD RBA Press Conference",
-      "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
+      "impact": "high",
+      "time": "Wed, 30 Sep 2026 03:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "India Boosts Middle East Oil Imports, Cuts Russian Flows",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "India has ramped up its crude oil imports from the Middle East while reducing purchases of Russian crude, Indian media have reported, citing data from Kpler. The country, however, is not planning to completely suspend Ru"
     }
   ]
 }
