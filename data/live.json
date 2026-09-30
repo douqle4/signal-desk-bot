@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-30T16:47:01.326312+00:00",
+  "generated_at": "2026-09-30T21:17:42.752031+00:00",
   "stories": [
     {
-      "category": "macro",
+      "category": "geo",
       "impact": "critical",
-      "time": "Wed, 30 Sep 2026 07:30:00 -0500",
+      "time": "Wed, 30 Sep 2026 13:00:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Russia Extends Diesel Export Ban Through Oct. 31",
+      "headline": "The World’s Diesel Problem Runs Deeper Than the Iran War",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Russia’s government on Wednesday extended the ban on exports of diesel, marine fuel, and gasoil for all fuel producers by October 31, which effectively extends the period in which the tightening global market will have t"
+      "summary": "The nature of the shortage of diesel and jet fuel is more complex than most people realize. Based on my analysis, a shortfall has existed since at least 2020. The shortage is not simply the result of the closure of the S"
     },
     {
       "category": "macro",
@@ -102,15 +102,6 @@
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "Wed, 30 Sep 2026 06:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Analysts Cut China's Q4 Crude Import Forecasts by 400,000 Bpd",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "China is not expected to materially boost its crude oil imports through the end of the year as oil prices surged above $100 per barrel again and independent refiners struggle to procure cheaper supply amid the near-disap"
-    },
-    {
-      "category": "macro",
       "impact": "medium",
       "time": "2026-09-28T09:30:00-04:00",
       "source": "ForexFactory calendar",
@@ -125,6 +116,15 @@
       "source": "ForexFactory calendar",
       "headline": "AUD RBA Press Conference",
       "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-29T07:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR ECB President Lagarde Speaks",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     }
   ]
