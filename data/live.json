@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T19:43:17.761922+00:00",
+  "generated_at": "2026-10-01T23:44:49.904343+00:00",
   "stories": [
     {
       "category": "geo",
@@ -103,11 +103,20 @@
     {
       "category": "macro",
       "impact": "high",
-      "time": "Thu, 01 Oct 2026 10:00:00 -0500",
+      "time": "Thu, 01 Oct 2026 17:00:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Uranium Hits Record High While Nuclear Stocks Slide",
+      "headline": "Power Demand Is Surging Faster Than Grids Can Keep Up",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "If you only looked at the price of the fuel, you'd think the nuclear trade has never been better. Long-term uranium prices are sitting at $96/lb, an all-time record and up ~12% YTD, taking out the $95/lb high set in mid-"
+      "summary": "After years of stagnation in key developed markets, power demand is rising again at a pace not seen in decades as data centers, electrification, and industrialization drive a surge in electricity consumption. The Age of "
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "Thu, 01 Oct 2026 15:40:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "China Halts October Fuel Exports as Global Diesel Crunch Deepens",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "China’s major refiners have suspended most refined fuel exports for October as Beijing prioritizes domestic supply security, removing another source of diesel, gasoline and jet fuel from an already severely constrained g"
     },
     {
       "category": "macro",
@@ -116,15 +125,6 @@
       "source": "ForexFactory calendar",
       "headline": "EUR ECB President Lagarde Speaks",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-29T01:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "AUD RBA Press Conference",
-      "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     }
   ]
