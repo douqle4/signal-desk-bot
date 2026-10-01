@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-10-01T06:57:39.821876+00:00",
+  "generated_at": "2026-10-01T14:23:42.170012+00:00",
   "stories": [
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Thu, 01 Oct 2026 09:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "U.S. Threatens Diesel Export Ban Unless Europe Releases Stockpiles",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The U.S. Administration has urged Germany and France, Europe’s largest economies that hold a sizeable chunk of the EU’s emergency reserves, to release diesel from emergency stockpiles or face a potential U.S. diesel expo"
+    },
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Thu, 01 Oct 2026 04:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Taiwan Allocates $13 Billion to Shield Consumers From High Energy Costs",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Taiwan is allocating the equivalent of $13 billion for energy cost support for state power generation company Taipower and refiner CPC, Reuters has reported, to offset the sharp cost inflation resulting from the war in t"
+    },
     {
       "category": "geo",
       "impact": "critical",
-      "time": "Wed, 30 Sep 2026 13:00:00 -0500",
+      "time": "Thu, 01 Oct 2026 03:00:00 -0500",
       "source": "OilPrice.com",
-      "headline": "The World’s Diesel Problem Runs Deeper Than the Iran War",
+      "headline": "Pakistan Weighs Direct LNG Imports for Power Plants to Ease Energy Crisis",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The nature of the shortage of diesel and jet fuel is more complex than most people realize. Based on my analysis, a shortfall has existed since at least 2020. The shortage is not simply the result of the closure of the S"
+      "summary": "Pakistan’s government is considering allowing power plants and private firms to directly import LNG procured on the spot market as the country has been struggling with an energy crisis since the Iran war crippled Qatar’s"
+    },
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Thu, 01 Oct 2026 02:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Trump Admits Diesel U.S. Export Ban Could Raise Gasoline Prices",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "A potential ban on U.S. diesel exports could have “a negative impact on gasoline,” U.S. President Donald Trump said late on Wednesday, although he didn’t rule out such a move from the Administration. The President told r"
     },
     {
       "category": "macro",
@@ -99,33 +126,6 @@
       "headline": "USD Unemployment Rate",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 4.1% · Previous: 4.1%"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-28T09:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR ECB President Lagarde Speaks",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-29T01:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "AUD RBA Press Conference",
-      "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-09-29T07:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR ECB President Lagarde Speaks",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
     }
   ]
 }
