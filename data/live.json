@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-02T04:38:05.536557+00:00",
+  "generated_at": "2026-10-02T10:55:42.760196+00:00",
   "stories": [
     {
-      "category": "geo",
+      "category": "macro",
       "impact": "critical",
-      "time": "Thu, 01 Oct 2026 14:00:00 -0500",
+      "time": "Fri, 02 Oct 2026 03:00:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Middle East Oil Exports Stage a Remarkable Comeback",
+      "headline": "U.S. Diesel Export Ban Would Hit Latin America Hardest: Goldman",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Exports of crude oil from the Middle East hit their highest level in September since the war with Iran began, reinforcing a trend of increased supplies despite Iranian attacks on shipping in the Strait of Hormuz, accordi"
+      "summary": "A potential ban on exports of diesel fuel from the United States would affect Latin America the most, Goldman Sachs has said, despite reports that the pain from such a ban would be the greatest for Europe. U.S. diesel im"
     },
     {
       "category": "macro",
@@ -111,20 +111,20 @@
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "Thu, 01 Oct 2026 15:40:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "China Halts October Fuel Exports as Global Diesel Crunch Deepens",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "China’s major refiners have suspended most refined fuel exports for October as Beijing prioritizes domestic supply security, removing another source of diesel, gasoline and jet fuel from an already severely constrained g"
-    },
-    {
-      "category": "macro",
       "impact": "medium",
       "time": "2026-09-28T09:30:00-04:00",
       "source": "ForexFactory calendar",
       "headline": "EUR ECB President Lagarde Speaks",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-29T01:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "AUD RBA Press Conference",
+      "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     }
   ]
