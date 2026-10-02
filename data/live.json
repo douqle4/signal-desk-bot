@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-10-02T10:55:42.760196+00:00",
+  "generated_at": "2026-10-02T16:33:16.481696+00:00",
   "stories": [
     {
-      "category": "macro",
+      "category": "geo",
       "impact": "critical",
-      "time": "Fri, 02 Oct 2026 03:00:00 -0500",
+      "time": "Fri, 02 Oct 2026 10:00:00 -0500",
       "source": "OilPrice.com",
-      "headline": "U.S. Diesel Export Ban Would Hit Latin America Hardest: Goldman",
+      "headline": "LNG Shipments Through Hormuz Hit Highest Level Since Iran War Began",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "A potential ban on exports of diesel fuel from the United States would affect Latin America the most, Goldman Sachs has said, despite reports that the pain from such a ban would be the greatest for Europe. U.S. diesel im"
+      "summary": "A total of 21 LNG cargoes are estimated to have exited the Strait of Hormuz in September, the highest monthly number since the Iran war began, yet well below pre-war levels, shipping data compiled by Reuters showed on Fr"
+    },
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Fri, 02 Oct 2026 09:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "U.S. Deploys Patriots to Shield Saudi Oil and Qatari Gas Facilities",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The U.S. last month sent two additional Patriot missile batteries to protect energy infrastructure in Saudi Arabia and Qatar from Iranian strikes in case the war escalates again, U.S. officials and a Persian Gulf regiona"
     },
     {
       "category": "macro",
@@ -99,15 +108,6 @@
       "headline": "USD Unemployment Rate",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 4.1% · Previous: 4.1%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "Thu, 01 Oct 2026 17:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Power Demand Is Surging Faster Than Grids Can Keep Up",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "After years of stagnation in key developed markets, power demand is rising again at a pace not seen in decades as data centers, electrification, and industrialization drive a surge in electricity consumption. The Age of "
     },
     {
       "category": "macro",
