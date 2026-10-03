@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-10-03T15:53:56.203710+00:00",
+  "generated_at": "2026-10-03T19:04:34.739645+00:00",
   "stories": [
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Fri, 02 Oct 2026 10:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "LNG Shipments Through Hormuz Hit Highest Level Since Iran War Began",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "A total of 21 LNG cargoes are estimated to have exited the Strait of Hormuz in September, the highest monthly number since the Iran war began, yet well below pre-war levels, shipping data compiled by Reuters showed on Fr"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -125,6 +116,15 @@
       "source": "ForexFactory calendar",
       "headline": "EUR ECB President Lagarde Speaks",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-09-29T01:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "AUD RBA Press Conference",
+      "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     }
   ]
