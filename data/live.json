@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-03T22:20:21.039819+00:00",
+  "generated_at": "2026-10-04T01:52:15.601754+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Sat, 03 Oct 2026 18:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "The Iran War Is Showing What ADNOC’s AI Can Really Do",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Oil companies have spent years using AI to drill faster, predict equipment failures and squeeze more production from existing fields. The UAE’s state-run oil giant, ADNOC, is now finding out what the same technology can "
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -99,15 +108,6 @@
       "headline": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Tajikistan announced that it is now receiving oil and petroleum products from Iran, opening a potential new energy source for a country whose fuel supplies have long been dominated by Russia. The deliveries began in late"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "Fri, 02 Oct 2026 11:50:45 -0500",
-      "source": "OilPrice.com",
-      "headline": "Dated Brent Above $120 Signals a Serious Oil Squeeze",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Physical oil markets tighten sharply as Dated Brent surges above $120 despite ICE Brent slipping toward $101. Friday, October 02, 2026 The European diesel stock release, droned tankers in the Strait of Hormuz, and China "
     },
     {
       "category": "macro",
