@@ -1,104 +1,41 @@
 {
-  "generated_at": "2026-10-04T01:52:15.601754+00:00",
+  "generated_at": "2026-10-04T07:54:17.385696+00:00",
   "stories": [
     {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Sat, 03 Oct 2026 18:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "The Iran War Is Showing What ADNOC’s AI Can Really Do",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Oil companies have spent years using AI to drill faster, predict equipment failures and squeeze more production from existing fields. The UAE’s state-run oil giant, ADNOC, is now finding out what the same technology can "
-    },
-    {
       "category": "macro",
       "impact": "high",
-      "time": "2026-09-29T00:30:00-04:00",
+      "time": "2026-10-06T02:35:00-04:00",
       "source": "ForexFactory calendar",
-      "headline": "AUD Cash Rate",
-      "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 4.60% · Previous: 4.35%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-09-29T00:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "AUD RBA Rate Statement",
-      "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
+      "headline": "JPY BOJ Gov Ueda Speaks",
+      "why": "Scheduled JPY data release — historically moves JPY pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     },
     {
       "category": "macro",
       "impact": "high",
-      "time": "2026-09-29T21:30:00-04:00",
+      "time": "2026-10-07T14:00:00-04:00",
       "source": "ForexFactory calendar",
-      "headline": "AUD CPI m/m",
-      "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 0.5% · Previous: 1.0%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-09-29T21:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "AUD CPI y/y",
-      "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 4.1% · Previous: 3.5%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-09-29T21:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "AUD Trimmed Mean CPI m/m",
-      "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 0.3% · Previous: 0.5%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-09-30T08:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Core PCE Price Index m/m",
+      "headline": "USD FOMC Meeting Minutes",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 0.3% · Previous: 0.2%"
+      "summary": "Scheduled economic release."
     },
     {
       "category": "macro",
       "impact": "high",
-      "time": "2026-09-30T08:30:00-04:00",
+      "time": "2026-10-09T08:30:00-04:00",
       "source": "ForexFactory calendar",
-      "headline": "USD Final GDP q/q",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 1.5% · Previous: 1.5%"
+      "headline": "CAD Employment Change",
+      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 9.0K · Previous: -41.7K"
     },
     {
       "category": "macro",
       "impact": "high",
-      "time": "2026-10-02T08:30:00-04:00",
+      "time": "2026-10-09T08:30:00-04:00",
       "source": "ForexFactory calendar",
-      "headline": "USD Average Hourly Earnings m/m",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 0.3% · Previous: 0.3%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-10-02T08:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Non-Farm Employment Change",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 89K · Previous: 162K"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-10-02T08:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Unemployment Rate",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 4.1% · Previous: 4.1%"
+      "headline": "CAD Unemployment Rate",
+      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 6.5% · Previous: 6.4%"
     },
     {
       "category": "geo",
@@ -111,21 +48,84 @@
     },
     {
       "category": "macro",
+      "impact": "high",
+      "time": "Fri, 02 Oct 2026 11:50:45 -0500",
+      "source": "OilPrice.com",
+      "headline": "Dated Brent Above $120 Signals a Serious Oil Squeeze",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Physical oil markets tighten sharply as Dated Brent surges above $120 despite ICE Brent slipping toward $101. Friday, October 02, 2026 The European diesel stock release, droned tankers in the Strait of Hormuz, and China "
+    },
+    {
+      "category": "macro",
       "impact": "medium",
-      "time": "2026-09-28T09:30:00-04:00",
+      "time": "2026-10-04T05:15:00-04:00",
       "source": "ForexFactory calendar",
-      "headline": "EUR ECB President Lagarde Speaks",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "headline": "All OPEC-JMMC Meetings",
+      "why": "Scheduled All data release — historically moves All pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     },
     {
       "category": "macro",
       "impact": "medium",
-      "time": "2026-09-29T01:30:00-04:00",
+      "time": "2026-10-05T10:00:00-04:00",
       "source": "ForexFactory calendar",
-      "headline": "AUD RBA Press Conference",
-      "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
+      "headline": "USD ISM Services PMI",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 55.1 · Previous: 55.4"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-10-06T10:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "CAD Ivey PMI",
+      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 65.2 · Previous: 64.3"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-10-08T08:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Unemployment Claims",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 200K · Previous: 197K"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-10-09T10:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Prelim UoM Consumer Sentiment",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 47.6 · Previous: 47.8"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-10-09T10:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Prelim UoM Inflation Expectations",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Previous: 4.6%"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "Sat, 03 Oct 2026 16:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Could White Hydrogen Succeed Where Green Hydrogen Stumbled?",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The green hydrogen hype has all but stalled out – but could white hydrogen take its place as the next big thing in decarbonization? Geologic hydrogen, so-called ‘white’ hydrogen, could potentially bypass the most critica"
+    },
+    {
+      "category": "geo",
+      "impact": "medium",
+      "time": "Sat, 03 Oct 2026 14:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Iran Is Losing Some of Its Leverage Over the Strait of Hormuz",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The flow of crude from the Persian Gulf has recovered to near-prewar levels, but the latest data shows that much of the oil is reaching markets through routes and shipping arrangements that did not exist before the war, "
     }
   ]
 }
