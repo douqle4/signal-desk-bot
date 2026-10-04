@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T18:01:14.260206+00:00",
+  "generated_at": "2026-10-04T21:47:47.086433+00:00",
   "stories": [
     {
       "category": "macro",
@@ -38,13 +38,13 @@
       "summary": "Forecast: 6.5% · Previous: 6.4%"
     },
     {
-      "category": "geo",
+      "category": "macro",
       "impact": "high",
-      "time": "Fri, 02 Oct 2026 14:00:00 -0500",
+      "time": "Sun, 04 Oct 2026 16:00:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk",
+      "headline": "Europe’s Diesel Woes Just Got Even Worse",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Tajikistan announced that it is now receiving oil and petroleum products from Iran, opening a potential new energy source for a country whose fuel supplies have long been dominated by Russia. The deliveries began in late"
+      "summary": "China this week announced it will suspend all fuel exports this month to keep its domestic market supplied. Also this week, President Donald Trump demanded that Germany and France release 120 million barrels of diesel fr"
     },
     {
       "category": "macro",
@@ -103,6 +103,15 @@
     {
       "category": "macro",
       "impact": "medium",
+      "time": "Sun, 04 Oct 2026 14:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Pentagon Backs Ambitious Plan to Beam Solar Power From Space",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Space-based solar power just got another powerful vote of confidence. The United States Department of Defense just inked a contract with solar energy company Overview Energy to “design, build, and test a homing beacon th"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
       "time": "Sun, 04 Oct 2026 12:00:00 -0500",
       "source": "OilPrice.com",
       "headline": "Floating Power Plants Are Opening a New Energy Frontier",
@@ -117,15 +126,6 @@
       "headline": "Private Equity Firms Double Down on Fossil Fuels",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Despite pressure from some governments and consumers for a global energy transition, private equity firms continue to invest heavily in some of the world’s largest greenhouse gas emitters. Following the Covid-19 pandemic"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "Sat, 03 Oct 2026 16:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Could White Hydrogen Succeed Where Green Hydrogen Stumbled?",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The green hydrogen hype has all but stalled out – but could white hydrogen take its place as the next big thing in decarbonization? Geologic hydrogen, so-called ‘white’ hydrogen, could potentially bypass the most critica"
     }
   ]
 }
