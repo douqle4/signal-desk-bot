@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T13:47:23.763044+00:00",
+  "generated_at": "2026-10-04T18:01:14.260206+00:00",
   "stories": [
     {
       "category": "macro",
@@ -45,15 +45,6 @@
       "headline": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Tajikistan announced that it is now receiving oil and petroleum products from Iran, opening a potential new energy source for a country whose fuel supplies have long been dominated by Russia. The deliveries began in late"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "Fri, 02 Oct 2026 11:50:45 -0500",
-      "source": "OilPrice.com",
-      "headline": "Dated Brent Above $120 Signals a Serious Oil Squeeze",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Physical oil markets tighten sharply as Dated Brent surges above $120 despite ICE Brent slipping toward $101. Friday, October 02, 2026 The European diesel stock release, droned tankers in the Strait of Hormuz, and China "
     },
     {
       "category": "macro",
@@ -112,20 +103,29 @@
     {
       "category": "macro",
       "impact": "medium",
+      "time": "Sun, 04 Oct 2026 12:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Floating Power Plants Are Opening a New Energy Frontier",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The renewable revolution is running out of space. Utility-scale solar and wind farms take up enormous tracts of land and are facing increasing legal pushback from many of the communities where their development is planne"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "Sun, 04 Oct 2026 10:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Private Equity Firms Double Down on Fossil Fuels",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Despite pressure from some governments and consumers for a global energy transition, private equity firms continue to invest heavily in some of the world’s largest greenhouse gas emitters. Following the Covid-19 pandemic"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
       "time": "Sat, 03 Oct 2026 16:00:00 -0500",
       "source": "OilPrice.com",
       "headline": "Could White Hydrogen Succeed Where Green Hydrogen Stumbled?",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "The green hydrogen hype has all but stalled out – but could white hydrogen take its place as the next big thing in decarbonization? Geologic hydrogen, so-called ‘white’ hydrogen, could potentially bypass the most critica"
-    },
-    {
-      "category": "geo",
-      "impact": "medium",
-      "time": "Sat, 03 Oct 2026 14:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Iran Is Losing Some of Its Leverage Over the Strait of Hormuz",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The flow of crude from the Persian Gulf has recovered to near-prewar levels, but the latest data shows that much of the oil is reaching markets through routes and shipping arrangements that did not exist before the war, "
     }
   ]
 }
