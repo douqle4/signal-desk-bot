@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-05T15:38:43.056444+00:00",
+  "generated_at": "2026-10-05T22:21:27.200772+00:00",
   "stories": [
     {
       "category": "geo",
       "impact": "critical",
-      "time": "Mon, 05 Oct 2026 09:30:00 -0500",
+      "time": "Mon, 05 Oct 2026 16:00:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Aramco CEO Warns Oil Inventories Are ‘Scarily Thin’",
+      "headline": "Singapore Eyes Nuclear Power as Iran War Exposes Its Import Problem",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Saudi Aramco CEO Amin Nasser warned Monday that the world has lost nearly 3 billion barrels of gross oil supply since the Iran war began, equivalent to roughly half the crude and products that normally would have moved t"
+      "summary": "Singapore is in an energy pickle. The island nation is still reeling from high oil and gas prices driven by the war in Iran, and is scrambling to build up alternative and indigenous energy sources. The problem is that th"
     },
     {
       "category": "macro",
@@ -26,6 +26,15 @@
       "source": "ForexFactory calendar",
       "headline": "USD FOMC Meeting Minutes",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-10-08T08:15:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "GBP BOE Gov Bailey Speaks",
+      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     },
     {
@@ -49,20 +58,20 @@
     {
       "category": "macro",
       "impact": "high",
-      "time": "Mon, 05 Oct 2026 10:30:00 -0500",
+      "time": "Mon, 05 Oct 2026 13:45:00 -0500",
       "source": "OilPrice.com",
-      "headline": "EU Electric Vehicle Sales Hit Record as Fuel Prices Surge",
+      "headline": "Freeport LNG Ramps Up Gas Intake After Train 2 Shutdown",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Record-high fuel prices and a record number of newly available affordable models have pushed electric vehicle sales in the European Union to an all-time high this year, Transport & Environment, a European advocacy group "
+      "summary": "Freeport LNG was ramping natural gas intake back toward normal levels on Monday after maintenance shut one of its three liquefaction trains on Friday, putting a major source of U.S. natural gas demand on track to return "
     },
     {
-      "category": "macro",
+      "category": "geo",
       "impact": "high",
-      "time": "Mon, 05 Oct 2026 08:30:00 -0500",
+      "time": "Mon, 05 Oct 2026 12:00:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Houthis Claim Strike on Aramco Facility in Riyadh as Yemen Fighting Escalates",
+      "headline": "Here’s How Trump’s Using The Graham Act To Trap Russia And Crush Iran",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Despite reports of surging oil flows out of the Strait of Hormuz, tensions in the Middle East remain high as the fresh Saudi-Houthi escalation threatens to unravel recent success in restoring oil exports. This weekend, t"
+      "summary": "The signing of the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 by President Trump on 18 September gives him a huge economic lever to effect massive political change in what is effectively a turbocharged ver"
     },
     {
       "category": "macro",
@@ -94,6 +103,15 @@
     {
       "category": "macro",
       "impact": "medium",
+      "time": "2026-10-08T04:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD FOMC Member Waller Speaks",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
       "time": "2026-10-08T08:30:00-04:00",
       "source": "ForexFactory calendar",
       "headline": "USD Unemployment Claims",
@@ -108,24 +126,6 @@
       "headline": "USD Prelim UoM Consumer Sentiment",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 47.6 · Previous: 47.8"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-10-09T10:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Prelim UoM Inflation Expectations",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Previous: 4.6%"
-    },
-    {
-      "category": "minerals",
-      "impact": "medium",
-      "time": "Mon, 05 Oct 2026 10:31:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Possible Fire Reported at Saudi Refinery as Attack Claims Circulate",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Reports of a possible attack on Saudi Arabia's Petro Rabigh refining and petrochemical complex north of Jeddah emerged on Monday, although Saudi authorities have so far not confirmed that an attack took place. Iran's Tas"
     }
   ]
 }
