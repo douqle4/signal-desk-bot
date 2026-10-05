@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-05T06:37:18.806339+00:00",
+  "generated_at": "2026-10-05T15:38:43.056444+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Mon, 05 Oct 2026 09:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Aramco CEO Warns Oil Inventories Are ‘Scarily Thin’",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Saudi Aramco CEO Amin Nasser warned Monday that the world has lost nearly 3 billion barrels of gross oil supply since the Iran war began, equivalent to roughly half the crude and products that normally would have moved t"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -40,11 +49,20 @@
     {
       "category": "macro",
       "impact": "high",
-      "time": "Sun, 04 Oct 2026 16:00:00 -0500",
+      "time": "Mon, 05 Oct 2026 10:30:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Europe’s Diesel Woes Just Got Even Worse",
+      "headline": "EU Electric Vehicle Sales Hit Record as Fuel Prices Surge",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "China this week announced it will suspend all fuel exports this month to keep its domestic market supplied. Also this week, President Donald Trump demanded that Germany and France release 120 million barrels of diesel fr"
+      "summary": "Record-high fuel prices and a record number of newly available affordable models have pushed electric vehicle sales in the European Union to an all-time high this year, Transport & Environment, a European advocacy group "
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "Mon, 05 Oct 2026 08:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Houthis Claim Strike on Aramco Facility in Riyadh as Yemen Fighting Escalates",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Despite reports of surging oil flows out of the Strait of Hormuz, tensions in the Middle East remain high as the fresh Saudi-Houthi escalation threatens to unravel recent success in restoring oil exports. This weekend, t"
     },
     {
       "category": "macro",
@@ -101,31 +119,13 @@
       "summary": "Previous: 4.6%"
     },
     {
-      "category": "macro",
+      "category": "minerals",
       "impact": "medium",
-      "time": "Mon, 05 Oct 2026 00:26:00 -0500",
+      "time": "Mon, 05 Oct 2026 10:31:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Oil Prices Fall as Reports Say Hormuz Crude Flows Top Pre-War Levels",
+      "headline": "Possible Fire Reported at Saudi Refinery as Attack Claims Circulate",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Crude oil prices fell in early trading, though Brent remained above $100, after a report from Kpler revealed that flows out of the Strait of Hormuz are now above pre-war levels. The same firm made headlines last week aft"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "Sun, 04 Oct 2026 18:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Fuel Price Shock Pushes Global Gas Car Sales Below 50% for First Time",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The share of gasoline cars in global vehicle sales fell below 50% for the first time ever as the Hormuz shock and the resulting record-high fuel prices accelerated the previously sluggish shift toward EVs outside China. "
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "Sun, 04 Oct 2026 14:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Pentagon Backs Ambitious Plan to Beam Solar Power From Space",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Space-based solar power just got another powerful vote of confidence. The United States Department of Defense just inked a contract with solar energy company Overview Energy to “design, build, and test a homing beacon th"
+      "summary": "Reports of a possible attack on Saudi Arabia's Petro Rabigh refining and petrochemical complex north of Jeddah emerged on Monday, although Saudi authorities have so far not confirmed that an attack took place. Iran's Tas"
     }
   ]
 }
