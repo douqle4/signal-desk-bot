@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T21:47:47.086433+00:00",
+  "generated_at": "2026-10-05T00:31:30.090798+00:00",
   "stories": [
     {
       "category": "macro",
@@ -103,6 +103,15 @@
     {
       "category": "macro",
       "impact": "medium",
+      "time": "Sun, 04 Oct 2026 18:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Fuel Price Shock Pushes Global Gas Car Sales Below 50% for First Time",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The share of gasoline cars in global vehicle sales fell below 50% for the first time ever as the Hormuz shock and the resulting record-high fuel prices accelerated the previously sluggish shift toward EVs outside China. "
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
       "time": "Sun, 04 Oct 2026 14:00:00 -0500",
       "source": "OilPrice.com",
       "headline": "Pentagon Backs Ambitious Plan to Beam Solar Power From Space",
@@ -117,15 +126,6 @@
       "headline": "Floating Power Plants Are Opening a New Energy Frontier",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "The renewable revolution is running out of space. Utility-scale solar and wind farms take up enormous tracts of land and are facing increasing legal pushback from many of the communities where their development is planne"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "Sun, 04 Oct 2026 10:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Private Equity Firms Double Down on Fossil Fuels",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Despite pressure from some governments and consumers for a global energy transition, private equity firms continue to invest heavily in some of the world’s largest greenhouse gas emitters. Following the Covid-19 pandemic"
     }
   ]
 }
