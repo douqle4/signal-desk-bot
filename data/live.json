@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T00:31:30.090798+00:00",
+  "generated_at": "2026-10-05T06:37:18.806339+00:00",
   "stories": [
     {
       "category": "macro",
@@ -103,6 +103,15 @@
     {
       "category": "macro",
       "impact": "medium",
+      "time": "Mon, 05 Oct 2026 00:26:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Oil Prices Fall as Reports Say Hormuz Crude Flows Top Pre-War Levels",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Crude oil prices fell in early trading, though Brent remained above $100, after a report from Kpler revealed that flows out of the Strait of Hormuz are now above pre-war levels. The same firm made headlines last week aft"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
       "time": "Sun, 04 Oct 2026 18:00:00 -0500",
       "source": "OilPrice.com",
       "headline": "Fuel Price Shock Pushes Global Gas Car Sales Below 50% for First Time",
@@ -117,15 +126,6 @@
       "headline": "Pentagon Backs Ambitious Plan to Beam Solar Power From Space",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Space-based solar power just got another powerful vote of confidence. The United States Department of Defense just inked a contract with solar energy company Overview Energy to “design, build, and test a homing beacon th"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "Sun, 04 Oct 2026 12:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Floating Power Plants Are Opening a New Energy Frontier",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The renewable revolution is running out of space. Utility-scale solar and wind farms take up enormous tracts of land and are facing increasing legal pushback from many of the communities where their development is planne"
     }
   ]
 }
