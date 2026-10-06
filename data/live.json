@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-06T02:25:16.532380+00:00",
+  "generated_at": "2026-10-06T09:15:51.595387+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Tue, 06 Oct 2026 02:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "World Bank Warns Asia Is Running Out of Money to Fight Energy Shock",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Asian countries have responded more aggressively than others to the energy supply crunch caused by the U.S. and Israeli war on Iran and now they are running out of resources to continue their response, the World Bank war"
+    },
     {
       "category": "geo",
       "impact": "critical",
@@ -54,15 +63,6 @@
       "headline": "CAD Unemployment Rate",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 6.5% · Previous: 6.4%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "Mon, 05 Oct 2026 13:45:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Freeport LNG Ramps Up Gas Intake After Train 2 Shutdown",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Freeport LNG was ramping natural gas intake back toward normal levels on Monday after maintenance shut one of its three liquefaction trains on Friday, putting a major source of U.S. natural gas demand on track to return "
     },
     {
       "category": "macro",
