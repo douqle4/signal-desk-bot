@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T22:21:27.200772+00:00",
+  "generated_at": "2026-10-06T02:25:16.532380+00:00",
   "stories": [
     {
       "category": "geo",
@@ -44,7 +44,7 @@
       "source": "ForexFactory calendar",
       "headline": "CAD Employment Change",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 9.0K · Previous: -41.7K"
+      "summary": "Forecast: 6.2K · Previous: -41.7K"
     },
     {
       "category": "macro",
@@ -63,15 +63,6 @@
       "headline": "Freeport LNG Ramps Up Gas Intake After Train 2 Shutdown",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Freeport LNG was ramping natural gas intake back toward normal levels on Monday after maintenance shut one of its three liquefaction trains on Friday, putting a major source of U.S. natural gas demand on track to return "
-    },
-    {
-      "category": "geo",
-      "impact": "high",
-      "time": "Mon, 05 Oct 2026 12:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Here’s How Trump’s Using The Graham Act To Trap Russia And Crush Iran",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The signing of the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 by President Trump on 18 September gives him a huge economic lever to effect massive political change in what is effectively a turbocharged ver"
     },
     {
       "category": "macro",
@@ -126,6 +117,15 @@
       "headline": "USD Prelim UoM Consumer Sentiment",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 47.6 · Previous: 47.8"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-10-09T10:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Prelim UoM Inflation Expectations",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Previous: 4.6%"
     }
   ]
 }
