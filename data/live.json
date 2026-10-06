@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T16:09:08.388319+00:00",
+  "generated_at": "2026-10-06T21:08:04.817875+00:00",
   "stories": [
     {
       "category": "macro",
@@ -35,7 +35,7 @@
       "source": "ForexFactory calendar",
       "headline": "CAD Employment Change",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 6.2K · Previous: -41.7K"
+      "summary": "Forecast: 6.3K · Previous: -41.7K"
     },
     {
       "category": "macro",
@@ -45,6 +45,15 @@
       "headline": "CAD Unemployment Rate",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 6.5% · Previous: 6.4%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "Tue, 06 Oct 2026 14:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Iraq Builds 2027 Budget on $58 Oil—and a Very Large Deficit",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Iraq is building its 2027 budget around $58 oil, a far cry below what the country actually needs to balance its books. The draft budget assumes crude exports of roughly 4 million barrels per day, including Kurdistan, wit"
     },
     {
       "category": "macro",
@@ -98,7 +107,7 @@
       "source": "ForexFactory calendar",
       "headline": "USD Prelim UoM Consumer Sentiment",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 47.6 · Previous: 47.8"
+      "summary": "Forecast: 47.5 · Previous: 47.8"
     },
     {
       "category": "macro",
@@ -110,22 +119,13 @@
       "summary": "Previous: 4.6%"
     },
     {
-      "category": "macro",
+      "category": "chips",
       "impact": "medium",
-      "time": "Tue, 06 Oct 2026 11:05:00 -0500",
+      "time": "Tue, 06 Oct 2026 16:00:00 -0500",
       "source": "OilPrice.com",
-      "headline": "The Hidden Cost of Saudi Arabia’s Oil Export Recovery",
+      "headline": "Europe's Power Grid Is Digitalizing Faster Than Regulators Can Keep Up",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Brent holds near $100 as recovering Gulf oil flows collide with record freight costs and mounting tanker risks. Asia’s Product Market Loses Its Chinese Safety Valve - China has been at the forefront of this month’s refin"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "Tue, 06 Oct 2026 11:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Gulf Storm Threat Could Put 3 Million Bpd of Refining Capacity at Risk",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The climatological peak of the Atlantic hurricane season was in mid-September, and so far, the season has been very quiet as El Niño wind shear breaks apart tropical disturbances in the Atlantic Basin. On Monday morning,"
+      "summary": "The global energy landscape is undergoing a rapid transformation as the age of electrification takes hold and the runway growth of artificial intelligence introduces new challenges and possibilities for energy production"
     }
   ]
 }
