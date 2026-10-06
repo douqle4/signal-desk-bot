@@ -1,24 +1,6 @@
 {
-  "generated_at": "2026-10-06T09:15:51.595387+00:00",
+  "generated_at": "2026-10-06T16:09:08.388319+00:00",
   "stories": [
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Tue, 06 Oct 2026 02:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "World Bank Warns Asia Is Running Out of Money to Fight Energy Shock",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Asian countries have responded more aggressively than others to the energy supply crunch caused by the U.S. and Israeli war on Iran and now they are running out of resources to continue their response, the World Bank war"
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Mon, 05 Oct 2026 16:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Singapore Eyes Nuclear Power as Iran War Exposes Its Import Problem",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Singapore is in an energy pickle. The island nation is still reeling from high oil and gas prices driven by the war in Iran, and is scrambling to build up alternative and indigenous energy sources. The problem is that th"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -126,6 +108,24 @@
       "headline": "USD Prelim UoM Inflation Expectations",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Previous: 4.6%"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "Tue, 06 Oct 2026 11:05:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "The Hidden Cost of Saudi Arabia’s Oil Export Recovery",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Brent holds near $100 as recovering Gulf oil flows collide with record freight costs and mounting tanker risks. Asia’s Product Market Loses Its Chinese Safety Valve - China has been at the forefront of this month’s refin"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "Tue, 06 Oct 2026 11:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Gulf Storm Threat Could Put 3 Million Bpd of Refining Capacity at Risk",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The climatological peak of the Atlantic hurricane season was in mid-September, and so far, the season has been very quiet as El Niño wind shear breaks apart tropical disturbances in the Atlantic Basin. On Monday morning,"
     }
   ]
 }
