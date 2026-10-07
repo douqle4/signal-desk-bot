@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-07T14:39:21.513284+00:00",
+  "generated_at": "2026-10-07T20:27:25.802683+00:00",
   "stories": [
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Wed, 07 Oct 2026 15:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Global Diesel Crunch Fuels New Wave of Energy Nationalism",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Global fuel stocks are tighter than they have probably ever been. China just imposed a ban on all fuel exports for the month. Russia has had a diesel export ban in place for months. The United States threatened Europe wi"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -45,15 +54,6 @@
       "headline": "CAD Unemployment Rate",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 6.5% · Previous: 6.4%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "Wed, 07 Oct 2026 06:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Shell’s Refining Margin Jumps 75% as Fuel Supplies Dry Up",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Shell’s refining margin for the third quarter has nearly doubled sequentially to hit a record high, which is set to combine with strong trading results and high oil and gas realizations to keep yielding windfall profits "
     },
     {
       "category": "macro",
