@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T00:56:01.969323+00:00",
+  "generated_at": "2026-10-07T07:00:39.054440+00:00",
   "stories": [
     {
       "category": "macro",
@@ -48,15 +48,6 @@
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "Tue, 06 Oct 2026 14:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Iraq Builds 2027 Budget on $58 Oil—and a Very Large Deficit",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Iraq is building its 2027 budget around $58 oil, a far cry below what the country actually needs to balance its books. The draft budget assumes crude exports of roughly 4 million barrels per day, including Kurdistan, wit"
-    },
-    {
-      "category": "macro",
       "impact": "medium",
       "time": "2026-10-04T05:15:00-04:00",
       "source": "ForexFactory calendar",
@@ -81,6 +72,15 @@
       "headline": "CAD Ivey PMI",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 65.2 · Previous: 64.3"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-10-07T13:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD President Trump Speaks",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
     },
     {
       "category": "macro",
@@ -121,11 +121,11 @@
     {
       "category": "macro",
       "impact": "medium",
-      "time": "Tue, 06 Oct 2026 19:00:00 -0500",
+      "time": "Wed, 07 Oct 2026 01:30:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Why $100 Oil Is Hard to Kill",
+      "headline": "Chevron, Shell and BP Pull Workers From the Gulf Ahead of Hurricane",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Brent Crude oil prices have held above $100 per barrel for most of the past month despite numerous reports and figures put out in recent weeks by tanker-tracking services and investment banks that crude oil flows from th"
+      "summary": "Chevron is evacuating workers from all its platforms in the Gulf of Mexico as meteorologists warn of a tropical storm approaching the area. For now, Chevron is only evacuating non-essential personnel, Reuters reported, s"
     }
   ]
 }
