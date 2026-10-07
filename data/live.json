@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T21:08:04.817875+00:00",
+  "generated_at": "2026-10-07T00:56:01.969323+00:00",
   "stories": [
     {
       "category": "macro",
@@ -119,13 +119,13 @@
       "summary": "Previous: 4.6%"
     },
     {
-      "category": "chips",
+      "category": "macro",
       "impact": "medium",
-      "time": "Tue, 06 Oct 2026 16:00:00 -0500",
+      "time": "Tue, 06 Oct 2026 19:00:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Europe's Power Grid Is Digitalizing Faster Than Regulators Can Keep Up",
+      "headline": "Why $100 Oil Is Hard to Kill",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The global energy landscape is undergoing a rapid transformation as the age of electrification takes hold and the runway growth of artificial intelligence introduces new challenges and possibilities for energy production"
+      "summary": "Brent Crude oil prices have held above $100 per barrel for most of the past month despite numerous reports and figures put out in recent weeks by tanker-tracking services and investment banks that crude oil flows from th"
     }
   ]
 }
