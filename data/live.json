@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T07:00:39.054440+00:00",
+  "generated_at": "2026-10-07T14:39:21.513284+00:00",
   "stories": [
     {
       "category": "macro",
@@ -45,6 +45,15 @@
       "headline": "CAD Unemployment Rate",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 6.5% · Previous: 6.4%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "Wed, 07 Oct 2026 06:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Shell’s Refining Margin Jumps 75% as Fuel Supplies Dry Up",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Shell’s refining margin for the third quarter has nearly doubled sequentially to hit a record high, which is set to combine with strong trading results and high oil and gas realizations to keep yielding windfall profits "
     },
     {
       "category": "macro",
@@ -117,15 +126,6 @@
       "headline": "USD Prelim UoM Inflation Expectations",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Previous: 4.6%"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "Wed, 07 Oct 2026 01:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Chevron, Shell and BP Pull Workers From the Gulf Ahead of Hurricane",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Chevron is evacuating workers from all its platforms in the Gulf of Mexico as meteorologists warn of a tropical storm approaching the area. For now, Chevron is only evacuating non-essential personnel, Reuters reported, s"
     }
   ]
 }
