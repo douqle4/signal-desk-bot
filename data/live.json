@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T14:25:25.926081+00:00",
+  "generated_at": "2026-10-08T20:02:09.795153+00:00",
   "stories": [
     {
       "category": "macro",
@@ -35,7 +35,7 @@
       "source": "ForexFactory calendar",
       "headline": "CAD Employment Change",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 6.3K · Previous: -41.7K"
+      "summary": "Forecast: 6.1K · Previous: -41.7K"
     },
     {
       "category": "macro",
@@ -47,22 +47,22 @@
       "summary": "Forecast: 6.5% · Previous: 6.4%"
     },
     {
-      "category": "macro",
+      "category": "geo",
       "impact": "high",
-      "time": "Thu, 08 Oct 2026 08:30:00 -0500",
+      "time": "Thu, 08 Oct 2026 13:00:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Supertanker Rates Hit Record $1.4 Million a Day",
+      "headline": "Oil Prices Plunge as Trump Rules Out Iran Strikes Before Midterms",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The oil crisis has extended into the shipping sector with a large tanker fleet tied up in ship-to-ship transfers outside the Strait of Hormuz, pushing global freight rates to record highs and reducing vessel availability"
+      "summary": "President Trump just issued a new Truth Social Post Thursday just after noon time (eastern), wherein he declared \"we will not be attacking Iran at any time prior to the Midterm Elections\" in November. Oil dropped on the "
     },
     {
-      "category": "macro",
+      "category": "geo",
       "impact": "high",
-      "time": "Thu, 08 Oct 2026 02:00:00 -0500",
+      "time": "Thu, 08 Oct 2026 09:30:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Hormuz Tanker Traffic Hits Two-Month Low as Attacks Surge",
+      "headline": "Russian Oil Flows to India Plunge to 310,000 Bpd",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The number of tankers traversing the Strait of Hormuz has dropped to the lowest in two months amid renewed attacks on vessels in the waterway—right after tanker-tracking outlets said oil flows out of Hormuz are back to p"
+      "summary": "India is reducing its imports of crude oil from Russia, but mostly not because of the U.S. tariff threat for buying Russian oil. Economics have always been driving Indian refiners’ purchases, and the past few weeks haven"
     },
     {
       "category": "macro",
