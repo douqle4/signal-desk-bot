@@ -1,24 +1,6 @@
 {
-  "generated_at": "2026-10-08T06:30:08.865336+00:00",
+  "generated_at": "2026-10-08T14:25:25.926081+00:00",
   "stories": [
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Wed, 07 Oct 2026 16:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Iran War Pushes 25 Countries Into New Electrification Policies",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Electrification has become the focus of global climate talks as COP31 draws closer. We already have the technologies to transition away from direct consumption of fossil fuels and toward electricity in our vehicles, home"
-    },
-    {
-      "category": "macro",
-      "impact": "critical",
-      "time": "Wed, 07 Oct 2026 15:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Global Diesel Crunch Fuels New Wave of Energy Nationalism",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Global fuel stocks are tighter than they have probably ever been. China just imposed a ban on all fuel exports for the month. Russia has had a diesel export ban in place for months. The United States threatened Europe wi"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -65,13 +47,22 @@
       "summary": "Forecast: 6.5% · Previous: 6.4%"
     },
     {
-      "category": "geo",
+      "category": "macro",
       "impact": "high",
-      "time": "Wed, 07 Oct 2026 18:00:00 -0500",
+      "time": "Thu, 08 Oct 2026 08:30:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Who Is Going to Pay for Alaska LNG?",
+      "headline": "Supertanker Rates Hit Record $1.4 Million a Day",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Washington’s tariff pressure is giving Alaska LNG something its economics have struggled to secure: a potential investor. Discussed for decades, the costly and technically complex project has regained momentum under Pres"
+      "summary": "The oil crisis has extended into the shipping sector with a large tanker fleet tied up in ship-to-ship transfers outside the Strait of Hormuz, pushing global freight rates to record highs and reducing vessel availability"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "Thu, 08 Oct 2026 02:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Hormuz Tanker Traffic Hits Two-Month Low as Attacks Surge",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The number of tankers traversing the Strait of Hormuz has dropped to the lowest in two months amid renewed attacks on vessels in the waterway—right after tanker-tracking outlets said oil flows out of Hormuz are back to p"
     },
     {
       "category": "macro",
@@ -126,6 +117,15 @@
       "headline": "USD Unemployment Claims",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 200K · Previous: 197K"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-10-09T10:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Prelim UoM Consumer Sentiment",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 47.5 · Previous: 47.8"
     }
   ]
 }
