@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-07T20:27:25.802683+00:00",
+  "generated_at": "2026-10-08T00:21:21.723681+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Wed, 07 Oct 2026 16:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Iran War Pushes 25 Countries Into New Electrification Policies",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Electrification has become the focus of global climate talks as COP31 draws closer. We already have the technologies to transition away from direct consumption of fossil fuels and toward electricity in our vehicles, home"
+    },
     {
       "category": "macro",
       "impact": "critical",
@@ -56,6 +65,15 @@
       "summary": "Forecast: 6.5% · Previous: 6.4%"
     },
     {
+      "category": "geo",
+      "impact": "high",
+      "time": "Wed, 07 Oct 2026 18:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Who Is Going to Pay for Alaska LNG?",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Washington’s tariff pressure is giving Alaska LNG something its economics have struggled to secure: a potential investor. Discussed for decades, the costly and technically complex project has regained momentum under Pres"
+    },
+    {
       "category": "macro",
       "impact": "medium",
       "time": "2026-10-04T05:15:00-04:00",
@@ -108,24 +126,6 @@
       "headline": "USD Unemployment Claims",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 200K · Previous: 197K"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-10-09T10:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Prelim UoM Consumer Sentiment",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 47.5 · Previous: 47.8"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-10-09T10:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Prelim UoM Inflation Expectations",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Previous: 4.6%"
     }
   ]
 }
