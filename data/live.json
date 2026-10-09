@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-09T14:31:32.160477+00:00",
+  "generated_at": "2026-10-09T20:00:47.405824+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Fri, 09 Oct 2026 15:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Gasoline topped $4.40 a gallon in the U.S. in September, and Brent has sat above $100 a barrel since early September, up from around $60 before the Iran war started. Drivers have responded about how you'd expect. New hyb"
+    },
     {
       "category": "geo",
       "impact": "critical",
@@ -56,6 +65,15 @@
       "summary": "Forecast: 6.5% · Previous: 6.4%"
     },
     {
+      "category": "geo",
+      "impact": "high",
+      "time": "Fri, 09 Oct 2026 11:35:22 -0500",
+      "source": "OilPrice.com",
+      "headline": "Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Oil retreats from $110 as Trump rules out Iran strikes before the midterms, but tanker attacks and a Gulf hurricane threaten fresh volatility. Friday, October 09, 2026 Donald Trump seems to be firefighting the Middle Eas"
+    },
+    {
       "category": "macro",
       "impact": "medium",
       "time": "2026-10-04T05:15:00-04:00",
@@ -108,24 +126,6 @@
       "headline": "USD Unemployment Claims",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 200K · Previous: 197K"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-10-09T10:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Prelim UoM Consumer Sentiment",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 47.5 · Previous: 47.8"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-10-09T10:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Prelim UoM Inflation Expectations",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Previous: 4.6%"
     }
   ]
 }
