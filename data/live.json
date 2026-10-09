@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-08T20:02:09.795153+00:00",
+  "generated_at": "2026-10-09T00:33:45.174849+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Thu, 08 Oct 2026 17:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Cuba’s Fuel Crisis Turns the Island Into a Solar Test Case",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Cuba is turning into a solar-powered island because of the U.S. naval blockade that is preventing fuel from reaching it. Imports of solar tech from that same U.S. are surging despite the decades-old U.S. embargo on Cuba,"
+    },
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Thu, 08 Oct 2026 16:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Iran War Energy Shock Puts Hydrogen Back on the Table",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "This year’s global energy crisis has revived international interest in hydrogen’s potential to replace fossil fuels in a wide range of industrial applications, from steelmaking to shipping. Green hydrogen is still massiv"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -56,15 +74,6 @@
       "summary": "President Trump just issued a new Truth Social Post Thursday just after noon time (eastern), wherein he declared \"we will not be attacking Iran at any time prior to the Midterm Elections\" in November. Oil dropped on the "
     },
     {
-      "category": "geo",
-      "impact": "high",
-      "time": "Thu, 08 Oct 2026 09:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Russian Oil Flows to India Plunge to 310,000 Bpd",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "India is reducing its imports of crude oil from Russia, but mostly not because of the U.S. tariff threat for buying Russian oil. Economics have always been driving Indian refiners’ purchases, and the past few weeks haven"
-    },
-    {
       "category": "macro",
       "impact": "medium",
       "time": "2026-10-04T05:15:00-04:00",
@@ -117,15 +126,6 @@
       "headline": "USD Unemployment Claims",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 200K · Previous: 197K"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-10-09T10:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Prelim UoM Consumer Sentiment",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 47.5 · Previous: 47.8"
     }
   ]
 }
