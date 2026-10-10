@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T20:00:47.405824+00:00",
+  "generated_at": "2026-10-10T00:12:56.465145+00:00",
   "stories": [
     {
       "category": "geo",
@@ -9,15 +9,6 @@
       "headline": "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Gasoline topped $4.40 a gallon in the U.S. in September, and Brent has sat above $100 a barrel since early September, up from around $60 before the Iran war started. Drivers have responded about how you'd expect. New hyb"
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Fri, 09 Oct 2026 09:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Rubio Warns Ukraine Stalemate Could Turn Into Wider Conflict",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "US Secretary of State Marco Rubio warned that Russia's war against Ukraine is at a stalemate but could escalate into a broader regional conflict if the deadlock pushes either side toward increasingly dangerous actions. S"
     },
     {
       "category": "macro",
@@ -63,6 +54,15 @@
       "headline": "CAD Unemployment Rate",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 6.5% · Previous: 6.4%"
+    },
+    {
+      "category": "minerals",
+      "impact": "high",
+      "time": "Fri, 09 Oct 2026 15:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Hurricane Isaias has now knocked nearly 1.46 million barrels per day of U.S. Gulf oil production offline, extending a rapid shutdown that began with just 185,120 bpd three days ago. The Marine Minerals Administration sai"
     },
     {
       "category": "geo",
