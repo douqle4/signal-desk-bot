@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-10T12:53:42.841917+00:00",
+  "generated_at": "2026-10-10T17:40:36.346478+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Sat, 10 Oct 2026 10:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "The Iran War Is Fueling a Boom in Clean Energy",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The Iran war might have done exactly what President Trump was trying to avoid: turning the world away from fossil fuels to alternative energy sources, because of the wide range of vulnerabilities it has exposed in the in"
+    },
     {
       "category": "geo",
       "impact": "critical",
@@ -117,15 +126,6 @@
       "headline": "USD FOMC Member Waller Speaks",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-10-08T08:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Unemployment Claims",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 200K · Previous: 197K"
     }
   ]
 }
