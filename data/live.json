@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-10T17:40:36.346478+00:00",
+  "generated_at": "2026-10-10T21:18:05.937712+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Sat, 10 Oct 2026 14:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Southeast Asia Needs More Power, But Its Weak Grid Could Be a Problem",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The war in Iran has exposed a critical vulnerability in Southeast Asia’s energy markets. The region is heavily dependent on fossil fuel imports, and demand is continuing its steep growth trajectory even as global crude o"
+    },
     {
       "category": "geo",
       "impact": "critical",
@@ -72,15 +81,6 @@
       "headline": "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Hurricane Isaias has now knocked nearly 1.46 million barrels per day of U.S. Gulf oil production offline, extending a rapid shutdown that began with just 185,120 bpd three days ago. The Marine Minerals Administration sai"
-    },
-    {
-      "category": "geo",
-      "impact": "high",
-      "time": "Fri, 09 Oct 2026 11:35:22 -0500",
-      "source": "OilPrice.com",
-      "headline": "Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Oil retreats from $110 as Trump rules out Iran strikes before the midterms, but tanker attacks and a Gulf hurricane threaten fresh volatility. Friday, October 09, 2026 Donald Trump seems to be firefighting the Middle Eas"
     },
     {
       "category": "macro",
