@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-10T21:18:05.937712+00:00",
+  "generated_at": "2026-10-11T00:20:53.105956+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Sat, 10 Oct 2026 18:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The cost of shipping crude oil soared to record highs last month as the Iran war reshuffled trade routes and patterns and tied up more tankers in inefficient and lengthy voyages. Supertanker rates soared in September to "
+    },
     {
       "category": "geo",
       "impact": "critical",
@@ -18,15 +27,6 @@
       "headline": "The Iran War Is Fueling a Boom in Clean Energy",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "The Iran war might have done exactly what President Trump was trying to avoid: turning the world away from fossil fuels to alternative energy sources, because of the wide range of vulnerabilities it has exposed in the in"
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Fri, 09 Oct 2026 15:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Gasoline topped $4.40 a gallon in the U.S. in September, and Brent has sat above $100 a barrel since early September, up from around $60 before the Iran war started. Drivers have responded about how you'd expect. New hyb"
     },
     {
       "category": "macro",
