@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T08:46:55.223158+00:00",
+  "generated_at": "2026-10-12T18:42:44.718013+00:00",
   "stories": [
     {
       "category": "macro",
@@ -121,11 +121,11 @@
     {
       "category": "macro",
       "impact": "high",
-      "time": "Mon, 12 Oct 2026 02:00:00 -0500",
+      "time": "Mon, 12 Oct 2026 12:30:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Supertanker Rates Slip From Record Highs",
+      "headline": "Black Sea Oil Shipping Insurance Costs Surge to $2.5 Million",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Supertanker rates have retreated slightly after touching an all-time high earlier this month, with the price of chartering a very large crude carrier for a trip from the Gulf Coast to China at $634,974 per day, according"
+      "summary": "Insurance costs for ships transporting oil across the Black Sea have surged from approximately $200,000 to $2.5 million per vessel in recent months, increasing crude transportation costs and putting additional pressure o"
     }
   ]
 }
