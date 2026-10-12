@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-10-12T01:34:32.801767+00:00",
+  "generated_at": "2026-10-12T08:46:55.223158+00:00",
   "stories": [
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Sat, 10 Oct 2026 18:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The cost of shipping crude oil soared to record highs last month as the Iran war reshuffled trade routes and patterns and tied up more tankers in inefficient and lengthy voyages. Supertanker rates soared in September to "
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -126,6 +117,15 @@
       "headline": "USD Fed Chairman Warsh Speaks",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "Mon, 12 Oct 2026 02:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Supertanker Rates Slip From Record Highs",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Supertanker rates have retreated slightly after touching an all-time high earlier this month, with the price of chartering a very large crude carrier for a trip from the Gulf Coast to China at $634,974 per day, according"
     }
   ]
 }
