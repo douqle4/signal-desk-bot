@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T18:42:44.718013+00:00",
+  "generated_at": "2026-10-13T01:08:28.788018+00:00",
   "stories": [
     {
       "category": "macro",
@@ -44,7 +44,7 @@
       "source": "ForexFactory calendar",
       "headline": "AUD Employment Change",
       "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 20.0K · Previous: 39.5K"
+      "summary": "Forecast: 19.6K · Previous: 39.5K"
     },
     {
       "category": "macro",
@@ -80,7 +80,7 @@
       "source": "ForexFactory calendar",
       "headline": "USD Core Retail Sales m/m",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 0.5% · Previous: 1.4%"
+      "summary": "Forecast: 0.6% · Previous: 1.4%"
     },
     {
       "category": "macro",
@@ -89,7 +89,7 @@
       "source": "ForexFactory calendar",
       "headline": "USD PPI m/m",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 0.5% · Previous: 0.4%"
+      "summary": "Forecast: 0.6% · Previous: 0.4%"
     },
     {
       "category": "macro",
@@ -121,11 +121,11 @@
     {
       "category": "macro",
       "impact": "high",
-      "time": "Mon, 12 Oct 2026 12:30:00 -0500",
+      "time": "Mon, 12 Oct 2026 17:00:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Black Sea Oil Shipping Insurance Costs Surge to $2.5 Million",
+      "headline": "Global Coal Demand Rises as LNG Shortage Deepens",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Insurance costs for ships transporting oil across the Black Sea have surged from approximately $200,000 to $2.5 million per vessel in recent months, increasing crude transportation costs and putting additional pressure o"
+      "summary": "Liquefied natural gas flows from the Persian Gulf are still over 75% lower than they were before February 28th. Yet heating demand is rising ahead of winter. In Europe, the November natural gas benchmark contract is trad"
     }
   ]
 }
