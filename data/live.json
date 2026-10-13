@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T08:11:11.711407+00:00",
+  "generated_at": "2026-10-13T16:16:11.218084+00:00",
   "stories": [
     {
       "category": "macro",
@@ -120,12 +120,12 @@
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "Mon, 12 Oct 2026 17:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Global Coal Demand Rises as LNG Shortage Deepens",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Liquefied natural gas flows from the Persian Gulf are still over 75% lower than they were before February 28th. Yet heating demand is rising ahead of winter. In Europe, the November natural gas benchmark contract is trad"
+      "impact": "medium",
+      "time": "2026-10-13T22:10:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR ECB President Lagarde Speaks",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
     }
   ]
 }
