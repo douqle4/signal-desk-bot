@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-13T21:25:19.522993+00:00",
+  "generated_at": "2026-10-14T00:29:27.788767+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Tue, 13 Oct 2026 17:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Stranded Middle East LNG Supply Upends Gas Markets",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The LNG supply out of the Middle East has not recovered in any meaningful way seven and a half months after the Iran war choked oil and gas shipments through the Strait of Hormuz. Since March, some occasional LNG cargoes"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -116,15 +125,6 @@
       "source": "ForexFactory calendar",
       "headline": "USD Fed Chairman Warsh Speaks",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-10-13T22:10:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR ECB President Lagarde Speaks",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     }
   ]
