@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-10-14T10:28:01.366581+00:00",
+  "generated_at": "2026-10-14T15:24:07.321090+00:00",
   "stories": [
     {
       "category": "geo",
       "impact": "critical",
-      "time": "Tue, 13 Oct 2026 17:00:00 -0500",
+      "time": "Wed, 14 Oct 2026 09:30:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Stranded Middle East LNG Supply Upends Gas Markets",
+      "headline": "India’s Gas Demand Drops as Iran War Hikes LNG Spot Prices",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The LNG supply out of the Middle East has not recovered in any meaningful way seven and a half months after the Iran war choked oil and gas shipments through the Strait of Hormuz. Since March, some occasional LNG cargoes"
+      "summary": "India’s natural gas demand has declined by 1.5 million tons so far this year as the Iran war choked LNG supplies from the Middle East, hiked spot prices, and destroyed some demand across South Asia, energy consultants Wo"
+    },
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Wed, 14 Oct 2026 06:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Oman Overtakes U.S. as India's Top LNG Supplier in September",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Oman was India’s single biggest LNG supplier in September, toppling the United States that held the top spot for months after the Iran war began, as European buyers are snapping up American cargoes and intensifying the c"
     },
     {
       "category": "macro",
@@ -116,15 +125,6 @@
       "source": "ForexFactory calendar",
       "headline": "GBP BOE Gov Bailey Speaks",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-10-15T23:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Fed Chairman Warsh Speaks",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     }
   ]
