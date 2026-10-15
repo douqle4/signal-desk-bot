@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-14T23:01:41.640002+00:00",
+  "generated_at": "2026-10-15T01:41:06.081086+00:00",
   "stories": [
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Wed, 14 Oct 2026 19:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Brookfield, NextEra to Build $100 Billion AI Hub on Cold War Nuclear Site",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The U.S. Department of Energy (DoE) has announced a landmark $100-billion private investment to turn the former uranium enrichment site in Western Kentucky into the new Paducah American Energy Hub, marking one of the lar"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -117,15 +126,6 @@
       "headline": "USD Fed Chairman Warsh Speaks",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "Wed, 14 Oct 2026 12:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Houthis Vow More Attacks After Strike on Aramco Headquarters",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Yemen's Houthis said Wednesday they will resume attacks on Saudi airports and oil facilities \"in the coming days,\" after Saudi authorities reported a limited fire at Aramco's office complex in Dhahran during a Houthi mis"
     }
   ]
 }
