@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T17:38:49.446888+00:00",
+  "generated_at": "2026-10-15T21:02:47.213017+00:00",
   "stories": [
     {
       "category": "macro",
@@ -119,13 +119,13 @@
       "summary": "Scheduled economic release."
     },
     {
-      "category": "macro",
+      "category": "minerals",
       "impact": "high",
-      "time": "Thu, 15 Oct 2026 10:30:00 -0500",
+      "time": "Thu, 15 Oct 2026 14:30:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Pakistan Faces Winter Gas Shortages if Hormuz LNG Remains Choked",
+      "headline": "Ukraine Strikes Major Russian Oil Refinery",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Pakistan faces challenging winter months with potential natural gas shortages as the Qatari and UAE LNG flows from the Strait of Hormuz remain severely disrupted, the head of the Pakistani state-owned LNG importer said o"
+      "summary": "It took Ukraine just hours to turn President Volodymyr Zelenskyy’s “we’re done” into a refinery fire. Ukrainian drones struck Russia’s Ryazan refinery on Thursday, ending Kyiv’s brief pause in attacks on Russian energy i"
     }
   ]
 }
