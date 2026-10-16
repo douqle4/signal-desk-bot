@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T20:38:11.586235+00:00",
+  "generated_at": "2026-10-16T23:17:54.151457+00:00",
   "stories": [
     {
       "category": "macro",
@@ -120,12 +120,12 @@
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "Fri, 16 Oct 2026 10:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "German Power Supply Startups Exit Market as Wholesale Prices Soar",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Two startup electricity retailers in Germany have recently announced they would cease operations as spiking wholesale prices amid the gas price surge are pressuring the industry again, and this time the pressure is compo"
+      "impact": "medium",
+      "time": "2026-10-13T22:10:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR ECB President Lagarde Speaks",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
     }
   ]
 }
