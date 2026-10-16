@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-16T08:49:13.008786+00:00",
+  "generated_at": "2026-10-16T13:47:28.382501+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Fri, 16 Oct 2026 08:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Iran War Set To Push PetroChina’s Trading Profit to Record $3 Billion",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The trading arm of China’s state-owned giant PetroChina is set to reap a record more than $3 billion (20 billion yuan) in trading profits this year as the Middle East crisis hiked crude prices and rattled global fuel mar"
+    },
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Fri, 16 Oct 2026 07:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Trump's Oil Price Strategy Faces Two Major Tests This Weekend",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Two Trump decisions will set this weekend's energy risk, and in both he is giving up leverage to chase lower pump prices before November 3. The first is to keep U.S. firepower out of Saudi Arabia's war with the Houthis. "
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -108,24 +126,6 @@
       "headline": "GBP BOE Gov Bailey Speaks",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-10-15T23:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Fed Chairman Warsh Speaks",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
-    },
-    {
-      "category": "minerals",
-      "impact": "high",
-      "time": "Fri, 16 Oct 2026 03:15:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Trump Condemns Ukraine’s Russian Refinery Strikes as a “Disgrace”",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Ukraine’s renewed attacks on Russian refineries are a “disgrace” and will only lead to higher prices, President Donald Trump has said in comments about the latest Ukrainian attack of a Rosneft facility in Ryazan. “All he"
     }
   ]
 }
