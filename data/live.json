@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-17T21:59:50.051054+00:00",
+  "generated_at": "2026-10-17T23:57:04.435915+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Sat, 17 Oct 2026 18:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Oil Prices Stay High as War Keeps Supply Tight Into 2027",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "During the first three months or so of the U.S. and Israeli war with Iran, the dominant mood on oil markets was that the conflict would end any day now. The brief June ceasefire reinforced that optimism, so it took a whi"
+    },
     {
       "category": "geo",
       "impact": "critical",
@@ -117,15 +126,6 @@
       "headline": "USD Retail Sales m/m",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 0.3% · Previous: 1.2%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-10-15T22:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "GBP BOE Gov Bailey Speaks",
-      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
     }
   ]
 }
