@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-17T14:05:38.458431+00:00",
+  "generated_at": "2026-10-17T17:26:30.038834+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Sat, 17 Oct 2026 10:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Bolivia’s Energy Crisis Deepens as Natural Gas Reserves Run Dry",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Years of underinvestment in Bolivia’s gas industry have left the South American country facing a severe fuel shortage, as energy prices rise ever higher owing to the ongoing war in Iran. The energy shortages and economic"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -116,15 +125,6 @@
       "source": "ForexFactory calendar",
       "headline": "USD Fed Chairman Warsh Speaks",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-10-13T22:10:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR ECB President Lagarde Speaks",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     }
   ]
