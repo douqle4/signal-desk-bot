@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T04:12:42.746949+00:00",
+  "generated_at": "2026-10-18T08:59:22.978954+00:00",
   "stories": [
     {
       "category": "geo",
@@ -31,101 +31,101 @@
     {
       "category": "macro",
       "impact": "high",
-      "time": "2026-10-14T08:30:00-04:00",
+      "time": "2026-10-19T08:30:00-04:00",
       "source": "ForexFactory calendar",
-      "headline": "USD Core CPI m/m",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 0.2% · Previous: 0.3%"
+      "headline": "CAD CPI m/m",
+      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 0.2% · Previous: -0.1%"
     },
     {
       "category": "macro",
       "impact": "high",
-      "time": "2026-10-14T08:30:00-04:00",
+      "time": "2026-10-19T08:30:00-04:00",
       "source": "ForexFactory calendar",
-      "headline": "USD Core CPI y/y",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 2.5% · Previous: 2.4%"
+      "headline": "CAD Median CPI y/y",
+      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 2.0% · Previous: 2.0%"
     },
     {
       "category": "macro",
       "impact": "high",
-      "time": "2026-10-14T08:30:00-04:00",
+      "time": "2026-10-19T08:30:00-04:00",
       "source": "ForexFactory calendar",
-      "headline": "USD CPI m/m",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 0.6% · Previous: 0.4%"
+      "headline": "CAD Trimmed CPI y/y",
+      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 1.9% · Previous: 1.9%"
     },
     {
       "category": "macro",
       "impact": "high",
-      "time": "2026-10-14T08:30:00-04:00",
+      "time": "2026-10-21T02:00:00-04:00",
       "source": "ForexFactory calendar",
-      "headline": "USD CPI y/y",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 3.6% · Previous: 3.4%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-10-14T20:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "AUD Employment Change",
-      "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 19.6K · Previous: 39.5K"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-10-14T20:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "AUD Unemployment Rate",
-      "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 4.6% · Previous: 4.6%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-10-15T02:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "GBP GDP m/m",
+      "headline": "GBP CPI y/y",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
-      "summary": "Forecast: -0.1% · Previous: 0.4%"
+      "summary": "Forecast: 3.4% · Previous: 3.1%"
     },
     {
       "category": "macro",
       "impact": "high",
-      "time": "2026-10-15T08:30:00-04:00",
+      "time": "2026-10-21T17:45:00-04:00",
       "source": "ForexFactory calendar",
-      "headline": "USD Core PPI m/m",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 0.3% · Previous: 0.2%"
+      "headline": "NZD CPI q/q",
+      "why": "Scheduled NZD data release — historically moves NZD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 0.8% · Previous: 1.5%"
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "2026-10-15T08:30:00-04:00",
+      "impact": "medium",
+      "time": "2026-10-19T08:30:00-04:00",
       "source": "ForexFactory calendar",
-      "headline": "USD Core Retail Sales m/m",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 0.6% · Previous: 1.4%"
+      "headline": "CAD Common CPI y/y",
+      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 2.6% · Previous: 2.6%"
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "2026-10-15T08:30:00-04:00",
+      "impact": "medium",
+      "time": "2026-10-20T02:00:00-04:00",
       "source": "ForexFactory calendar",
-      "headline": "USD PPI m/m",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 0.6% · Previous: 0.4%"
+      "headline": "GBP Average Earnings Index 3m/y",
+      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 3.8% · Previous: 3.9%"
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "2026-10-15T08:30:00-04:00",
+      "impact": "medium",
+      "time": "2026-10-21T09:00:00-04:00",
       "source": "ForexFactory calendar",
-      "headline": "USD Retail Sales m/m",
+      "headline": "GBP BOE Gov Bailey Speaks",
+      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-10-22T08:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Unemployment Claims",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 0.3% · Previous: 1.2%"
+      "summary": "Forecast: 200K · Previous: 199K"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-10-23T02:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "GBP Retail Sales m/m",
+      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
+      "summary": "Forecast: -0.2% · Previous: 0.5%"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-10-23T03:15:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR French Flash Manufacturing PMI",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 50.6 · Previous: 50.3"
     }
   ]
 }
