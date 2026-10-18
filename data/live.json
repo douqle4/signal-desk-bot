@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T19:16:59.161113+00:00",
+  "generated_at": "2026-10-18T21:41:24.523526+00:00",
   "stories": [
     {
       "category": "geo",
@@ -18,15 +18,6 @@
       "headline": "Middle East Chemicals Keep Their Cost Edge Despite Hormuz Crisis",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Despite the Iran war and the Hormuz crisis, the Middle East’s low-cost chemicals production is set to retain its long-term advantage over other regions. Near-term shifts in the sourcing of polymers are taking place due t"
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Sat, 17 Oct 2026 10:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Bolivia’s Energy Crisis Deepens as Natural Gas Reserves Run Dry",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Years of underinvestment in Bolivia’s gas industry have left the South American country facing a severe fuel shortage, as energy prices rise ever higher owing to the ongoing war in Iran. The energy shortages and economic"
     },
     {
       "category": "macro",
@@ -126,6 +117,15 @@
       "headline": "GBP Retail Sales m/m",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Forecast: -0.2% · Previous: 0.5%"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-10-23T03:15:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR French Flash Manufacturing PMI",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 50.6 · Previous: 50.3"
     }
   ]
 }
