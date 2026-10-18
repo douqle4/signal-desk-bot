@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T16:43:20.718809+00:00",
+  "generated_at": "2026-10-18T19:16:59.161113+00:00",
   "stories": [
     {
       "category": "geo",
@@ -74,6 +74,15 @@
       "summary": "Forecast: 0.8% · Previous: 1.5%"
     },
     {
+      "category": "geo",
+      "impact": "high",
+      "time": "Sun, 18 Oct 2026 12:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Iran Faces Rising Threat From Within as Baluch Insurgency Escalates",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Iran's vast and restive southeastern province of Sistan-Baluchistan, located along the border with Afghanistan and Pakistan, has witnessed a deadly flare-up of violence in recent weeks. Armed groups and Iranian security "
+    },
+    {
       "category": "macro",
       "impact": "medium",
       "time": "2026-10-19T08:30:00-04:00",
@@ -117,15 +126,6 @@
       "headline": "GBP Retail Sales m/m",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Forecast: -0.2% · Previous: 0.5%"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-10-23T03:15:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR French Flash Manufacturing PMI",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 50.6 · Previous: 50.3"
     }
   ]
 }
