@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-19T10:09:30.556410+00:00",
+  "generated_at": "2026-10-19T17:05:20.650277+00:00",
   "stories": [
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Mon, 19 Oct 2026 11:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Canada's Inflation Rises to 3.1% as Fuel Oil Prices Jump 58%",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Gasoline and fuel oil pushed Canada's annual inflation rate to 3.1% in September, up from 3.0% in August, as the war in the Middle East kept fuel prices high, Statistics Canada said on Monday. Gasoline prices rose 27.8% "
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -47,13 +56,13 @@
       "summary": "Forecast: 0.8% · Previous: 1.5%"
     },
     {
-      "category": "macro",
+      "category": "geo",
       "impact": "high",
-      "time": "Mon, 19 Oct 2026 02:00:00 -0500",
+      "time": "Mon, 19 Oct 2026 08:30:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Greenpeace Protest Forces Shutdown at Woodside’s $12.5 Billion Gas Project",
+      "headline": "Trump Defends Russia Sanctions Waiver as Rift With Ukraine Deepens",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Two Greenpeace activists were arrested in Australia after they caused a halt in operations at Woodside Energy’s Scarborough LNG platform, off the coast of Western Australia. The two were charged with “interfering with of"
+      "summary": "President Donald Trump defended his decision to waive sweeping sanctions planned against Russia as an effort to keep Moscow at the negotiating table amid strong criticism from Kyiv and some US lawmakers that it sends the"
     },
     {
       "category": "macro",
@@ -117,15 +126,6 @@
       "headline": "EUR French Flash Services PMI",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Forecast: 50.8 · Previous: 51.4"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-10-23T03:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR German Flash Manufacturing PMI",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 53.5 · Previous: 53.8"
     }
   ]
 }
