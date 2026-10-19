@@ -1,24 +1,6 @@
 {
-  "generated_at": "2026-10-19T04:25:42.201453+00:00",
+  "generated_at": "2026-10-19T10:09:30.556410+00:00",
   "stories": [
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Sat, 17 Oct 2026 18:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Oil Prices Stay High as War Keeps Supply Tight Into 2027",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "During the first three months or so of the U.S. and Israeli war with Iran, the dominant mood on oil markets was that the conflict would end any day now. The brief June ceasefire reinforced that optimism, so it took a whi"
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Sat, 17 Oct 2026 16:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Middle East Chemicals Keep Their Cost Edge Despite Hormuz Crisis",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Despite the Iran war and the Hormuz crisis, the Middle East’s low-cost chemicals production is set to retain its long-term advantage over other regions. Near-term shifts in the sourcing of polymers are taking place due t"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -65,13 +47,13 @@
       "summary": "Forecast: 0.8% · Previous: 1.5%"
     },
     {
-      "category": "geo",
+      "category": "macro",
       "impact": "high",
-      "time": "Sun, 18 Oct 2026 12:00:00 -0500",
+      "time": "Mon, 19 Oct 2026 02:00:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Iran Faces Rising Threat From Within as Baluch Insurgency Escalates",
+      "headline": "Greenpeace Protest Forces Shutdown at Woodside’s $12.5 Billion Gas Project",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Iran's vast and restive southeastern province of Sistan-Baluchistan, located along the border with Afghanistan and Pakistan, has witnessed a deadly flare-up of violence in recent weeks. Armed groups and Iranian security "
+      "summary": "Two Greenpeace activists were arrested in Australia after they caused a halt in operations at Woodside Energy’s Scarborough LNG platform, off the coast of Western Australia. The two were charged with “interfering with of"
     },
     {
       "category": "macro",
@@ -126,6 +108,24 @@
       "headline": "EUR French Flash Manufacturing PMI",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Forecast: 50.6 · Previous: 50.3"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-10-23T03:15:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR French Flash Services PMI",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 50.8 · Previous: 51.4"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-10-23T03:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR German Flash Manufacturing PMI",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 53.5 · Previous: 53.8"
     }
   ]
 }
