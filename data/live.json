@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-19T17:05:20.650277+00:00",
+  "generated_at": "2026-10-19T21:40:08.447251+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Mon, 19 Oct 2026 16:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Why Invading Iran Could Become America's Biggest Military Mistake",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The ghosts of Baghdad and Kabul should be enough to silence any talk of sending American troops into Iran. Yet here we are, more than seven months into a war that began on 28 February with U.S.-Israeli strikes that kille"
+    },
     {
       "category": "macro",
       "impact": "critical",
@@ -54,15 +63,6 @@
       "headline": "NZD CPI q/q",
       "why": "Scheduled NZD data release — historically moves NZD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 0.8% · Previous: 1.5%"
-    },
-    {
-      "category": "geo",
-      "impact": "high",
-      "time": "Mon, 19 Oct 2026 08:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Trump Defends Russia Sanctions Waiver as Rift With Ukraine Deepens",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "President Donald Trump defended his decision to waive sweeping sanctions planned against Russia as an effort to keep Moscow at the negotiating table amid strong criticism from Kyiv and some US lawmakers that it sends the"
     },
     {
       "category": "macro",
