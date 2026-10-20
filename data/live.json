@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T05:47:49.727727+00:00",
+  "generated_at": "2026-10-20T11:05:20.783677+00:00",
   "stories": [
     {
       "category": "geo",
@@ -57,6 +57,15 @@
     },
     {
       "category": "macro",
+      "impact": "high",
+      "time": "Tue, 20 Oct 2026 02:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Asian LNG Prices Surge Past $30 as Middle East Shipping Risks Escalate",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Liquefied natural gas prices on the Asian spot market topped $30 per million British thermal units for the first time since December 2022, Bloomberg reported earlier today. The price jump follows a report about a strike "
+    },
+    {
+      "category": "macro",
       "impact": "medium",
       "time": "2026-10-19T08:30:00-04:00",
       "source": "ForexFactory calendar",
@@ -98,7 +107,7 @@
       "source": "ForexFactory calendar",
       "headline": "GBP Retail Sales m/m",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
-      "summary": "Forecast: -0.2% · Previous: 0.5%"
+      "summary": "Forecast: -0.1% · Previous: 0.5%"
     },
     {
       "category": "macro",
@@ -107,7 +116,7 @@
       "source": "ForexFactory calendar",
       "headline": "EUR French Flash Manufacturing PMI",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 50.6 · Previous: 50.3"
+      "summary": "Forecast: 50.5 · Previous: 50.3"
     },
     {
       "category": "macro",
@@ -116,16 +125,7 @@
       "source": "ForexFactory calendar",
       "headline": "EUR French Flash Services PMI",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 50.8 · Previous: 51.4"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-10-23T03:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR German Flash Manufacturing PMI",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 53.5 · Previous: 53.8"
+      "summary": "Forecast: 50.7 · Previous: 51.4"
     }
   ]
 }
