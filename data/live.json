@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-10-20T11:05:20.783677+00:00",
+  "generated_at": "2026-10-20T15:45:48.493193+00:00",
   "stories": [
     {
       "category": "geo",
       "impact": "critical",
-      "time": "Mon, 19 Oct 2026 16:00:00 -0500",
+      "time": "Tue, 20 Oct 2026 10:30:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Why Invading Iran Could Become America's Biggest Military Mistake",
+      "headline": "Saudi Arabia and Asia Locked In Dispute Over 2027 Term Oil Deals",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The ghosts of Baghdad and Kabul should be enough to silence any talk of sending American troops into Iran. Yet here we are, more than seven months into a war that began on 28 February with U.S.-Israeli strikes that kille"
+      "summary": "Asian refiners and Middle Eastern producers are currently negotiating the term supplies of crude oil for 2027, as usual. The unusual part is that the Iran war has crippled fixed-term supplies this year, and Middle Easter"
+    },
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Tue, 20 Oct 2026 09:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Russia’s Shadow Role in Iran War Comes Under Fresh Scrutiny",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Russian Foreign Minister Sergei Lavrov traveled to Iran on October 19, meeting with President Masud Pezeshkian and Foreign Minister Abbas Araqchi amid questions over what support Moscow is providing Tehran to fight its w"
     },
     {
       "category": "macro",
@@ -56,13 +65,13 @@
       "summary": "Forecast: 0.8% · Previous: 1.5%"
     },
     {
-      "category": "macro",
+      "category": "minerals",
       "impact": "high",
-      "time": "Tue, 20 Oct 2026 02:00:00 -0500",
+      "time": "Tue, 20 Oct 2026 06:30:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Asian LNG Prices Surge Past $30 as Middle East Shipping Risks Escalate",
+      "headline": "Copper Needs $332 Billion in New Mines to Avoid Deficit, BloombergNEF Says",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Liquefied natural gas prices on the Asian spot market topped $30 per million British thermal units for the first time since December 2022, Bloomberg reported earlier today. The price jump follows a report about a strike "
+      "summary": "While nine out of ten key energy transition metals are back on track to deliver sufficient supply by 2050, a total of $332 billion of investment is needed in new copper mines to avoid a looming copper deficit that could "
     },
     {
       "category": "macro",
@@ -117,15 +126,6 @@
       "headline": "EUR French Flash Manufacturing PMI",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Forecast: 50.5 · Previous: 50.3"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-10-23T03:15:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR French Flash Services PMI",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 50.7 · Previous: 51.4"
     }
   ]
 }
