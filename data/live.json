@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-10-20T19:53:00.519746+00:00",
+  "generated_at": "2026-10-20T22:58:50.551995+00:00",
   "stories": [
-    {
-      "category": "macro",
-      "impact": "critical",
-      "time": "Tue, 20 Oct 2026 11:11:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "The Next Major Oil Supply Shock Could Come From Saudi Arabia",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Houthi strikes on Saudi oil infrastructure threaten production as Brent crude hits $108 and the Brent-WTI spread widens to $5. The LNG Market Gets a New War Premium - Asian liquefied natural gas prices soared to their hi"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -126,6 +117,15 @@
       "headline": "EUR French Flash Services PMI",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Forecast: 50.7 · Previous: 51.4"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-10-23T03:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR German Flash Manufacturing PMI",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 53.5 · Previous: 53.8"
     }
   ]
 }
