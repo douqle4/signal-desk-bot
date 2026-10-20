@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T21:40:08.447251+00:00",
+  "generated_at": "2026-10-20T00:56:26.650046+00:00",
   "stories": [
     {
       "category": "geo",
@@ -9,15 +9,6 @@
       "headline": "Why Invading Iran Could Become America's Biggest Military Mistake",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "The ghosts of Baghdad and Kabul should be enough to silence any talk of sending American troops into Iran. Yet here we are, more than seven months into a war that began on 28 February with U.S.-Israeli strikes that kille"
-    },
-    {
-      "category": "macro",
-      "impact": "critical",
-      "time": "Mon, 19 Oct 2026 11:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Canada's Inflation Rises to 3.1% as Fuel Oil Prices Jump 58%",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Gasoline and fuel oil pushed Canada's annual inflation rate to 3.1% in September, up from 3.0% in August, as the war in the Middle East kept fuel prices high, Statistics Canada said on Monday. Gasoline prices rose 27.8% "
     },
     {
       "category": "macro",
@@ -126,6 +117,15 @@
       "headline": "EUR French Flash Services PMI",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Forecast: 50.8 · Previous: 51.4"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-10-23T03:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR German Flash Manufacturing PMI",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 53.5 · Previous: 53.8"
     }
   ]
 }
