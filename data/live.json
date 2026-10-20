@@ -1,23 +1,14 @@
 {
-  "generated_at": "2026-10-20T15:45:48.493193+00:00",
+  "generated_at": "2026-10-20T19:53:00.519746+00:00",
   "stories": [
     {
-      "category": "geo",
+      "category": "macro",
       "impact": "critical",
-      "time": "Tue, 20 Oct 2026 10:30:00 -0500",
+      "time": "Tue, 20 Oct 2026 11:11:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Saudi Arabia and Asia Locked In Dispute Over 2027 Term Oil Deals",
+      "headline": "The Next Major Oil Supply Shock Could Come From Saudi Arabia",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Asian refiners and Middle Eastern producers are currently negotiating the term supplies of crude oil for 2027, as usual. The unusual part is that the Iran war has crippled fixed-term supplies this year, and Middle Easter"
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Tue, 20 Oct 2026 09:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Russia’s Shadow Role in Iran War Comes Under Fresh Scrutiny",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Russian Foreign Minister Sergei Lavrov traveled to Iran on October 19, meeting with President Masud Pezeshkian and Foreign Minister Abbas Araqchi amid questions over what support Moscow is providing Tehran to fight its w"
+      "summary": "Houthi strikes on Saudi oil infrastructure threaten production as Brent crude hits $108 and the Brent-WTI spread widens to $5. The LNG Market Gets a New War Premium - Asian liquefied natural gas prices soared to their hi"
     },
     {
       "category": "macro",
@@ -65,13 +56,13 @@
       "summary": "Forecast: 0.8% · Previous: 1.5%"
     },
     {
-      "category": "minerals",
+      "category": "macro",
       "impact": "high",
-      "time": "Tue, 20 Oct 2026 06:30:00 -0500",
+      "time": "Tue, 20 Oct 2026 13:31:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Copper Needs $332 Billion in New Mines to Avoid Deficit, BloombergNEF Says",
+      "headline": "Norway's Gas Production Plunges 12.6% as Europe Heads into Winter",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "While nine out of ten key energy transition metals are back on track to deliver sufficient supply by 2050, a total of $332 billion of investment is needed in new copper mines to avoid a looming copper deficit that could "
+      "summary": "Norway’s oil and gas production declined sharply in September, with natural gas output falling 12.6% from August, according to preliminary figures released Tuesday by the Norwegian Offshore Directorate (NOD). Total petro"
     },
     {
       "category": "macro",
@@ -126,6 +117,15 @@
       "headline": "EUR French Flash Manufacturing PMI",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Forecast: 50.5 · Previous: 50.3"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-10-23T03:15:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR French Flash Services PMI",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 50.7 · Previous: 51.4"
     }
   ]
 }
