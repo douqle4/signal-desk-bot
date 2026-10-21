@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T22:58:50.551995+00:00",
+  "generated_at": "2026-10-21T01:27:10.602983+00:00",
   "stories": [
     {
       "category": "macro",
@@ -45,15 +45,6 @@
       "headline": "NZD CPI q/q",
       "why": "Scheduled NZD data release — historically moves NZD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 0.8% · Previous: 1.5%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "Tue, 20 Oct 2026 13:31:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Norway's Gas Production Plunges 12.6% as Europe Heads into Winter",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Norway’s oil and gas production declined sharply in September, with natural gas output falling 12.6% from August, according to preliminary figures released Tuesday by the Norwegian Offshore Directorate (NOD). Total petro"
     },
     {
       "category": "macro",
@@ -126,6 +117,15 @@
       "headline": "EUR German Flash Manufacturing PMI",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Forecast: 53.5 · Previous: 53.8"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-10-23T03:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR German Flash Services PMI",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 52.5 · Previous: 52.9"
     }
   ]
 }
