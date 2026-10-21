@@ -1,24 +1,6 @@
 {
-  "generated_at": "2026-10-21T12:15:43.425108+00:00",
+  "generated_at": "2026-10-21T17:33:42.951385+00:00",
   "stories": [
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Wed, 21 Oct 2026 05:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "UK Approves Jackdaw Gas Field as Energy Crisis Deepens",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The UK government on Wednesday approved the long-delayed Jackdaw gas field in the first approval of a new North Sea project since the Iran war hiked energy prices. Jackdaw will start to supply gas to British homes and bu"
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Wed, 21 Oct 2026 04:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Goldman Sachs Warns of New Oil Price Shock as Tanker Rates Soar",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The average global freight rate to transport oil has surged to $20 per barrel from $3 per barrel last year as the Iran war and the Hormuz crisis have created a shipping crisis that’s unlikely to end soon, Goldman Sachs s"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -67,11 +49,20 @@
     {
       "category": "macro",
       "impact": "high",
-      "time": "Wed, 21 Oct 2026 03:30:00 -0500",
+      "time": "Wed, 21 Oct 2026 12:30:00 -0500",
       "source": "OilPrice.com",
-      "headline": "India’s Coal Crisis Deepens as Power Demand Surges",
+      "headline": "Saudi Crude Exports Hit Five-Month High as Production Falls to Record Low",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Indian power generators are bracing for a coal supply squeeze, with half of the country’s coal power plant fleet operating with critically low stocks, Reuters has reported, citing higher than usual demand for electricity"
+      "summary": "Saudi Arabia's crude exports rose about 7.9% in August from July to 4.451 million barrels per day, the highest since March, while its oil production fell to a record low of 6.24 million bpd, the Joint Organizations Data "
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "Wed, 21 Oct 2026 08:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Japan’s Trade Deficit Doubles as Hormuz Crisis Hikes Energy Import Costs",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Japan booked a trade deficit of $17.8 billion (2.82 trillion Japanese yen) for April to September, almost double the deficit from a year earlier, government data showed on Wednesday, as the Middle East crisis made energy"
     },
     {
       "category": "macro",
@@ -126,6 +117,15 @@
       "headline": "EUR French Flash Manufacturing PMI",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Forecast: 50.5 · Previous: 50.3"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-10-23T03:15:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR French Flash Services PMI",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 50.7 · Previous: 51.4"
     }
   ]
 }
