@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-21T17:33:42.951385+00:00",
+  "generated_at": "2026-10-21T21:22:55.537597+00:00",
   "stories": [
+    {
+      "category": "minerals",
+      "impact": "critical",
+      "time": "Wed, 21 Oct 2026 16:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "S&P Global Warns Hormuz Energy Shock Could Become a Global Food Crisis",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The world’s ongoing energy crisis is quickly turning into a global food security crisis. Ongoing conflict between some of the world’s most prominent economies on two major fronts – Russia’s war in Ukraine and the United "
+    },
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Wed, 21 Oct 2026 14:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Russia’s Northern Sea Route Workaround Supplying Asian Buyers",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Asia-bound Russian crude and fuel supplies are being rerouted as the US-Israeli war on Iran and disruptions in the straits of Hormuz and Bab al-Mandab choke off traditional crude flows from the Persian Gulf. Indeed, Russ"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -57,15 +75,6 @@
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "Wed, 21 Oct 2026 08:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Japan’s Trade Deficit Doubles as Hormuz Crisis Hikes Energy Import Costs",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Japan booked a trade deficit of $17.8 billion (2.82 trillion Japanese yen) for April to September, almost double the deficit from a year earlier, government data showed on Wednesday, as the Middle East crisis made energy"
-    },
-    {
-      "category": "macro",
       "impact": "medium",
       "time": "2026-10-19T08:30:00-04:00",
       "source": "ForexFactory calendar",
@@ -117,15 +126,6 @@
       "headline": "EUR French Flash Manufacturing PMI",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Forecast: 50.5 · Previous: 50.3"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-10-23T03:15:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR French Flash Services PMI",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 50.7 · Previous: 51.4"
     }
   ]
 }
