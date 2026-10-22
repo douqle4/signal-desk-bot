@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T05:13:15.933505+00:00",
+  "generated_at": "2026-10-22T10:27:59.888154+00:00",
   "stories": [
     {
       "category": "minerals",
@@ -27,15 +27,6 @@
       "headline": "S&P Global Warns Hormuz Energy Shock Could Become a Global Food Crisis",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "The world’s ongoing energy crisis is quickly turning into a global food security crisis. Ongoing conflict between some of the world’s most prominent economies on two major fronts – Russia’s war in Ukraine and the United "
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Wed, 21 Oct 2026 14:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Russia’s Northern Sea Route Workaround Supplying Asian Buyers",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Asia-bound Russian crude and fuel supplies are being rerouted as the US-Israeli war on Iran and disruptions in the straits of Hormuz and Bab al-Mandab choke off traditional crude flows from the Persian Gulf. Indeed, Russ"
     },
     {
       "category": "macro",
@@ -83,13 +74,31 @@
       "summary": "Forecast: 0.8% · Previous: 1.5%"
     },
     {
+      "category": "minerals",
+      "impact": "high",
+      "time": "Thu, 22 Oct 2026 04:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Iran Claims Seven Ships Hit in Persian Gulf as Oil Prices Surge",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Iran’s Islamic Revolutionary Guard Corps (IRGC) Navy on Thursday claimed that seven vessels, including oil tankers, were either hit by Iranian forces or struck mines in the Persian Gulf over the past day, as tensions in "
+    },
+    {
       "category": "macro",
       "impact": "high",
-      "time": "Wed, 21 Oct 2026 12:30:00 -0500",
+      "time": "Thu, 22 Oct 2026 03:30:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Saudi Crude Exports Hit Five-Month High as Production Falls to Record Low",
+      "headline": "India Ramps Up Coal Supplies to Record High as Power Crisis Looms",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Saudi Arabia's crude exports rose about 7.9% in August from July to 4.451 million barrels per day, the highest since March, while its oil production fell to a record low of 6.24 million bpd, the Joint Organizations Data "
+      "summary": "Coal supply for power plants in India is ramping up and will soon normalize, an unnamed senior official from the energy ministry in New Delhi said, as quoted by Reuters. At the moment, coal power generators are getting 2"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "Thu, 22 Oct 2026 00:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Oil Prices Surge Above $111 as Houthis Strike Saudi Targets",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Crude oil prices extended their earlier gains today, with Brent crude keeping above $111 per barrel after the latest reports from the Middle East, featuring more Houthi attacks on Saudi targets. An order by the U.S. fede"
     },
     {
       "category": "macro",
@@ -117,15 +126,6 @@
       "headline": "GBP BOE Gov Bailey Speaks",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-10-22T08:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Unemployment Claims",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 200K · Previous: 199K"
     }
   ]
 }
