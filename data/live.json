@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-10-22T10:27:59.888154+00:00",
+  "generated_at": "2026-10-22T15:32:08.194391+00:00",
   "stories": [
     {
-      "category": "minerals",
+      "category": "geo",
       "impact": "critical",
-      "time": "Wed, 21 Oct 2026 19:00:00 -0500",
+      "time": "Thu, 22 Oct 2026 10:00:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Aluminium Gives Up Its War Premium, Copper Stays Elevated",
+      "headline": "Iran's Hardliners Push for Nuclear Weapons as U.S. War Drags On",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "LME Week 2026 kicked off in London on Monday, with industry leaders focused on the macroeconomic outlook for base metals, AI and energy transition demand, as well as critical mineral supply chain resilience. This year's "
-    },
-    {
-      "category": "macro",
-      "impact": "critical",
-      "time": "Wed, 21 Oct 2026 18:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Big Oil Eyes Record Profits but Keeps Spending in Check",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Oil supermajors have been raking it in since the war in the Middle East began. They are now set to report another robust quarter, even as some jurisdictions where they operate plan to slap windfall taxes on them. The que"
-    },
-    {
-      "category": "minerals",
-      "impact": "critical",
-      "time": "Wed, 21 Oct 2026 16:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "S&P Global Warns Hormuz Energy Shock Could Become a Global Food Crisis",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The world’s ongoing energy crisis is quickly turning into a global food security crisis. Ongoing conflict between some of the world’s most prominent economies on two major fronts – Russia’s war in Ukraine and the United "
+      "summary": "It was once taboo in Iran to publicly speak about developing nuclear weapons. The authorities would often point to former Supreme Leader Ayatollah Ali Khamenei's religious edict barring the development of weapons of mass"
     },
     {
       "category": "macro",
@@ -84,24 +66,6 @@
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "Thu, 22 Oct 2026 03:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "India Ramps Up Coal Supplies to Record High as Power Crisis Looms",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Coal supply for power plants in India is ramping up and will soon normalize, an unnamed senior official from the energy ministry in New Delhi said, as quoted by Reuters. At the moment, coal power generators are getting 2"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "Thu, 22 Oct 2026 00:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Oil Prices Surge Above $111 as Houthis Strike Saudi Targets",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Crude oil prices extended their earlier gains today, with Brent crude keeping above $111 per barrel after the latest reports from the Middle East, featuring more Houthi attacks on Saudi targets. An order by the U.S. fede"
-    },
-    {
-      "category": "macro",
       "impact": "medium",
       "time": "2026-10-19T08:30:00-04:00",
       "source": "ForexFactory calendar",
@@ -126,6 +90,42 @@
       "headline": "GBP BOE Gov Bailey Speaks",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-10-22T08:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Unemployment Claims",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 200K · Previous: 199K"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-10-23T02:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "GBP Retail Sales m/m",
+      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
+      "summary": "Forecast: -0.1% · Previous: 0.5%"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-10-23T03:15:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR French Flash Manufacturing PMI",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 50.5 · Previous: 50.3"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-10-23T03:15:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR French Flash Services PMI",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 50.7 · Previous: 51.4"
     }
   ]
 }
