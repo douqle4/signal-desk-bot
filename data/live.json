@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T15:32:08.194391+00:00",
+  "generated_at": "2026-10-22T19:48:31.196391+00:00",
   "stories": [
     {
       "category": "geo",
@@ -54,15 +54,6 @@
       "headline": "NZD CPI q/q",
       "why": "Scheduled NZD data release — historically moves NZD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 0.8% · Previous: 1.5%"
-    },
-    {
-      "category": "minerals",
-      "impact": "high",
-      "time": "Thu, 22 Oct 2026 04:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Iran Claims Seven Ships Hit in Persian Gulf as Oil Prices Surge",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Iran’s Islamic Revolutionary Guard Corps (IRGC) Navy on Thursday claimed that seven vessels, including oil tankers, were either hit by Iranian forces or struck mines in the Persian Gulf over the past day, as tensions in "
     },
     {
       "category": "macro",
@@ -126,6 +117,15 @@
       "headline": "EUR French Flash Services PMI",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Forecast: 50.7 · Previous: 51.4"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-10-23T03:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR German Flash Manufacturing PMI",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 53.5 · Previous: 53.8"
     }
   ]
 }
