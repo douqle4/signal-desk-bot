@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-21T21:22:55.537597+00:00",
+  "generated_at": "2026-10-22T00:07:34.476598+00:00",
   "stories": [
+    {
+      "category": "minerals",
+      "impact": "critical",
+      "time": "Wed, 21 Oct 2026 19:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Aluminium Gives Up Its War Premium, Copper Stays Elevated",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "LME Week 2026 kicked off in London on Monday, with industry leaders focused on the macroeconomic outlook for base metals, AI and energy transition demand, as well as critical mineral supply chain resilience. This year's "
+    },
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Wed, 21 Oct 2026 18:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Big Oil Eyes Record Profits but Keeps Spending in Check",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Oil supermajors have been raking it in since the war in the Middle East began. They are now set to report another robust quarter, even as some jurisdictions where they operate plan to slap windfall taxes on them. The que"
+    },
     {
       "category": "minerals",
       "impact": "critical",
@@ -108,24 +126,6 @@
       "headline": "USD Unemployment Claims",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 200K · Previous: 199K"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-10-23T02:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "GBP Retail Sales m/m",
-      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
-      "summary": "Forecast: -0.1% · Previous: 0.5%"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-10-23T03:15:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR French Flash Manufacturing PMI",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 50.5 · Previous: 50.3"
     }
   ]
 }
