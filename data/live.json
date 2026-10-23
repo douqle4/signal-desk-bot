@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-23T12:45:45.882412+00:00",
+  "generated_at": "2026-10-23T17:45:35.373726+00:00",
   "stories": [
     {
-      "category": "geo",
+      "category": "chips",
       "impact": "critical",
-      "time": "Fri, 23 Oct 2026 06:30:00 -0500",
+      "time": "Fri, 23 Oct 2026 11:00:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Egypt Moves to Defend Saudi Arabia as Iran War Threatens to Widen",
+      "headline": "Space War Fears Rise as Russian Satellite Makes Dangerous Maneuver",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Saudi Arabia was already the most exposed country in the US-Iran war, and Iran has now explicitly listed Saudi refineries, data centers, and undersea communications cables as the next targets should Washington strike aga"
+      "summary": "US officials publicly accused Russia of threatening a Finnish-operated commercial satellite that provides imagery and intelligence to Ukraine and other nations, calling the move \"deliberately reckless.\" In response to th"
     },
     {
       "category": "macro",
@@ -56,22 +56,31 @@
       "summary": "Forecast: 0.8% · Previous: 1.5%"
     },
     {
-      "category": "macro",
+      "category": "geo",
       "impact": "high",
-      "time": "Fri, 23 Oct 2026 06:30:00 -0500",
+      "time": "Fri, 23 Oct 2026 12:20:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Renewables Boom Pushes Australia’s Gas Power to Quarter-Century Low",
+      "headline": "6 Million Barrels in Two Minutes Draws CFTC Scrutiny",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Record renewable power generation and a surge in grid-scale battery capacity pushed Australia’s gas-powered generation to its lowest for any third quarter since 2000, the Australian Energy Market Operator (AEMO) said in "
+      "summary": "Oil traders sold futures equivalent to at least 6 million barrels of crude in just two minutes on March 23, shortly before President Donald Trump backed away from threats to strike Iranian power plants. Now, the federal "
     },
     {
       "category": "macro",
       "impact": "high",
-      "time": "Fri, 23 Oct 2026 05:30:00 -0500",
+      "time": "Fri, 23 Oct 2026 12:16:20 -0500",
       "source": "OilPrice.com",
-      "headline": "European Natural Gas Prices Surge to Highest Level Since 2022",
+      "headline": "U.S. Rig Count Holds Steady as Oil Prices Surge",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The benchmark European natural gas price jumped by 3% at opening in Amsterdam on Friday as the Middle East escalation continues to restrict Qatari LNG flows and some EU countries started tapping gas in storage as tempera"
+      "summary": "The total number of active drilling rigs for oil and gas in the United States remained unchanged for the second week in a row this week, according to new data that Baker Hughes published on Friday, with the total rig cou"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "Fri, 23 Oct 2026 09:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Oil India Strikes Natural Gas in Shallow Offshore Basin",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "State explorer Oil India Limited (OIL) has found natural gas in a previously unexplored formation in the shallow Krishna-Godavari Basin, the Indian company said on Friday. OIL has made the discovery at the Godavari-1 app"
     },
     {
       "category": "macro",
@@ -117,15 +126,6 @@
       "headline": "GBP Retail Sales m/m",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Forecast: -0.1% · Previous: 0.5%"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-10-23T03:15:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR French Flash Manufacturing PMI",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 50.5 · Previous: 50.3"
     }
   ]
 }
