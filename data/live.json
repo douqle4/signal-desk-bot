@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-23T21:07:32.003267+00:00",
+  "generated_at": "2026-10-23T23:55:07.294129+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Fri, 23 Oct 2026 17:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Why Trump and Carney Haven’t Touched Energy in Their Tariff War",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The United States and Canada are locked in an energy trade war – sort of. Although United States President Donald Trump and Canadian Prime Minister Mark Carney have lobbed plenty of blisteringly high tariffs, not to ment"
+    },
     {
       "category": "chips",
       "impact": "critical",
@@ -72,15 +81,6 @@
       "headline": "U.S. Rig Count Holds Steady as Oil Prices Surge",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "The total number of active drilling rigs for oil and gas in the United States remained unchanged for the second week in a row this week, according to new data that Baker Hughes published on Friday, with the total rig cou"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "Fri, 23 Oct 2026 09:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Oil India Strikes Natural Gas in Shallow Offshore Basin",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "State explorer Oil India Limited (OIL) has found natural gas in a previously unexplored formation in the shallow Krishna-Godavari Basin, the Indian company said on Friday. OIL has made the discovery at the Godavari-1 app"
     },
     {
       "category": "macro",
