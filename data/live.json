@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-23T07:07:42.315623+00:00",
+  "generated_at": "2026-10-23T12:45:45.882412+00:00",
   "stories": [
     {
       "category": "geo",
       "impact": "critical",
-      "time": "Thu, 22 Oct 2026 18:00:00 -0500",
+      "time": "Fri, 23 Oct 2026 06:30:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Rising Crude Oil Imports Reduce China’s Need to Draw from Stocks",
+      "headline": "Egypt Moves to Defend Saudi Arabia as Iran War Threatens to Widen",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "China has relied on its huge crude oil inventories since the Iran war hiked oil prices to above $100 per barrel. The world’s biggest crude importer has drawn from its 1.3-billion-barrel stash for most of the months after"
+      "summary": "Saudi Arabia was already the most exposed country in the US-Iran war, and Iran has now explicitly listed Saudi refineries, data centers, and undersea communications cables as the next targets should Washington strike aga"
     },
     {
       "category": "macro",
@@ -54,6 +54,24 @@
       "headline": "NZD CPI q/q",
       "why": "Scheduled NZD data release — historically moves NZD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 0.8% · Previous: 1.5%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "Fri, 23 Oct 2026 06:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Renewables Boom Pushes Australia’s Gas Power to Quarter-Century Low",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Record renewable power generation and a surge in grid-scale battery capacity pushed Australia’s gas-powered generation to its lowest for any third quarter since 2000, the Australian Energy Market Operator (AEMO) said in "
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "Fri, 23 Oct 2026 05:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "European Natural Gas Prices Surge to Highest Level Since 2022",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The benchmark European natural gas price jumped by 3% at opening in Amsterdam on Friday as the Middle East escalation continues to restrict Qatari LNG flows and some EU countries started tapping gas in storage as tempera"
     },
     {
       "category": "macro",
@@ -108,24 +126,6 @@
       "headline": "EUR French Flash Manufacturing PMI",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Forecast: 50.5 · Previous: 50.3"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-10-23T03:15:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR French Flash Services PMI",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 50.7 · Previous: 51.4"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-10-23T03:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR German Flash Manufacturing PMI",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 53.5 · Previous: 53.8"
     }
   ]
 }
