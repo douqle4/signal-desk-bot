@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T01:45:27.863715+00:00",
+  "generated_at": "2026-10-23T07:07:42.315623+00:00",
   "stories": [
     {
       "category": "geo",
@@ -9,15 +9,6 @@
       "headline": "Rising Crude Oil Imports Reduce China’s Need to Draw from Stocks",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "China has relied on its huge crude oil inventories since the Iran war hiked oil prices to above $100 per barrel. The world’s biggest crude importer has drawn from its 1.3-billion-barrel stash for most of the months after"
-    },
-    {
-      "category": "macro",
-      "impact": "critical",
-      "time": "Thu, 22 Oct 2026 15:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Asia Needs $1 Trillion a Year to Secure Energy Supplies",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Asia will need as much as $1 trillion annually in energy investment over the next 15 years to meet rising demand and reduce its exposure to supply disruptions, according to a McKinsey report released Thursday. That amoun"
     },
     {
       "category": "macro",
@@ -126,6 +117,15 @@
       "headline": "EUR French Flash Services PMI",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Forecast: 50.7 · Previous: 51.4"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-10-23T03:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR German Flash Manufacturing PMI",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 53.5 · Previous: 53.8"
     }
   ]
 }
