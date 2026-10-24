@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T19:17:36.391196+00:00",
+  "generated_at": "2026-10-24T21:45:42.443702+00:00",
   "stories": [
     {
       "category": "minerals",
@@ -65,15 +65,6 @@
       "summary": "Forecast: 0.8% · Previous: 1.5%"
     },
     {
-      "category": "geo",
-      "impact": "high",
-      "time": "Fri, 23 Oct 2026 12:20:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "6 Million Barrels in Two Minutes Draws CFTC Scrutiny",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Oil traders sold futures equivalent to at least 6 million barrels of crude in just two minutes on March 23, shortly before President Donald Trump backed away from threats to strike Iranian power plants. Now, the federal "
-    },
-    {
       "category": "macro",
       "impact": "medium",
       "time": "2026-10-19T08:30:00-04:00",
@@ -126,6 +117,15 @@
       "headline": "EUR French Flash Manufacturing PMI",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Forecast: 50.5 · Previous: 50.3"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-10-23T03:15:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR French Flash Services PMI",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 50.7 · Previous: 51.4"
     }
   ]
 }
