@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T16:49:23.922154+00:00",
+  "generated_at": "2026-10-24T19:17:36.391196+00:00",
   "stories": [
     {
       "category": "minerals",
@@ -75,15 +75,6 @@
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "Fri, 23 Oct 2026 12:16:20 -0500",
-      "source": "OilPrice.com",
-      "headline": "U.S. Rig Count Holds Steady as Oil Prices Surge",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The total number of active drilling rigs for oil and gas in the United States remained unchanged for the second week in a row this week, according to new data that Baker Hughes published on Friday, with the total rig cou"
-    },
-    {
-      "category": "macro",
       "impact": "medium",
       "time": "2026-10-19T08:30:00-04:00",
       "source": "ForexFactory calendar",
@@ -126,6 +117,15 @@
       "headline": "GBP Retail Sales m/m",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Forecast: -0.1% · Previous: 0.5%"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-10-23T03:15:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR French Flash Manufacturing PMI",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 50.5 · Previous: 50.3"
     }
   ]
 }
