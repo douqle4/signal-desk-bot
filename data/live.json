@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-23T23:55:07.294129+00:00",
+  "generated_at": "2026-10-24T03:45:15.815648+00:00",
   "stories": [
+    {
+      "category": "minerals",
+      "impact": "critical",
+      "time": "Fri, 23 Oct 2026 17:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "U.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The United States is dipping into its Strategic Petroleum Reserve again, this time to keep crude flowing to a Louisiana refinery while oil prices climb above $117 per barrel. The reserve, meanwhile, is already at its low"
+    },
     {
       "category": "geo",
       "impact": "critical",
@@ -117,15 +126,6 @@
       "headline": "USD Unemployment Claims",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 200K · Previous: 199K"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-10-23T02:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "GBP Retail Sales m/m",
-      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
-      "summary": "Forecast: -0.1% · Previous: 0.5%"
     }
   ]
 }
