@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-24T21:45:42.443702+00:00",
+  "generated_at": "2026-10-25T00:03:52.412078+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Sat, 24 Oct 2026 18:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The Iran war has made oil tanker voyages so inefficient that vessel availability has crumbled and freight costs have soared to record-highs, all but erasing the incentive for shipping crude oil from the U.S. Gulf Coast t"
+    },
     {
       "category": "minerals",
       "impact": "critical",
@@ -117,15 +126,6 @@
       "headline": "EUR French Flash Manufacturing PMI",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Forecast: 50.5 · Previous: 50.3"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-10-23T03:15:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR French Flash Services PMI",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 50.7 · Previous: 51.4"
     }
   ]
 }
