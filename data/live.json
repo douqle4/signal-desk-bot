@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T14:29:43.148996+00:00",
+  "generated_at": "2026-10-25T17:47:56.663554+00:00",
   "stories": [
     {
       "category": "geo",
@@ -9,24 +9,6 @@
       "headline": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "The Iran war has made oil tanker voyages so inefficient that vessel availability has crumbled and freight costs have soared to record-highs, all but erasing the incentive for shipping crude oil from the U.S. Gulf Coast t"
-    },
-    {
-      "category": "minerals",
-      "impact": "critical",
-      "time": "Fri, 23 Oct 2026 17:30:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "U.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The United States is dipping into its Strategic Petroleum Reserve again, this time to keep crude flowing to a Louisiana refinery while oil prices climb above $117 per barrel. The reserve, meanwhile, is already at its low"
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Fri, 23 Oct 2026 17:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Why Trump and Carney Haven’t Touched Energy in Their Tariff War",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The United States and Canada are locked in an energy trade war – sort of. Although United States President Donald Trump and Canadian Prime Minister Mark Carney have lobbed plenty of blisteringly high tariffs, not to ment"
     },
     {
       "category": "macro",
@@ -125,6 +107,24 @@
       "source": "ForexFactory calendar",
       "headline": "CAD BOC Press Conference",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-10-28T14:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Federal Funds Rate",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 4.00% · Previous: 4.00%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-10-28T14:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD FOMC Statement",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     }
   ]
