@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-10-26T14:55:44.085672+00:00",
+  "generated_at": "2026-10-26T20:21:31.275587+00:00",
   "stories": [
     {
       "category": "geo",
       "impact": "critical",
-      "time": "Mon, 26 Oct 2026 05:30:00 -0500",
+      "time": "Mon, 26 Oct 2026 15:00:00 -0500",
       "source": "OilPrice.com",
-      "headline": "U.S. Army Says It Has Helped 1.5 Billion Barrels of Oil Out of Hormuz",
+      "headline": "Iran War Pushes Trump's Average Gasoline Prices Above Biden's",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "U.S. forces have helped Persian Gulf producers move more than 1.5 billion barrels out of the Strait of Hormuz since the Iran war began, Adm. Brad Cooper, the commander of U.S. Central Command (CENTCOM), said during a vis"
+      "summary": "The average price Americans have paid for gasoline during President Donald Trump's second term has now surpassed the average recorded during Joe Biden's presidency, marking a politically significant milestone just days b"
+    },
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Mon, 26 Oct 2026 13:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "The Iran War Just Added $39 Billion to the World's LNG Bill",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The Middle East conflict has disrupted global energy flows, forcing countries to rethink supply routes and strengthen energy security. As more buyers turn to the spot market to replace disrupted volumes, Rystad Energy es"
     },
     {
       "category": "macro",
@@ -117,15 +126,6 @@
       "headline": "USD Federal Funds Rate",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 4.00% · Previous: 4.00%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-10-28T14:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD FOMC Statement",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
     }
   ]
 }
