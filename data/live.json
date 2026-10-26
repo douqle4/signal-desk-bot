@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-26T07:31:09.948110+00:00",
+  "generated_at": "2026-10-26T14:55:44.085672+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Mon, 26 Oct 2026 05:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "U.S. Army Says It Has Helped 1.5 Billion Barrels of Oil Out of Hormuz",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "U.S. forces have helped Persian Gulf producers move more than 1.5 billion barrels out of the Strait of Hormuz since the Iran war began, Adm. Brad Cooper, the commander of U.S. Central Command (CENTCOM), said during a vis"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -115,15 +124,6 @@
       "time": "2026-10-28T14:00:00-04:00",
       "source": "ForexFactory calendar",
       "headline": "USD FOMC Statement",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-10-28T14:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD FOMC Press Conference",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     }
