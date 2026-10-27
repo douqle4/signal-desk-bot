@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-10-27T10:14:53.051184+00:00",
+  "generated_at": "2026-10-27T15:57:38.865337+00:00",
   "stories": [
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Mon, 26 Oct 2026 18:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Beijing Pushes Domestic Oil Production as Iranian Supply Dries Up",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "China needs its biggest oil and gas producers to drill more, explore more, and build strategic supply bases as the Iran war forces Beijing to confront an uncomfortable reality: even the world's largest crude stockpile ca"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -124,6 +115,15 @@
       "time": "2026-10-28T14:00:00-04:00",
       "source": "ForexFactory calendar",
       "headline": "USD FOMC Statement",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-10-28T14:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD FOMC Press Conference",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     }
