@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-27T15:57:38.865337+00:00",
+  "generated_at": "2026-10-27T20:34:26.614123+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Tue, 27 Oct 2026 11:37:35 -0500",
+      "source": "OilPrice.com",
+      "headline": "Oil Markets Brace for a New Iran Escalation After U.S. Midterms",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Brent holds near $115 as Iran war tensions and escalating Saudi-Houthi hostilities keep oil markets on edge ahead of U.S. midterms. Hormuz Becomes Even More Dangerous — and More Expensive - October has seen the most acut"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -115,15 +124,6 @@
       "time": "2026-10-28T14:00:00-04:00",
       "source": "ForexFactory calendar",
       "headline": "USD FOMC Statement",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-10-28T14:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD FOMC Press Conference",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     }
