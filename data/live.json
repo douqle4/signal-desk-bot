@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T04:50:35.700880+00:00",
+  "generated_at": "2026-10-27T10:14:53.051184+00:00",
   "stories": [
     {
       "category": "geo",
@@ -9,24 +9,6 @@
       "headline": "Beijing Pushes Domestic Oil Production as Iranian Supply Dries Up",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "China needs its biggest oil and gas producers to drill more, explore more, and build strategic supply bases as the Iran war forces Beijing to confront an uncomfortable reality: even the world's largest crude stockpile ca"
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Mon, 26 Oct 2026 15:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Iran War Pushes Trump's Average Gasoline Prices Above Biden's",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The average price Americans have paid for gasoline during President Donald Trump's second term has now surpassed the average recorded during Joe Biden's presidency, marking a politically significant milestone just days b"
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Mon, 26 Oct 2026 13:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "The Iran War Just Added $39 Billion to the World's LNG Bill",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The Middle East conflict has disrupted global energy flows, forcing countries to rethink supply routes and strengthen energy security. As more buyers turn to the spot market to replace disrupted volumes, Rystad Energy es"
     },
     {
       "category": "macro",
@@ -125,6 +107,24 @@
       "source": "ForexFactory calendar",
       "headline": "CAD BOC Press Conference",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-10-28T14:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Federal Funds Rate",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 4.00% · Previous: 4.00%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-10-28T14:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD FOMC Statement",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     }
   ]
