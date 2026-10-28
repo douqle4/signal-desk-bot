@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-10-28T06:03:42.855740+00:00",
+  "generated_at": "2026-10-28T13:22:00.050518+00:00",
   "stories": [
-    {
-      "category": "macro",
-      "impact": "critical",
-      "time": "Tue, 27 Oct 2026 18:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "Americans Hit Hardest by War-Driven Oil Price Surge",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Americans are paying the biggest portion of global energy price inflation resulting from the war in the Middle East, a Finnish energy and climate outlet has reported. Estimating the global total in fuel inflation at $468"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -124,6 +115,15 @@
       "time": "2026-10-28T14:00:00-04:00",
       "source": "ForexFactory calendar",
       "headline": "USD FOMC Statement",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-10-28T14:30:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD FOMC Press Conference",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     }
