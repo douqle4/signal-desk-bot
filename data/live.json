@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-10-29T16:42:13.462208+00:00",
+  "generated_at": "2026-10-29T21:36:57.510529+00:00",
   "stories": [
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Thu, 29 Oct 2026 14:00:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "BYD Earnings Miss Estimates as China's EV Price War Takes Its Toll",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Chinese electric vehicle giant BYD reported weaker-than-expected third-quarter earnings on Thursday, highlighting the growing challenges facing China's automakers even as overseas sales continue to surge. BYD's net profi"
+    },
     {
       "category": "geo",
       "impact": "critical",
-      "time": "Thu, 29 Oct 2026 08:30:00 -0500",
+      "time": "Thu, 29 Oct 2026 12:30:00 -0500",
       "source": "OilPrice.com",
-      "headline": "Iran War Hikes EU’s Oil Import Bill By $11 Billion Per Month",
+      "headline": "Mexico’s Richest Man Sells $1.15 Billion in Oil Stocks",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The European Union has been paying $11 billion more to import oil since the Middle East crisis choked crude oil supplies and triggered a global fuel crisis, an analysis by Euronews Business showed on Thursday. The value "
+      "summary": "Carlos Slim has sold more than $1.15 billion of U.S. oil stocks this year as the Iran war sends crude prices and energy shares higher. The Mexican billionaire has cut his stakes in PBF Energy and Talos Energy roughly in "
     },
     {
       "category": "macro",
@@ -117,15 +126,6 @@
       "headline": "USD Federal Funds Rate",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 4.00% · Previous: 4.00%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-10-28T14:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD FOMC Statement",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
     }
   ]
 }
