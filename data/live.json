@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T01:40:05.623259+00:00",
+  "generated_at": "2026-10-30T08:14:21.052744+00:00",
   "stories": [
     {
       "category": "geo",
@@ -9,15 +9,6 @@
       "headline": "What’s Next for Global Natural Gas Demand?",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "The Iran war and the lack of LNG supply from the Middle East have upended forecasts of near-term natural gas demand and import costs. So far this year, economies in Europe and Asia have relied more on renewables and coal"
-    },
-    {
-      "category": "macro",
-      "impact": "critical",
-      "time": "Thu, 29 Oct 2026 14:00:00 -0500",
-      "source": "OilPrice.com",
-      "headline": "BYD Earnings Miss Estimates as China's EV Price War Takes Its Toll",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Chinese electric vehicle giant BYD reported weaker-than-expected third-quarter earnings on Thursday, highlighting the growing challenges facing China's automakers even as overseas sales continue to surge. BYD's net profi"
     },
     {
       "category": "macro",
@@ -126,6 +117,15 @@
       "headline": "USD Federal Funds Rate",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 4.00% · Previous: 4.00%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-10-28T14:00:00-04:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD FOMC Statement",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
     }
   ]
 }
