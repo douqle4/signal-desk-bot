@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-10-30T08:14:21.052744+00:00",
+  "generated_at": "2026-10-30T15:11:25.566641+00:00",
   "stories": [
     {
       "category": "geo",
       "impact": "critical",
-      "time": "Thu, 29 Oct 2026 18:00:00 -0500",
+      "time": "Fri, 30 Oct 2026 06:30:00 -0500",
       "source": "OilPrice.com",
-      "headline": "What’s Next for Global Natural Gas Demand?",
+      "headline": "Oil Markets Caught Between Iran War Risks and Emergency SPR Releases",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The Iran war and the lack of LNG supply from the Middle East have upended forecasts of near-term natural gas demand and import costs. So far this year, economies in Europe and Asia have relied more on renewables and coal"
+      "summary": "Crude oil gave back ground on Thursday as traders weighed emergency supply against tentative efforts to reopen talks with Iran. Neither side has taken control. The U.S. Strategic Petroleum Reserve is delivering barrels, "
+    },
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Fri, 30 Oct 2026 06:30:00 -0500",
+      "source": "OilPrice.com",
+      "headline": "BP Quadruples Profit to Record as War Boosts Refining and Trading",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "BP easily beat analyst expectations of third-quarter earnings, posting its highest quarterly profit, which nearly quadrupled from a year earlier amid strong refining margins and oil and gas trading. BP’s underlying repla"
     },
     {
       "category": "macro",
@@ -117,15 +126,6 @@
       "headline": "USD Federal Funds Rate",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 4.00% · Previous: 4.00%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-10-28T14:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD FOMC Statement",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
     }
   ]
 }
