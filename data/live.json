@@ -1,131 +1,131 @@
 {
-  "generated_at": "2026-11-01T02:27:45.610615+00:00",
+  "generated_at": "2026-11-01T09:36:51.377187+00:00",
   "stories": [
     {
       "category": "macro",
       "impact": "high",
-      "time": "2026-10-27T20:30:00-04:00",
+      "time": "2026-11-02T22:30:00-05:00",
       "source": "ForexFactory calendar",
-      "headline": "AUD CPI m/m",
+      "headline": "AUD Cash Rate",
       "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 0.7% · Previous: 0.4%"
+      "summary": "Forecast: 4.85% · Previous: 4.60%"
     },
     {
       "category": "macro",
       "impact": "high",
-      "time": "2026-10-27T20:30:00-04:00",
+      "time": "2026-11-02T22:30:00-05:00",
       "source": "ForexFactory calendar",
-      "headline": "AUD CPI y/y",
+      "headline": "AUD RBA Monetary Policy Statement",
       "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 4.2% · Previous: 4.0%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-10-27T20:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "AUD Trimmed Mean CPI m/m",
-      "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 0.3% · Previous: 0.2%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-10-27T21:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "NZD Official Cash Rate",
-      "why": "Scheduled NZD data release — historically moves NZD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 3.00% · Previous: 2.75%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-10-27T21:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "NZD RBNZ Rate Statement",
-      "why": "Scheduled NZD data release — historically moves NZD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     },
     {
       "category": "macro",
       "impact": "high",
-      "time": "2026-10-27T22:00:00-04:00",
+      "time": "2026-11-02T22:30:00-05:00",
       "source": "ForexFactory calendar",
-      "headline": "NZD RBNZ Press Conference",
-      "why": "Scheduled NZD data release — historically moves NZD pairs, yields, and risk sentiment.",
+      "headline": "AUD RBA Rate Statement",
+      "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     },
     {
       "category": "macro",
       "impact": "high",
-      "time": "2026-10-28T08:30:00-04:00",
+      "time": "2026-11-02T23:30:00-05:00",
       "source": "ForexFactory calendar",
-      "headline": "GBP Annual Budget Release",
+      "headline": "AUD RBA Press Conference",
+      "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-11-03T10:16:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Congressional Elections",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-11-03T16:45:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "NZD Employment Change q/q",
+      "why": "Scheduled NZD data release — historically moves NZD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 0.4% · Previous: 0.5%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-11-03T16:45:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "NZD Unemployment Rate",
+      "why": "Scheduled NZD data release — historically moves NZD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 5.5% · Previous: 5.6%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-11-05T07:00:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "GBP BOE Monetary Policy Report",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     },
     {
       "category": "macro",
       "impact": "high",
-      "time": "2026-10-28T09:45:00-04:00",
+      "time": "2026-11-05T07:00:00-05:00",
       "source": "ForexFactory calendar",
-      "headline": "CAD BOC Monetary Policy Report",
+      "headline": "GBP Monetary Policy Summary",
+      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-11-05T07:00:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "GBP MPC Official Bank Rate Votes",
+      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 7-0-2 · Previous: 3-0-6"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-11-05T07:00:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "GBP Official Bank Rate",
+      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 4.00% · Previous: 3.75%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-11-05T07:30:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "GBP BOE Gov Bailey Speaks",
+      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-11-06T08:30:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "CAD Employment Change",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
+      "summary": "Forecast: 14.5K · Previous: -68.3K"
     },
     {
       "category": "macro",
       "impact": "high",
-      "time": "2026-10-28T09:45:00-04:00",
+      "time": "2026-11-06T08:30:00-05:00",
       "source": "ForexFactory calendar",
-      "headline": "CAD BOC Rate Statement",
+      "headline": "CAD Unemployment Rate",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-10-28T09:45:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "CAD Overnight Rate",
-      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 2.50% · Previous: 2.25%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-10-28T10:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "CAD BOC Press Conference",
-      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-10-28T14:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Federal Funds Rate",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 4.00% · Previous: 4.00%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-10-28T14:00:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD FOMC Statement",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-10-28T14:30:00-04:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD FOMC Press Conference",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
+      "summary": "Forecast: 6.5% · Previous: 6.5%"
     }
   ]
 }
