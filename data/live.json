@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-02T07:24:47.891508+00:00",
+  "generated_at": "2026-11-02T17:21:06.338580+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Mon, 02 Nov 2026 10:36:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Oil Prices Plunge 7% as U.S. and Iran Signal Room for Diplomacy",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Oil prices plunged nearly 7% on Monday after Washington and Tehran both signaled they would give diplomacy a chance, wiping out part of the war premium that lifted crude through October. Brent traded at $105.60 per barre"
+    },
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Mon, 02 Nov 2026 08:30:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Oil Prices Plunge as Draft Proposal to End U.S.-Iran War is Circulated",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Oil prices extended losses from Asian trade into early Monday morning U.S. time as a draft proposal on a potential end to the U.S.-Iran war is now being circulated after Iranian negotiators left Qatar, an official briefe"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -108,24 +126,6 @@
       "headline": "GBP BOE Gov Bailey Speaks",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-11-06T08:30:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "CAD Employment Change",
-      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 14.5K · Previous: -68.3K"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-11-06T08:30:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "CAD Unemployment Rate",
-      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 6.5% · Previous: 6.5%"
     }
   ]
 }
