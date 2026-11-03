@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-03T06:31:01.089144+00:00",
+  "generated_at": "2026-11-03T14:53:20.320453+00:00",
   "stories": [
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Tue, 03 Nov 2026 03:45:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Saudi Aramco Profit Beats Expectations as Oil Prices Soar",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Saudi Aramco beat analyst estimates of its third-quarter profit as higher crude oil and fuel prices offset the impact of oil supply disruptions due to attacks on its assets. The Saudi state oil giant on Tuesday reported "
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -117,15 +126,6 @@
       "headline": "CAD Employment Change",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 14.6K · Previous: -68.3K"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-11-06T08:30:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "CAD Unemployment Rate",
-      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 6.5% · Previous: 6.5%"
     }
   ]
 }
