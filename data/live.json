@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-11-02T23:59:13.244434+00:00",
+  "generated_at": "2026-11-03T06:31:01.089144+00:00",
   "stories": [
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Mon, 02 Nov 2026 11:30:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "TotalEnergies Now Sees Oil Demand Peaking Between 2035 and 2040",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "A year after forecasting that oil demand would keep rising until 2040, TotalEnergies has moved its peak forward to between 2035 and 2040, and says the Iran war could accelerate the energy transition. The company’s annual"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -126,6 +117,15 @@
       "headline": "CAD Employment Change",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 14.6K · Previous: -68.3K"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-11-06T08:30:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "CAD Unemployment Rate",
+      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 6.5% · Previous: 6.5%"
     }
   ]
 }
