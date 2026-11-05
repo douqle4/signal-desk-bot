@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-05T18:12:57.817355+00:00",
+  "generated_at": "2026-11-05T23:46:13.227839+00:00",
   "stories": [
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Thu, 05 Nov 2026 17:00:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Asia Hopes U.S. Midterm Results Will Ease Energy Crisis",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Asian countries that depend on oil and gas imports for their energy security are hoping that the results of the U.S. midterms will lead to an end to the war in the Middle East and, consequently, an end to the severe fuel"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -117,15 +126,6 @@
       "headline": "CAD Employment Change",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 14.6K · Previous: -68.3K"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-11-06T08:30:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "CAD Unemployment Rate",
-      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 6.5% · Previous: 6.5%"
     }
   ]
 }
