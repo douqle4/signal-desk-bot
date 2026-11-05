@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-04T22:03:39.067606+00:00",
+  "generated_at": "2026-11-05T02:40:51.163222+00:00",
   "stories": [
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Wed, 04 Nov 2026 18:00:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Butane’s Perfect Storm Sends Prices to Decade Highs",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Butane prices are surging across the world. Northwest European November butane prices have reached $1,125/t by early November, their highest level in 30 years, having exceeded even the peaks following Russia’s invasion o"
+    },
     {
       "category": "geo",
       "impact": "critical",
@@ -117,15 +126,6 @@
       "headline": "GBP Official Bank Rate",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Forecast: 4.00% · Previous: 3.75%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-11-05T07:30:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "GBP BOE Gov Bailey Speaks",
-      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
     }
   ]
 }
