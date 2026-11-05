@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-11-05T10:28:24.024785+00:00",
+  "generated_at": "2026-11-05T18:12:57.817355+00:00",
   "stories": [
-    {
-      "category": "macro",
-      "impact": "critical",
-      "time": "Wed, 04 Nov 2026 18:00:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "Butane’s Perfect Storm Sends Prices to Decade Highs",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Butane prices are surging across the world. Northwest European November butane prices have reached $1,125/t by early November, their highest level in 30 years, having exceeded even the peaks following Russia’s invasion o"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -126,6 +117,15 @@
       "headline": "CAD Employment Change",
       "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 14.6K · Previous: -68.3K"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-11-06T08:30:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "CAD Unemployment Rate",
+      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 6.5% · Previous: 6.5%"
     }
   ]
 }
