@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-11-06T13:53:41.346527+00:00",
+  "generated_at": "2026-11-06T20:16:33.365815+00:00",
   "stories": [
     {
       "category": "geo",
       "impact": "critical",
-      "time": "Fri, 06 Nov 2026 06:30:00 -0600",
+      "time": "Fri, 06 Nov 2026 09:28:00 -0600",
       "source": "OilPrice.com",
-      "headline": "Oil Prices Plunge as U.S. Elections Shake Up the Iran War",
+      "headline": "The Iran War Isn't Over, but Oil Traders Are Already Pricing In Peace",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "December WTI crude oil is headed for one of its roughest weekly losses in months after the market shed $11.37, or 11.10%, from its opening price of $102.39. Prices posted a weekly high at $102.75 before breaking sharply "
+      "summary": "Oil prices plunged 15% this week as hopes of a U.S.-Iran peace deal fueled bearish sentiment, despite continued attacks in the Strait of Hormuz.   Friday, November 06, 2026 Oil prices are set to record one of the steepes"
+    },
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Fri, 06 Nov 2026 09:00:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Trump’s Iran Strategy Reaches a Critical Crossroads After Midterm Defeat",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "President Donald Trump spent the final weeks of the US midterm campaign predicting that the war with Iran would end \"right after the election.\" With the votes now in, his Republican Party is reeling from losing both cham"
     },
     {
       "category": "macro",
@@ -117,15 +126,6 @@
       "headline": "GBP BOE Gov Bailey Speaks",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-11-06T08:30:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "CAD Employment Change",
-      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 14.6K · Previous: -68.3K"
     }
   ]
 }
