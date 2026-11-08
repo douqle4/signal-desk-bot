@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T20:15:56.381678+00:00",
+  "generated_at": "2026-11-08T23:54:27.860044+00:00",
   "stories": [
     {
       "category": "macro",
@@ -94,6 +94,15 @@
     {
       "category": "macro",
       "impact": "medium",
+      "time": "Sun, 08 Nov 2026 16:00:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Democratic Win Set to Reshuffle U.S. Energy Policy",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The blue wave in the midterm elections that will put Democrats in charge of the House and Senate could reshape U.S. energy policies. Democrats in charge of both chambers of Congress and its key committees, Democratic gov"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
       "time": "Sun, 08 Nov 2026 14:00:00 -0600",
       "source": "OilPrice.com",
       "headline": "The Global Race to Harness Solar Power From Space",
@@ -117,15 +126,6 @@
       "headline": "How New York Plans to Turn Waste Heat Into Clean Energy",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "District heating has been around for almost 150 years, with the first commercial system established in New York in 1877, yet it is still not widely used. The original systems used steam produced by a central fossil-fuel "
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "Sat, 07 Nov 2026 18:00:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "Wars May Spur Faster Electrification",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The wars in Ukraine and the Middle East have prompted an increase in EV sales to avoid retail fuel inflation and gas demand destruction in favor of other power generation sources. With COP31 starting next week, some part"
     }
   ]
 }
