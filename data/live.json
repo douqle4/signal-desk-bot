@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-09T05:11:12.463138+00:00",
+  "generated_at": "2026-11-09T14:12:07.765608+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Mon, 09 Nov 2026 05:30:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Iraq's Oil Sales to America Fall to Lowest Since the 2003 War",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "U.S. imports of Iraqi crude oil have slumped this year to a multi-decade low, EIA data show, as the Strait of Hormuz crisis has choked international shipments from OPEC’s second-largest oil producer.  U.S. imports have m"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -45,6 +54,24 @@
       "headline": "USD PPI m/m",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 0.4% · Previous: 1.3%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "Mon, 09 Nov 2026 04:20:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Nordic Power Prices Could Soar This Winter as Hydropower Reserves Plunge",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Low water levels in hydropower reservoirs and soaring natural gas prices are putting upward pressure on power prices in the Nordic countries as winter approaches, Denmark-based energy trader Mind Energy says. The surge i"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "Mon, 09 Nov 2026 03:10:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Iraq Strikes U.S. Deal to Boost Oil Exports Through Hormuz",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Iraq’s crude oil exports are set to increase following a deal that the government in Baghdad struck at the end of last week with the United States. The deal will see Iraqi oil transported via the corridor along the coast"
     },
     {
       "category": "macro",
@@ -94,38 +121,11 @@
     {
       "category": "geo",
       "impact": "medium",
-      "time": "Sun, 08 Nov 2026 18:00:00 -0600",
+      "time": "Mon, 09 Nov 2026 07:30:00 -0600",
       "source": "OilPrice.com",
-      "headline": "Iraq’s 5 Million Bpd Oil Claim Complicates Its OPEC Quota Push",
+      "headline": "Oil Sinks to $94 as Iran’s $8 Billion Hormuz Deal Heads to Trump",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Iraq's campaign for a larger OPEC production allocation has taken a complicated turn after Oil Minister Basim Mohammed Khudair said the country is already producing more than 5 million barrels per day, more than half a m"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "Sun, 08 Nov 2026 16:00:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "Democratic Win Set to Reshuffle U.S. Energy Policy",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The blue wave in the midterm elections that will put Democrats in charge of the House and Senate could reshape U.S. energy policies. Democrats in charge of both chambers of Congress and its key committees, Democratic gov"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "Sun, 08 Nov 2026 14:00:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "The Global Race to Harness Solar Power From Space",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Several countries around the globe are racing to develop space-based solar power (SBSP) systems to harness solar power from space. On Earth, solar power has become a popular form of renewable energy production. However, "
-    },
-    {
-      "category": "chips",
-      "impact": "medium",
-      "time": "Sun, 08 Nov 2026 12:00:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "How Big Oil Became the AI Industry's Favorite Customer",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Artificial intelligence companies are deepening their ties with the fossil fuel industries as some of the biggest names in the tech world make massive deals with energy companies, both to power their energy-hungry data c"
+      "summary": "Brent crude fell 3.6% to $94.00 per barrel on Monday as Qatar’s prime minister headed to the White House with an Iranian proposal for an interim deal to reopen the Strait of Hormuz. WTI dropped 3% to $88.09, and U.S. nat"
     }
   ]
 }
