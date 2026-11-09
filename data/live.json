@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T23:54:27.860044+00:00",
+  "generated_at": "2026-11-09T05:11:12.463138+00:00",
   "stories": [
     {
       "category": "macro",
@@ -92,6 +92,15 @@
       "summary": "Scheduled economic release."
     },
     {
+      "category": "geo",
+      "impact": "medium",
+      "time": "Sun, 08 Nov 2026 18:00:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Iraq’s 5 Million Bpd Oil Claim Complicates Its OPEC Quota Push",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Iraq's campaign for a larger OPEC production allocation has taken a complicated turn after Oil Minister Basim Mohammed Khudair said the country is already producing more than 5 million barrels per day, more than half a m"
+    },
+    {
       "category": "macro",
       "impact": "medium",
       "time": "Sun, 08 Nov 2026 16:00:00 -0600",
@@ -117,15 +126,6 @@
       "headline": "How Big Oil Became the AI Industry's Favorite Customer",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Artificial intelligence companies are deepening their ties with the fossil fuel industries as some of the biggest names in the tech world make massive deals with energy companies, both to power their energy-hungry data c"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "Sun, 08 Nov 2026 10:00:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "How New York Plans to Turn Waste Heat Into Clean Energy",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "District heating has been around for almost 150 years, with the first commercial system established in New York in 1877, yet it is still not widely used. The original systems used steam produced by a central fossil-fuel "
     }
   ]
 }
