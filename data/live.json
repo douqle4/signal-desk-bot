@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-11-09T14:12:07.765608+00:00",
+  "generated_at": "2026-11-09T23:30:09.525045+00:00",
   "stories": [
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Mon, 09 Nov 2026 15:00:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Why Sudan's Civil War Is Becoming a U.S. National Security Threat",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Sudan Is a U.S. National Security Interest, Not Just a Humanitarian Crisis by James Durso Sudan’s devastating civil war is often described as a humanitarian catastrophe. It is that, unquestionably, but for the United Sta"
+    },
     {
       "category": "geo",
       "impact": "critical",
-      "time": "Mon, 09 Nov 2026 05:30:00 -0600",
+      "time": "Mon, 09 Nov 2026 11:30:00 -0600",
       "source": "OilPrice.com",
-      "headline": "Iraq's Oil Sales to America Fall to Lowest Since the 2003 War",
+      "headline": "Murphy Oil Bets on Israeli Gas Near Leviathan",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "U.S. imports of Iraqi crude oil have slumped this year to a multi-decade low, EIA data show, as the Strait of Hormuz crisis has choked international shipments from OPEC’s second-largest oil producer.  U.S. imports have m"
+      "summary": "Israel’s Energy Ministry on Monday awarded six offshore natural gas exploration licenses to Houston-based Murphy Oil and Israel’s Ratio Energies, eight months after the war with Iran forced Israel to shut its biggest gas"
     },
     {
       "category": "macro",
@@ -57,24 +66,6 @@
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "Mon, 09 Nov 2026 04:20:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "Nordic Power Prices Could Soar This Winter as Hydropower Reserves Plunge",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Low water levels in hydropower reservoirs and soaring natural gas prices are putting upward pressure on power prices in the Nordic countries as winter approaches, Denmark-based energy trader Mind Energy says. The surge i"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "Mon, 09 Nov 2026 03:10:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "Iraq Strikes U.S. Deal to Boost Oil Exports Through Hormuz",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Iraq’s crude oil exports are set to increase following a deal that the government in Baghdad struck at the end of last week with the United States. The deal will see Iraqi oil transported via the corridor along the coast"
-    },
-    {
-      "category": "macro",
       "impact": "medium",
       "time": "2026-11-09T12:25:00-05:00",
       "source": "ForexFactory calendar",
@@ -89,6 +80,15 @@
       "source": "ForexFactory calendar",
       "headline": "USD FOMC Member Waller Speaks",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-11-11T04:45:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR ECB President Lagarde Speaks",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
     },
     {
@@ -119,13 +119,13 @@
       "summary": "Scheduled economic release."
     },
     {
-      "category": "geo",
+      "category": "macro",
       "impact": "medium",
-      "time": "Mon, 09 Nov 2026 07:30:00 -0600",
+      "time": "Mon, 09 Nov 2026 17:00:00 -0600",
       "source": "OilPrice.com",
-      "headline": "Oil Sinks to $94 as Iran’s $8 Billion Hormuz Deal Heads to Trump",
+      "headline": "Scientists Develop Cheap Filter That Could Slash Oil Refining Energy Use by 32%",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Brent crude fell 3.6% to $94.00 per barrel on Monday as Qatar’s prime minister headed to the White House with an Iranian proposal for an interim deal to reopen the Strait of Hormuz. WTI dropped 3% to $88.09, and U.S. nat"
+      "summary": "Scientists have made a surprising discovery that could slash the amount of energy used in oil refining by eliminating part of the high-temperature heating process required to separate the fractions of crude oil. The scie"
     }
   ]
 }
