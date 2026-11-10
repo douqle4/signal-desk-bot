@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T23:30:09.525045+00:00",
+  "generated_at": "2026-11-10T06:26:01.699063+00:00",
   "stories": [
     {
       "category": "macro",
@@ -9,15 +9,6 @@
       "headline": "Why Sudan's Civil War Is Becoming a U.S. National Security Threat",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Sudan Is a U.S. National Security Interest, Not Just a Humanitarian Crisis by James Durso Sudan’s devastating civil war is often described as a humanitarian catastrophe. It is that, unquestionably, but for the United Sta"
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Mon, 09 Nov 2026 11:30:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "Murphy Oil Bets on Israeli Gas Near Leviathan",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Israel’s Energy Ministry on Monday awarded six offshore natural gas exploration licenses to Houston-based Murphy Oil and Israel’s Ratio Energies, eight months after the war with Iran forced Israel to shut its biggest gas"
     },
     {
       "category": "macro",
@@ -63,6 +54,15 @@
       "headline": "USD PPI m/m",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 0.4% · Previous: 1.3%"
+    },
+    {
+      "category": "geo",
+      "impact": "high",
+      "time": "Mon, 09 Nov 2026 23:20:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Oil Prices Plunge Below $92 as Trump Signals Restraint on Iran",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Crude oil prices dropped to less than $92 per barrel for Brent and $86 for WTI following reports citing President Trump as not planning to attack Iran “at this point”. At the time of writing, Brent crude was trading at $"
     },
     {
       "category": "macro",
@@ -119,13 +119,13 @@
       "summary": "Scheduled economic release."
     },
     {
-      "category": "macro",
+      "category": "minerals",
       "impact": "medium",
-      "time": "Mon, 09 Nov 2026 17:00:00 -0600",
+      "time": "Mon, 09 Nov 2026 22:00:00 -0600",
       "source": "OilPrice.com",
-      "headline": "Scientists Develop Cheap Filter That Could Slash Oil Refining Energy Use by 32%",
+      "headline": "The 75-Year Army Deal That Could Reshape America's Rare Earth Supply",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Scientists have made a surprising discovery that could slash the amount of energy used in oil refining by eliminating part of the high-temperature heating process required to separate the fractions of crude oil. The scie"
+      "summary": "The U.S. Army has signed a non-binding term sheet with REalloys (NASDAQ: ALOY) to build the first-ever commercial rare earth processing operation on a U.S. military installation. The plan covers 200 acres at Tooele Army "
     }
   ]
 }
