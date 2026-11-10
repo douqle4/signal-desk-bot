@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-11-10T06:26:01.699063+00:00",
+  "generated_at": "2026-11-10T15:09:03.506427+00:00",
   "stories": [
     {
-      "category": "macro",
+      "category": "geo",
       "impact": "critical",
-      "time": "Mon, 09 Nov 2026 15:00:00 -0600",
+      "time": "Tue, 10 Nov 2026 08:30:00 -0600",
       "source": "OilPrice.com",
-      "headline": "Why Sudan's Civil War Is Becoming a U.S. National Security Threat",
+      "headline": "Ukraine Peace Talks Face an Uphill Battle as Winter Approaches",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Sudan Is a U.S. National Security Interest, Not Just a Humanitarian Crisis by James Durso Sudan’s devastating civil war is often described as a humanitarian catastrophe. It is that, unquestionably, but for the United Sta"
+      "summary": "After fading into the background when the war with Iran began, the US diplomatic push to end Russia’s invasion of Ukraine is intensifying again, with the first US-Ukraine-Russia talks since February scheduled for Novembe"
+    },
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Tue, 10 Nov 2026 08:30:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Iran War Set to Drive A Drop in Global Fossil Fuel Emissions in 2026",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Global carbon dioxide emissions from fossil fuels are expected to drop by 0.4% in 2026 from a year earlier, due to the oil shock from the Iran war and increased solar and wind power generation, new research by the Global"
+    },
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Tue, 10 Nov 2026 00:45:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "LNG Traffic Through Hormuz Hits Highest Level Since Iran War Began",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Exports of liquefied natural gas via the Strait of Hormuz last month reached the highest total since February, at 31 tankers, compared with 27 in September, according to data from Kpler, as cited by Reuters. What is perh"
     },
     {
       "category": "macro",
@@ -56,13 +74,13 @@
       "summary": "Forecast: 0.4% · Previous: 1.3%"
     },
     {
-      "category": "geo",
+      "category": "macro",
       "impact": "high",
-      "time": "Mon, 09 Nov 2026 23:20:00 -0600",
+      "time": "Tue, 10 Nov 2026 04:06:35 -0600",
       "source": "OilPrice.com",
-      "headline": "Oil Prices Plunge Below $92 as Trump Signals Restraint on Iran",
+      "headline": "Brent Crude Falls Below $90 for First Time Since August",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Crude oil prices dropped to less than $92 per barrel for Brent and $86 for WTI following reports citing President Trump as not planning to attack Iran “at this point”. At the time of writing, Brent crude was trading at $"
+      "summary": "Brent Crude prices plunged to below $90 per barrel early on Tuesday, falling below that threshold for the first time since August, as U.S. President Donald Trump again signaled potential de-escalation in the Middle East "
     },
     {
       "category": "macro",
@@ -108,24 +126,6 @@
       "headline": "USD Unemployment Claims",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 194K · Previous: 189K"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-11-12T14:30:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "EUR ECB President Lagarde Speaks",
-      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
-    },
-    {
-      "category": "minerals",
-      "impact": "medium",
-      "time": "Mon, 09 Nov 2026 22:00:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "The 75-Year Army Deal That Could Reshape America's Rare Earth Supply",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The U.S. Army has signed a non-binding term sheet with REalloys (NASDAQ: ALOY) to build the first-ever commercial rare earth processing operation on a U.S. military installation. The plan covers 200 acres at Tooele Army "
     }
   ]
 }
