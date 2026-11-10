@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-11-10T15:09:03.506427+00:00",
+  "generated_at": "2026-11-10T21:22:49.189077+00:00",
   "stories": [
     {
       "category": "geo",
       "impact": "critical",
-      "time": "Tue, 10 Nov 2026 08:30:00 -0600",
+      "time": "Tue, 10 Nov 2026 12:00:00 -0600",
       "source": "OilPrice.com",
-      "headline": "Ukraine Peace Talks Face an Uphill Battle as Winter Approaches",
+      "headline": "The Truth Behind Iraq’s Oil Rebound And The Secret Red Sea Plan",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "After fading into the background when the war with Iran began, the US diplomatic push to end Russia’s invasion of Ukraine is intensifying again, with the first US-Ukraine-Russia talks since February scheduled for Novembe"
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Tue, 10 Nov 2026 08:30:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "Iran War Set to Drive A Drop in Global Fossil Fuel Emissions in 2026",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Global carbon dioxide emissions from fossil fuels are expected to drop by 0.4% in 2026 from a year earlier, due to the oil shock from the Iran war and increased solar and wind power generation, new research by the Global"
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Tue, 10 Nov 2026 00:45:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "LNG Traffic Through Hormuz Hits Highest Level Since Iran War Began",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Exports of liquefied natural gas via the Strait of Hormuz last month reached the highest total since February, at 31 tankers, compared with 27 in September, according to data from Kpler, as cited by Reuters. What is perh"
+      "summary": "No country aside from Iran itself has felt the economic consequences of the U.S./Israel-Iran war more than Iraq. Over 90 percent of its annual budget historically comes from oil and around 95 percent of that historically"
     },
     {
       "category": "macro",
@@ -76,11 +58,20 @@
     {
       "category": "macro",
       "impact": "high",
-      "time": "Tue, 10 Nov 2026 04:06:35 -0600",
+      "time": "Tue, 10 Nov 2026 12:00:00 -0600",
       "source": "OilPrice.com",
-      "headline": "Brent Crude Falls Below $90 for First Time Since August",
+      "headline": "Ukrainian Strikes Disrupt 30% of Russia's Oil Refining Capacity",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Brent Crude prices plunged to below $90 per barrel early on Tuesday, falling below that threshold for the first time since August, as U.S. President Donald Trump again signaled potential de-escalation in the Middle East "
+      "summary": "Ukrainian drone strikes have disrupted refineries representing roughly 30% of Russia's total oil-processing capacity since late October, dealing another blow to Moscow's fuel supplies just as it attempts to increase dies"
+    },
+    {
+      "category": "geo",
+      "impact": "high",
+      "time": "Tue, 10 Nov 2026 10:34:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Oil Falls to Lowest Level Since August",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Brent crude briefly falls below $90 as hopes of diplomatic breakthroughs in Iran and Ukraine accelerate the oil market selloff. Crude Says Peace, Tanker Rates Say Not So Fast - Crude oil prices have plunged by almost $30"
     },
     {
       "category": "macro",
@@ -126,6 +117,15 @@
       "headline": "USD Unemployment Claims",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 194K · Previous: 189K"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-11-12T14:30:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR ECB President Lagarde Speaks",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
     }
   ]
 }
