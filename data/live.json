@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-11T08:06:17.077788+00:00",
+  "generated_at": "2026-11-11T16:28:35.293622+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Wed, 11 Nov 2026 09:00:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Iran War Breathes New Life Into Turkmenistan’s $10 Billion Pipeline Dream",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "At an energy forum in Ashgabat in late October, Turkmenistan made an unexpected announcement. After years of delays and speculation that the project would be canceled, the forum audience was told the Turkmenistan-Afghani"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -45,6 +54,15 @@
       "headline": "USD PPI m/m",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 0.4% · Previous: 1.3%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "Wed, 11 Nov 2026 07:30:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Ukrainian Drone Attack Sparks Fire at Russia’s Key Baltic Oil Export Hub",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "A Ukrainian drone attack hit the key Russian commodity export hub Ust-Luga on the Baltic Sea early on Wednesday, as Russia and Ukraine continue to trade strikes on each other’s energy infrastructure amid ongoing U.S.-med"
     },
     {
       "category": "macro",
@@ -103,29 +121,11 @@
     {
       "category": "macro",
       "impact": "medium",
-      "time": "Wed, 11 Nov 2026 01:30:00 -0600",
+      "time": "Wed, 11 Nov 2026 10:00:00 -0600",
       "source": "OilPrice.com",
-      "headline": "Poland's Orlen Becomes First Buyer to Cancel Long-Term Qatar LNG Deal",
+      "headline": "How a Super El Niño Could Reshape Global Coal Markets",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Polish state-owned energy firm Orlen has become the first long-term client of QatarEnergy to cancel an LNG supply contract with the Qatari company amid the continued force majeure on exports. In a regulatory filing from "
-    },
-    {
-      "category": "geo",
-      "impact": "medium",
-      "time": "Tue, 10 Nov 2026 23:45:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "Oil Prices Rise as Iran Peace Optimism Fades",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Crude oil prices reversed their fall from earlier this week as traders grew less optimistic about a peace deal between the United States and Iran amid continuing tanker attacks in the Strait of Hormuz, with a record numb"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "Tue, 10 Nov 2026 19:00:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "Middle East Oil Flows Far from Normal Despite Signs of Oversupply",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Crude oil flows through the Strait of Hormuz and the whole Middle Eastern region have recovered to close to pre-war levels, vessel-tracking services have been signaling for over a month now. Middle Eastern benchmarks hav"
+      "summary": "Most countries are finding ways to reduce their use of coal and coal-burning power plants as they strive to meet climate commitments.  The pariah fossil fuel has wide-ranging impacts on human health and the environment, "
     }
   ]
 }
