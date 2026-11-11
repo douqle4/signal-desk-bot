@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T01:23:11.819541+00:00",
+  "generated_at": "2026-11-11T08:06:17.077788+00:00",
   "stories": [
     {
       "category": "macro",
@@ -103,29 +103,29 @@
     {
       "category": "macro",
       "impact": "medium",
+      "time": "Wed, 11 Nov 2026 01:30:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Poland's Orlen Becomes First Buyer to Cancel Long-Term Qatar LNG Deal",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Polish state-owned energy firm Orlen has become the first long-term client of QatarEnergy to cancel an LNG supply contract with the Qatari company amid the continued force majeure on exports. In a regulatory filing from "
+    },
+    {
+      "category": "geo",
+      "impact": "medium",
+      "time": "Tue, 10 Nov 2026 23:45:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Oil Prices Rise as Iran Peace Optimism Fades",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Crude oil prices reversed their fall from earlier this week as traders grew less optimistic about a peace deal between the United States and Iran amid continuing tanker attacks in the Strait of Hormuz, with a record numb"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
       "time": "Tue, 10 Nov 2026 19:00:00 -0600",
       "source": "OilPrice.com",
       "headline": "Middle East Oil Flows Far from Normal Despite Signs of Oversupply",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Crude oil flows through the Strait of Hormuz and the whole Middle Eastern region have recovered to close to pre-war levels, vessel-tracking services have been signaling for over a month now. Middle Eastern benchmarks hav"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "Tue, 10 Nov 2026 18:00:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "South Sudan Courts Oil Investors as Sudan’s Warring Forces Take Their Share",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "South Sudan is courting fresh capital for 14 exploration blocks and a production increase from roughly 170,000 barrels per day to 230,000, which investors would find impossible to control once those barrels left the coun"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "Tue, 10 Nov 2026 17:00:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "Midterm Results Could Trip Trump’s Energy Independence Plans",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The Democratic Party’s decisive victory in the U.S. midterm elections has been widely called bad news for Trump policies, but now, it could interfere with legislation that previously drew support from both parties in Con"
     }
   ]
 }
