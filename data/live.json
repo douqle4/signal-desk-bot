@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-11T16:28:35.293622+00:00",
+  "generated_at": "2026-11-11T22:57:40.399603+00:00",
   "stories": [
     {
       "category": "geo",
       "impact": "critical",
-      "time": "Wed, 11 Nov 2026 09:00:00 -0600",
+      "time": "Wed, 11 Nov 2026 11:30:00 -0600",
       "source": "OilPrice.com",
-      "headline": "Iran War Breathes New Life Into Turkmenistan’s $10 Billion Pipeline Dream",
+      "headline": "European Gas Prices Rebound on Iran War Uncertainty",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "At an energy forum in Ashgabat in late October, Turkmenistan made an unexpected announcement. After years of delays and speculation that the project would be canceled, the forum audience was told the Turkmenistan-Afghani"
+      "summary": "European benchmark natural gas prices rebounded on Wednesday from the one-month low hit on Tuesday, as uncertainty about the Iran war returned to the energy markets following steep selloffs in recent days.  The front-mon"
     },
     {
       "category": "macro",
@@ -54,15 +54,6 @@
       "headline": "USD PPI m/m",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 0.4% · Previous: 1.3%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "Wed, 11 Nov 2026 07:30:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "Ukrainian Drone Attack Sparks Fire at Russia’s Key Baltic Oil Export Hub",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "A Ukrainian drone attack hit the key Russian commodity export hub Ust-Luga on the Baltic Sea early on Wednesday, as Russia and Ukraine continue to trade strikes on each other’s energy infrastructure amid ongoing U.S.-med"
     },
     {
       "category": "macro",
@@ -119,13 +110,22 @@
       "summary": "Scheduled economic release."
     },
     {
-      "category": "macro",
+      "category": "chips",
       "impact": "medium",
-      "time": "Wed, 11 Nov 2026 10:00:00 -0600",
+      "time": "Wed, 11 Nov 2026 16:00:00 -0600",
       "source": "OilPrice.com",
-      "headline": "How a Super El Niño Could Reshape Global Coal Markets",
+      "headline": "Quantum Computing Is Being Pitched as the Fix for AI's Runaway Power Appetite",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Most countries are finding ways to reduce their use of coal and coal-burning power plants as they strive to meet climate commitments.  The pariah fossil fuel has wide-ranging impacts on human health and the environment, "
+      "summary": "Can quantum computing save artificial intelligence from itself? The energy and water needs of the AI sector are growing larger all the time, placing enormous pressure on the world’s finite resources and putting unprecede"
+    },
+    {
+      "category": "minerals",
+      "impact": "medium",
+      "time": "Wed, 11 Nov 2026 15:00:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Yttrium's 125-Fold Price Gap Looms Over Trump-Xi Talks in Shenzhen",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "China bought itself two more months on Monday by extending the pause on its sweeping October 2025 rare earth export controls to Jan. 10, Reuters reported, but the metal squeezing buyers hardest right now was never covere"
     }
   ]
 }
