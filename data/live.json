@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-11-10T21:22:49.189077+00:00",
+  "generated_at": "2026-11-11T01:23:11.819541+00:00",
   "stories": [
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Tue, 10 Nov 2026 12:00:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "The Truth Behind Iraq’s Oil Rebound And The Secret Red Sea Plan",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "No country aside from Iran itself has felt the economic consequences of the U.S./Israel-Iran war more than Iraq. Over 90 percent of its annual budget historically comes from oil and around 95 percent of that historically"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -54,24 +45,6 @@
       "headline": "USD PPI m/m",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 0.4% · Previous: 1.3%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "Tue, 10 Nov 2026 12:00:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "Ukrainian Strikes Disrupt 30% of Russia's Oil Refining Capacity",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Ukrainian drone strikes have disrupted refineries representing roughly 30% of Russia's total oil-processing capacity since late October, dealing another blow to Moscow's fuel supplies just as it attempts to increase dies"
-    },
-    {
-      "category": "geo",
-      "impact": "high",
-      "time": "Tue, 10 Nov 2026 10:34:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "Oil Falls to Lowest Level Since August",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Brent crude briefly falls below $90 as hopes of diplomatic breakthroughs in Iran and Ukraine accelerate the oil market selloff. Crude Says Peace, Tanker Rates Say Not So Fast - Crude oil prices have plunged by almost $30"
     },
     {
       "category": "macro",
@@ -126,6 +99,33 @@
       "headline": "EUR ECB President Lagarde Speaks",
       "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
       "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "Tue, 10 Nov 2026 19:00:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Middle East Oil Flows Far from Normal Despite Signs of Oversupply",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Crude oil flows through the Strait of Hormuz and the whole Middle Eastern region have recovered to close to pre-war levels, vessel-tracking services have been signaling for over a month now. Middle Eastern benchmarks hav"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "Tue, 10 Nov 2026 18:00:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "South Sudan Courts Oil Investors as Sudan’s Warring Forces Take Their Share",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "South Sudan is courting fresh capital for 14 exploration blocks and a production increase from roughly 170,000 barrels per day to 230,000, which investors would find impossible to control once those barrels left the coun"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "Tue, 10 Nov 2026 17:00:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Midterm Results Could Trip Trump’s Energy Independence Plans",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The Democratic Party’s decisive victory in the U.S. midterm elections has been widely called bad news for Trump policies, but now, it could interfere with legislation that previously drew support from both parties in Con"
     }
   ]
 }
