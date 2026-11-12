@@ -1,23 +1,14 @@
 {
-  "generated_at": "2026-11-12T12:18:31.870060+00:00",
+  "generated_at": "2026-11-12T20:17:06.975619+00:00",
   "stories": [
     {
       "category": "geo",
       "impact": "critical",
-      "time": "Thu, 12 Nov 2026 05:30:00 -0600",
+      "time": "Thu, 12 Nov 2026 11:30:00 -0600",
       "source": "OilPrice.com",
-      "headline": "India Boosts Gulf Oil Imports as Russian Crude Loses Its Price Advantage",
+      "headline": "Brent Briefly Hits $94 After Trump Says U.S. Has No Need for Iran Deal",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "India has imported higher volumes of crude oil from the Persian Gulf than from Russia so far in November, for the first time since the Iran war broke out and disrupted the normal supply chain through the Strait of Hormuz"
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Thu, 12 Nov 2026 01:30:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "ASEAN Moves to Build Emergency Oil Reserves Amid Iran Supply Crisis",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The Association of Southeast Asian Nations has agreed to set up a joint crude oil stockpiling scheme in response to the supply disruption from the war in Iran, which severely affected countries in the region. The scheme "
+      "summary": "President Donald Trump declared Thursday that the United States no longer needs a deal with Iran, just three days after suggesting the eight-month war was nearing its end. Oil prices promptly jumped, adding another round"
     },
     {
       "category": "macro",
@@ -67,20 +58,11 @@
     {
       "category": "macro",
       "impact": "high",
-      "time": "Thu, 12 Nov 2026 02:30:00 -0600",
+      "time": "Thu, 12 Nov 2026 10:00:00 -0600",
       "source": "OilPrice.com",
-      "headline": "Asian Oil Buyers Turn to Africa and Brazil as Tanker Rates Plunge",
+      "headline": "Who is Really Paying for the Data Center Boom?",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Asian energy commodity buyers are increasingly turning to African and Brazilian grades, attracted by lower prices as rates for shipping oil out of the Persian Gulf remain near historic highs. Freight rates were at record"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "Wed, 11 Nov 2026 18:00:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "Global Power Grid Expansion Surges 50% to Record High",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Utilities built a total of over 21,000 km of new transmission lines last year, the International Renewable Energy Agency reported this week at COP31, citing data from a group called the Utilities for Net Zero Alliance. T"
+      "summary": "The booming AI industry is consuming more and more power with each data center springing up across the United States. The surge in power demand necessitates grid upgrades and expansions in the energy infrastructure.  But"
     },
     {
       "category": "macro",
@@ -126,6 +108,24 @@
       "headline": "USD Unemployment Claims",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 194K · Previous: 189K"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-11-12T14:30:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR ECB President Lagarde Speaks",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Scheduled economic release."
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "Thu, 12 Nov 2026 14:00:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Central Asia’s B20 Message to Washington: Let’s Make Deals",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Large Kazakh and Uzbek delegations attending the B20 business summit in Washington delivered a clear message to their American hosts: let’s make more deals. The US Chamber of Commerce-hosted three-day event, which conclu"
     }
   ]
 }
