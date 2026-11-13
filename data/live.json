@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-12T20:17:06.975619+00:00",
+  "generated_at": "2026-11-13T01:21:35.187667+00:00",
   "stories": [
     {
       "category": "geo",
       "impact": "critical",
-      "time": "Thu, 12 Nov 2026 11:30:00 -0600",
+      "time": "Thu, 12 Nov 2026 16:00:00 -0600",
       "source": "OilPrice.com",
-      "headline": "Brent Briefly Hits $94 After Trump Says U.S. Has No Need for Iran Deal",
+      "headline": "More Drilling Won’t Shield U.S. Consumers From Oil Price Shocks",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "President Donald Trump declared Thursday that the United States no longer needs a deal with Iran, just three days after suggesting the eight-month war was nearing its end. Oil prices promptly jumped, adding another round"
+      "summary": "Another month, another distressing Consumer Price Index report. As the war in Iran drags on, inflation in the United States is remaining stubbornly high, driven in large part by sky-high food and energy costs. Overall, p"
     },
     {
       "category": "macro",
@@ -54,15 +54,6 @@
       "headline": "USD PPI m/m",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 0.4% · Previous: 1.3%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "Thu, 12 Nov 2026 10:00:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "Who is Really Paying for the Data Center Boom?",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The booming AI industry is consuming more and more power with each data center springing up across the United States. The surge in power demand necessitates grid upgrades and expansions in the energy infrastructure.  But"
     },
     {
       "category": "macro",
@@ -119,13 +110,22 @@
       "summary": "Scheduled economic release."
     },
     {
-      "category": "macro",
+      "category": "minerals",
       "impact": "medium",
-      "time": "Thu, 12 Nov 2026 14:00:00 -0600",
+      "time": "Thu, 12 Nov 2026 19:00:00 -0600",
       "source": "OilPrice.com",
-      "headline": "Central Asia’s B20 Message to Washington: Let’s Make Deals",
+      "headline": "Rare Earth Wars: U.S. General Sounds Alarm Over China's Military Leverage",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Large Kazakh and Uzbek delegations attending the B20 business summit in Washington delivered a clear message to their American hosts: let’s make more deals. The US Chamber of Commerce-hosted three-day event, which conclu"
+      "summary": "On November 3, retired four-star General Jack Keane, the Army's former Vice Chief of Staff, put a warning on the record: China \"has made clear it is prepared to use [America’s] dependence as leverage.\" The dependence he'"
+    },
+    {
+      "category": "geo",
+      "impact": "medium",
+      "time": "Thu, 12 Nov 2026 18:00:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Oil Prices Squeezed Between Peace Hopes and Iran Escalation Risk",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Oil prices have crashed about 20% from the late-October peak of $118 per barrel, weighed down by hopes of sustainable de-escalation in the Middle East and the Russia-Ukraine war. For months, traders and hedge funds have "
     }
   ]
 }
