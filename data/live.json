@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-11-13T08:33:36.884885+00:00",
+  "generated_at": "2026-11-13T16:59:24.876136+00:00",
   "stories": [
     {
       "category": "geo",
       "impact": "critical",
-      "time": "Thu, 12 Nov 2026 16:00:00 -0600",
+      "time": "Fri, 13 Nov 2026 09:30:00 -0600",
       "source": "OilPrice.com",
-      "headline": "More Drilling Won’t Shield U.S. Consumers From Oil Price Shocks",
+      "headline": "Iran Rules Out Return of UN Nuclear Inspectors as U.S. War Talks Stall",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Another month, another distressing Consumer Price Index report. As the war in Iran drags on, inflation in the United States is remaining stubbornly high, driven in large part by sky-high food and energy costs. Overall, p"
+      "summary": "Iran continues to divert attempts by the International Atomic Energy Agency (IAEA) to access and verify the Iranian stockpile of enriched uranium and rules out any engagement with the UN’s agency’s inspectors amid the st"
+    },
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Fri, 13 Nov 2026 08:30:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "How Global Energy Markets Survived Eight Months of Iran War Disruptions",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Six months ago, I wrote that Americans were experiencing the Iran war primarily through higher prices, while much of the rest of the world was confronting something more serious: actual shortages of fuel and other critic"
     },
     {
       "category": "macro",
@@ -112,20 +121,11 @@
     {
       "category": "macro",
       "impact": "medium",
-      "time": "Thu, 12 Nov 2026 23:45:00 -0600",
+      "time": "Fri, 13 Nov 2026 10:30:00 -0600",
       "source": "OilPrice.com",
-      "headline": "Oil Prices Head for Second Weekly Loss Despite Fresh Middle East Attacks",
+      "headline": "India's Road Fuel Demand Won't Peak Until 2034",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Crude oil prices were on course to book their second week of losses today, after two consecutive days of gains on news from the Middle East. At the time of writing, Brent crude was trading at $95.87 per barrel, with West"
-    },
-    {
-      "category": "minerals",
-      "impact": "medium",
-      "time": "Thu, 12 Nov 2026 19:00:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "Rare Earth Wars: U.S. General Sounds Alarm Over China's Military Leverage",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "On November 3, retired four-star General Jack Keane, the Army's former Vice Chief of Staff, put a warning on the record: China \"has made clear it is prepared to use [America’s] dependence as leverage.\" The dependence he'"
+      "summary": "India’s fuel demand for road transportation is nearly a decade away from peaking despite rising sales of electric two- and three-wheelers, as commercial transport and conventional fleets will keep using greater volumes o"
     }
   ]
 }
