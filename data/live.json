@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T01:21:35.187667+00:00",
+  "generated_at": "2026-11-13T08:33:36.884885+00:00",
   "stories": [
     {
       "category": "geo",
@@ -110,6 +110,15 @@
       "summary": "Scheduled economic release."
     },
     {
+      "category": "macro",
+      "impact": "medium",
+      "time": "Thu, 12 Nov 2026 23:45:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Oil Prices Head for Second Weekly Loss Despite Fresh Middle East Attacks",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Crude oil prices were on course to book their second week of losses today, after two consecutive days of gains on news from the Middle East. At the time of writing, Brent crude was trading at $95.87 per barrel, with West"
+    },
+    {
       "category": "minerals",
       "impact": "medium",
       "time": "Thu, 12 Nov 2026 19:00:00 -0600",
@@ -117,15 +126,6 @@
       "headline": "Rare Earth Wars: U.S. General Sounds Alarm Over China's Military Leverage",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "On November 3, retired four-star General Jack Keane, the Army's former Vice Chief of Staff, put a warning on the record: China \"has made clear it is prepared to use [America’s] dependence as leverage.\" The dependence he'"
-    },
-    {
-      "category": "geo",
-      "impact": "medium",
-      "time": "Thu, 12 Nov 2026 18:00:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "Oil Prices Squeezed Between Peace Hopes and Iran Escalation Risk",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Oil prices have crashed about 20% from the late-October peak of $118 per barrel, weighed down by hopes of sustainable de-escalation in the Middle East and the Russia-Ukraine war. For months, traders and hedge funds have "
     }
   ]
 }
