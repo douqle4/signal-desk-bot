@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T09:53:13.698391+00:00",
+  "generated_at": "2026-11-14T16:25:04.608235+00:00",
   "stories": [
     {
       "category": "geo",
@@ -119,13 +119,13 @@
       "summary": "Scheduled economic release."
     },
     {
-      "category": "geo",
+      "category": "macro",
       "impact": "medium",
-      "time": "Fri, 13 Nov 2026 17:00:00 -0600",
+      "time": "Sat, 14 Nov 2026 10:00:00 -0600",
       "source": "OilPrice.com",
-      "headline": "Iran Braces for a Budget Without Oil Revenue",
+      "headline": "America’s Offshore Wind Industry Is Growing Despite Trump’s Crackdown",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Iran is drafting next year’s budget under the premise that oil revenue could fall to zero, with senior budget official Mohammad Ghasemi telling the government on Monday to prepare for that scenario, as the country appear"
+      "summary": "The United States was slow to embrace offshore wind, with its first small-scale commercial wind farm coming online in 2016. It would take another eight years before the country launched its first utility-scale offshore w"
     }
   ]
 }
