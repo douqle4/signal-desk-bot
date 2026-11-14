@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T22:29:37.996714+00:00",
+  "generated_at": "2026-11-14T02:39:05.492432+00:00",
   "stories": [
     {
       "category": "geo",
@@ -119,13 +119,13 @@
       "summary": "Scheduled economic release."
     },
     {
-      "category": "macro",
+      "category": "geo",
       "impact": "medium",
-      "time": "Fri, 13 Nov 2026 15:00:00 -0600",
+      "time": "Fri, 13 Nov 2026 17:00:00 -0600",
       "source": "OilPrice.com",
-      "headline": "Will the Senate's BAAJA Bill Let AI Giants Outmuscle Utilities?",
+      "headline": "Iran Braces for a Budget Without Oil Revenue",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Yesterday the US Senate approved a preliminary version of a bill, the Bipartisan Affordability and Jobs Act, commonly referred to as BAAJA. We previously published an article in Oilprice titled, “The AI Power Grab That C"
+      "summary": "Iran is drafting next year’s budget under the premise that oil revenue could fall to zero, with senior budget official Mohammad Ghasemi telling the government on Monday to prepare for that scenario, as the country appear"
     }
   ]
 }
