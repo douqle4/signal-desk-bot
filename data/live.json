@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-15T15:27:12.460829+00:00",
+  "generated_at": "2026-11-15T20:30:24.947331+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Sun, 15 Nov 2026 14:00:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "The $130 Billion Oil Boom Fueled by the Iran War",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Several oil and gas companies in the United States have benefited from increased trade following the war in Iran that began in February, and from subsequent restrictions on international energy trade. Many countries have"
+    },
     {
       "category": "geo",
       "impact": "critical",
@@ -9,15 +18,6 @@
       "headline": "Iran War Accelerates Southeast Asia’s Renewable Energy Push",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Several countries in Asia have recognised the need to accelerate the deployment of renewable energy to reduce reliance on fossil fuel imports and support energy diversification. The ongoing conflict in the Middle East ha"
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Fri, 13 Nov 2026 13:30:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "Trump Extends Jones Act Waiver For Another 90 Days",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "President Donald Trump extended the Jones Act waiver for another 90 days on Friday, keeping foreign-flagged tankers eligible to move oil and other commodities between U.S. ports as the war with Iran continues to drive up"
     },
     {
       "category": "macro",
