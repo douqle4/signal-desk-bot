@@ -1,24 +1,6 @@
 {
-  "generated_at": "2026-11-16T07:43:40.275425+00:00",
+  "generated_at": "2026-11-16T18:03:41.737232+00:00",
   "stories": [
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Sun, 15 Nov 2026 14:00:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "The $130 Billion Oil Boom Fueled by the Iran War",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Several oil and gas companies in the United States have benefited from increased trade following the war in Iran that began in February, and from subsequent restrictions on international energy trade. Many countries have"
-    },
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Sat, 14 Nov 2026 14:00:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "Iran War Accelerates Southeast Asia’s Renewable Energy Push",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Several countries in Asia have recognised the need to accelerate the deployment of renewable energy to reduce reliance on fossil fuel imports and support energy diversification. The ongoing conflict in the Middle East ha"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -126,6 +108,24 @@
       "headline": "AUD Employment Change",
       "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 25.2K · Previous: -39.3K"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-11-18T19:30:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "AUD Unemployment Rate",
+      "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 4.7% · Previous: 4.7%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "Mon, 16 Nov 2026 09:30:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "China’s Coal Power Generation Slumps as Wind and Solar Surge",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "China’s thermal power generation fell from a year earlier for the fourth consecutive month in October, with year-to-date thermal power output down by 0.1%, according to official data compiled by Bloomberg. In October alo"
     }
   ]
 }
