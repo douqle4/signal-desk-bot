@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-16T18:03:41.737232+00:00",
+  "generated_at": "2026-11-17T01:57:15.804303+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Mon, 16 Nov 2026 17:00:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Uganda Pushes First Oil to Mid-2027 as Iran War Holds Up Equipment",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Uganda’s dream to achieve its first commercial oil production and crude exports has been delayed yet again, extending the country’s wait to more than two decades since commercial oil reserves were first discovered in the"
+    },
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Mon, 16 Nov 2026 14:00:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Libya Has Africa's Biggest Oil Reserves, but Western Majors Aren't Biting",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "In the immediate aftermath of Russia’s 24 February 2022 invasion of Ukraine, the pressure was on the West to quickly find new sources of oil and gas to compensate for those from Russia that would be lost through initial "
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -71,7 +89,7 @@
       "source": "ForexFactory calendar",
       "headline": "USD Retail Sales m/m",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 0.2% · Previous: 0.8%"
+      "summary": "Forecast: 0.1% · Previous: 0.8%"
     },
     {
       "category": "macro",
@@ -107,25 +125,7 @@
       "source": "ForexFactory calendar",
       "headline": "AUD Employment Change",
       "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 25.2K · Previous: -39.3K"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-11-18T19:30:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "AUD Unemployment Rate",
-      "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 4.7% · Previous: 4.7%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "Mon, 16 Nov 2026 09:30:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "China’s Coal Power Generation Slumps as Wind and Solar Surge",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "China’s thermal power generation fell from a year earlier for the fourth consecutive month in October, with year-to-date thermal power output down by 0.1%, according to official data compiled by Bloomberg. In October alo"
+      "summary": "Forecast: 25.5K · Previous: -39.3K"
     }
   ]
 }
