@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-18T09:51:26.008734+00:00",
+  "generated_at": "2026-11-18T18:42:00.618657+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Wed, 18 Nov 2026 10:30:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Iran War Set to Hike 2027 UK Energy Bills to Four-Year High",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The UK’s household energy bills are set to jump by another 26% from January 2027, to the highest since 2023, as the Iran war keeps pushing up wholesale gas and electricity prices, energy consultancy Cornwall Insight said"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -117,15 +126,6 @@
       "headline": "AUD Unemployment Rate",
       "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 4.7% · Previous: 4.7%"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-11-16T08:30:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "CAD Common CPI y/y",
-      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 2.5% · Previous: 2.4%"
     }
   ]
 }
