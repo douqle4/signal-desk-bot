@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T01:47:41.668885+00:00",
+  "generated_at": "2026-11-18T09:51:26.008734+00:00",
   "stories": [
     {
       "category": "macro",
@@ -120,12 +120,12 @@
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "Tue, 17 Nov 2026 12:00:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "Gulf Trade With Central Asia Surges as Energy Ties Deepen",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Trade between Central Asia and Gulf states has almost quadrupled between 2020 and 2025 but still accounts for just a tiny percentage of the region’s overall trade turnover. Over a similar timeframe, Gulf investment in Ce"
+      "impact": "medium",
+      "time": "2026-11-16T08:30:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "CAD Common CPI y/y",
+      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 2.5% · Previous: 2.4%"
     }
   ]
 }
