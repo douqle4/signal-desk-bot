@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-19T00:59:28.582145+00:00",
+  "generated_at": "2026-11-19T08:39:03.187050+00:00",
   "stories": [
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Wed, 18 Nov 2026 19:00:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Permian Growth Turns Moderate Despite War",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Crude oil production in the most prolific basin in the United States has remained moderate despite the war premium that pushed prices to over $100 a barrel. For some, however, the very fact of production growth in the Pe"
+    },
     {
       "category": "geo",
       "impact": "critical",
@@ -117,15 +126,6 @@
       "headline": "AUD Employment Change",
       "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 25.5K · Previous: -39.3K"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-11-18T19:30:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "AUD Unemployment Rate",
-      "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 4.7% · Previous: 4.7%"
     }
   ]
 }
