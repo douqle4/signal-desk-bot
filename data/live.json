@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-11-20T17:07:58.021289+00:00",
+  "generated_at": "2026-11-20T23:16:36.345979+00:00",
   "stories": [
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Fri, 20 Nov 2026 09:36:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "China’s Oil Imports from Persian Gulf Jump to Wartime High",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "China’s crude oil imports from the Persian Gulf surged by 42.4% in October from September, to the highest level since the Iran war began, as supply via the Strait of Hormuz rebounded and Gulf producers slashed prices for"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -126,6 +117,15 @@
       "headline": "AUD Unemployment Rate",
       "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 4.7% · Previous: 4.7%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "Fri, 20 Nov 2026 10:30:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Norway’s Gas Sales Surge Nearly 20% as Europe Braces for Winter",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Norway’s daily gas sales jumped nearly 20% in October and were 5.6% above year-earlier levels. The rebound comes as the EU heads into winter with its gas storage facilities less than 70% full. Norway sold 11 billion cubi"
     }
   ]
 }
