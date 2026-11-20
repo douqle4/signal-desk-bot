@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-20T08:10:49.824677+00:00",
+  "generated_at": "2026-11-20T17:07:58.021289+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Fri, 20 Nov 2026 09:36:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "China’s Oil Imports from Persian Gulf Jump to Wartime High",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "China’s crude oil imports from the Persian Gulf surged by 42.4% in October from September, to the highest level since the Iran war began, as supply via the Strait of Hormuz rebounded and Gulf producers slashed prices for"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -117,15 +126,6 @@
       "headline": "AUD Unemployment Rate",
       "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 4.7% · Previous: 4.7%"
-    },
-    {
-      "category": "geo",
-      "impact": "high",
-      "time": "Thu, 19 Nov 2026 19:00:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "Canada Builds an Energy Exit From the U.S.",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Canada is building an energy export industry for a world beyond the tariff-chasing United States. In 2024, the U.S. bought all but 0.01% of Canada’s natural gas exports. Ottawa now wants 55% of those exports to go to oth"
     }
   ]
 }
