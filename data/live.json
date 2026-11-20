@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T18:01:19.479945+00:00",
+  "generated_at": "2026-11-20T00:48:26.521042+00:00",
   "stories": [
     {
       "category": "macro",
@@ -120,12 +120,12 @@
     },
     {
       "category": "macro",
-      "impact": "medium",
-      "time": "2026-11-16T08:30:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "CAD Common CPI y/y",
-      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 2.5% · Previous: 2.4%"
+      "impact": "high",
+      "time": "Thu, 19 Nov 2026 17:00:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Hormuz Oil Exports Could Decline amid Inbound Tanker Shortage",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Analysts are touting the remarkable recovery in crude oil exports from the Persian Gulf, which have jumped close to pre-war levels in recent months. The oil market reflects the bearish sentiment, with Brent Crude prices "
     }
   ]
 }
