@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T00:48:26.521042+00:00",
+  "generated_at": "2026-11-20T08:10:49.824677+00:00",
   "stories": [
     {
       "category": "macro",
@@ -119,13 +119,13 @@
       "summary": "Forecast: 4.7% · Previous: 4.7%"
     },
     {
-      "category": "macro",
+      "category": "geo",
       "impact": "high",
-      "time": "Thu, 19 Nov 2026 17:00:00 -0600",
+      "time": "Thu, 19 Nov 2026 19:00:00 -0600",
       "source": "OilPrice.com",
-      "headline": "Hormuz Oil Exports Could Decline amid Inbound Tanker Shortage",
+      "headline": "Canada Builds an Energy Exit From the U.S.",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Analysts are touting the remarkable recovery in crude oil exports from the Persian Gulf, which have jumped close to pre-war levels in recent months. The oil market reflects the bearish sentiment, with Brent Crude prices "
+      "summary": "Canada is building an energy export industry for a world beyond the tariff-chasing United States. In 2024, the U.S. bought all but 0.01% of Canada’s natural gas exports. Ottawa now wants 55% of those exports to go to oth"
     }
   ]
 }
