@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T12:54:48.872094+00:00",
+  "generated_at": "2026-11-21T19:58:13.566358+00:00",
   "stories": [
     {
       "category": "macro",
@@ -120,12 +120,12 @@
     },
     {
       "category": "macro",
-      "impact": "medium",
-      "time": "2026-11-16T08:30:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "CAD Common CPI y/y",
-      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 2.5% · Previous: 2.4%"
+      "impact": "high",
+      "time": "Sat, 21 Nov 2026 13:10:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Thanksgiving Gas Prices Could Break a Record Despite Recent Plunge",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Gasoline prices have fallen nearly 60 cents in a month, but Americans heading out for Thanksgiving could still pay more at the pump than during any previous Thanksgiving. The national average fell to $3.69 per gallon on "
     }
   ]
 }
