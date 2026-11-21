@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T23:16:36.345979+00:00",
+  "generated_at": "2026-11-21T04:10:25.143662+00:00",
   "stories": [
     {
       "category": "macro",
@@ -120,12 +120,12 @@
     },
     {
       "category": "macro",
-      "impact": "high",
-      "time": "Fri, 20 Nov 2026 10:30:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "Norway’s Gas Sales Surge Nearly 20% as Europe Braces for Winter",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Norway’s daily gas sales jumped nearly 20% in October and were 5.6% above year-earlier levels. The rebound comes as the EU heads into winter with its gas storage facilities less than 70% full. Norway sold 11 billion cubi"
+      "impact": "medium",
+      "time": "2026-11-16T08:30:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "CAD Common CPI y/y",
+      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 2.5% · Previous: 2.4%"
     }
   ]
 }
