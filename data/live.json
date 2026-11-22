@@ -1,122 +1,50 @@
 {
-  "generated_at": "2026-11-22T00:14:41.926279+00:00",
+  "generated_at": "2026-11-22T07:16:38.025977+00:00",
   "stories": [
     {
       "category": "macro",
       "impact": "high",
-      "time": "2026-11-16T08:30:00-05:00",
+      "time": "2026-11-24T19:30:00-05:00",
       "source": "ForexFactory calendar",
-      "headline": "CAD CPI m/m",
-      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 0.3% · Previous: 0.1%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-11-16T08:30:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "CAD Median CPI y/y",
-      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 2.0% · Previous: 1.9%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-11-16T08:30:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "CAD Trimmed CPI y/y",
-      "why": "Scheduled CAD data release — historically moves CAD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 1.9% · Previous: 1.8%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-11-16T12:00:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Fed Chairman Warsh Speaks",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-11-16T17:50:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "AUD RBA Gov Bullock Speaks",
+      "headline": "AUD CPI m/m",
       "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
+      "summary": "Forecast: 0.4% · Previous: 0.8%"
     },
     {
       "category": "macro",
       "impact": "high",
-      "time": "2026-11-16T21:00:00-05:00",
+      "time": "2026-11-24T19:30:00-05:00",
       "source": "ForexFactory calendar",
-      "headline": "NZD Inflation Expectations q/q",
-      "why": "Scheduled NZD data release — historically moves NZD pairs, yields, and risk sentiment.",
-      "summary": "Previous: 2.34%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-11-17T08:30:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Core Retail Sales m/m",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 0.4% · Previous: 0.9%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-11-17T08:30:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Retail Sales m/m",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 0.1% · Previous: 0.8%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-11-18T02:00:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "GBP CPI y/y",
-      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 3.6% · Previous: 3.5%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-11-18T10:00:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "GBP BOE Gov Bailey Speaks",
-      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-11-18T14:00:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD FOMC Meeting Minutes",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Scheduled economic release."
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "2026-11-18T19:30:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "AUD Employment Change",
+      "headline": "AUD CPI y/y",
       "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 25.5K · Previous: -39.3K"
+      "summary": "Forecast: 4.8% · Previous: 4.3%"
     },
     {
       "category": "macro",
       "impact": "high",
-      "time": "2026-11-18T19:30:00-05:00",
+      "time": "2026-11-24T19:30:00-05:00",
       "source": "ForexFactory calendar",
-      "headline": "AUD Unemployment Rate",
+      "headline": "AUD Trimmed Mean CPI m/m",
       "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 4.7% · Previous: 4.7%"
+      "summary": "Forecast: 0.3% · Previous: 0.3%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-11-25T08:30:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Core PCE Price Index m/m",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 0.3% · Previous: 0.3%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "2026-11-25T08:30:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Prelim GDP q/q",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 3.5% · Previous: 3.4%"
     },
     {
       "category": "macro",
@@ -126,6 +54,78 @@
       "headline": "Thanksgiving Gas Prices Could Break a Record Despite Recent Plunge",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
       "summary": "Gasoline prices have fallen nearly 60 cents in a month, but Americans heading out for Thanksgiving could still pay more at the pump than during any previous Thanksgiving. The national average fell to $3.69 per gallon on "
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-11-23T03:15:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR French Flash Manufacturing PMI",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 49.8 · Previous: 49.3"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-11-23T03:15:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR French Flash Services PMI",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 47.4 · Previous: 48.4"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-11-23T03:30:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR German Flash Manufacturing PMI",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 54.1 · Previous: 54.2"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-11-23T03:30:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "EUR German Flash Services PMI",
+      "why": "Scheduled EUR data release — historically moves EUR pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 52.4 · Previous: 51.7"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-11-23T04:30:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "GBP Flash Manufacturing PMI",
+      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 53.0 · Previous: 52.8"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-11-23T04:30:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "GBP Flash Services PMI",
+      "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 53.0 · Previous: 53.1"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-11-23T09:45:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Flash Manufacturing PMI",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 54.5 · Previous: 56.0"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-11-23T09:45:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Flash Services PMI",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 55.6 · Previous: 57.9"
     }
   ]
 }
