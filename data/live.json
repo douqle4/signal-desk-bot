@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T02:21:27.202204+00:00",
+  "generated_at": "2026-11-23T11:03:43.432027+00:00",
   "stories": [
     {
       "category": "geo",
@@ -57,6 +57,24 @@
     },
     {
       "category": "macro",
+      "impact": "high",
+      "time": "Mon, 23 Nov 2026 03:45:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Libya’s Oil Output Plunges as Armed Groups Shut Key Pipelines",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Libya’s oil production has crashed by about 350,000 barrels per day (bpd) after an outlaw group closed a valve on the pipeline transporting crude oil from Sharara, the country’s biggest oilfield, the National Oil Corpora"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "Mon, 23 Nov 2026 02:30:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "European Natural Gas Prices Surge 8.6% as Cold Snap Looms",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Natural gas prices in Europe started the week with a rise to 96.075 euros per MWh, gaining 8.6% from Friday as weather forecasts saw colder weather coming to the continent, which is struggling with record-low inventories"
+    },
+    {
+      "category": "macro",
       "impact": "medium",
       "time": "2026-11-23T03:15:00-05:00",
       "source": "ForexFactory calendar",
@@ -108,24 +126,6 @@
       "headline": "GBP Flash Services PMI",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Forecast: 53.0 · Previous: 53.1"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-11-23T09:45:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Flash Manufacturing PMI",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 54.5 · Previous: 56.0"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-11-23T09:45:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Flash Services PMI",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 55.6 · Previous: 57.9"
     }
   ]
 }
