@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-22T21:36:19.995490+00:00",
+  "generated_at": "2026-11-23T02:21:27.202204+00:00",
   "stories": [
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Sun, 22 Nov 2026 16:00:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "U.S. Energy Exports Hit Records as Global Competition Intensifies",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Rising U.S. oil and gas production and export capacity, along with a shift in global energy trade flows from the war in Iran, helped the United States hit record highs in crude, fuels, and LNG exports this year. In the d"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -45,15 +54,6 @@
       "headline": "USD Prelim GDP q/q",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 3.5% · Previous: 3.4%"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "Sat, 21 Nov 2026 13:10:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "Thanksgiving Gas Prices Could Break a Record Despite Recent Plunge",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Gasoline prices have fallen nearly 60 cents in a month, but Americans heading out for Thanksgiving could still pay more at the pump than during any previous Thanksgiving. The national average fell to $3.69 per gallon on "
     },
     {
       "category": "macro",
