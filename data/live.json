@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-11-23T11:03:43.432027+00:00",
+  "generated_at": "2026-11-23T22:51:12.840555+00:00",
   "stories": [
-    {
-      "category": "geo",
-      "impact": "critical",
-      "time": "Sun, 22 Nov 2026 16:00:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "U.S. Energy Exports Hit Records as Global Competition Intensifies",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Rising U.S. oil and gas production and export capacity, along with a shift in global energy trade flows from the war in Iran, helped the United States hit record highs in crude, fuels, and LNG exports this year. In the d"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -26,7 +17,7 @@
       "source": "ForexFactory calendar",
       "headline": "AUD CPI y/y",
       "why": "Scheduled AUD data release — historically moves AUD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 4.8% · Previous: 4.3%"
+      "summary": "Forecast: 4.7% · Previous: 4.3%"
     },
     {
       "category": "macro",
@@ -58,20 +49,11 @@
     {
       "category": "macro",
       "impact": "high",
-      "time": "Mon, 23 Nov 2026 03:45:00 -0600",
+      "time": "Mon, 23 Nov 2026 11:30:00 -0600",
       "source": "OilPrice.com",
-      "headline": "Libya’s Oil Output Plunges as Armed Groups Shut Key Pipelines",
+      "headline": "Japan’s Electricity Prices Surge to 2022 High as Cold Weather Arrives",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Libya’s oil production has crashed by about 350,000 barrels per day (bpd) after an outlaw group closed a valve on the pipeline transporting crude oil from Sharara, the country’s biggest oilfield, the National Oil Corpora"
-    },
-    {
-      "category": "macro",
-      "impact": "high",
-      "time": "Mon, 23 Nov 2026 02:30:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "European Natural Gas Prices Surge 8.6% as Cold Snap Looms",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Natural gas prices in Europe started the week with a rise to 96.075 euros per MWh, gaining 8.6% from Friday as weather forecasts saw colder weather coming to the continent, which is struggling with record-low inventories"
+      "summary": "Spot electricity prices in Japan surged on Monday to their highest level since August 2022 as gas demand is set to rise amid expectations of snowfall and colder weather in the coming days. Expected higher gas demand in t"
     },
     {
       "category": "macro",
@@ -126,6 +108,24 @@
       "headline": "GBP Flash Services PMI",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Forecast: 53.0 · Previous: 53.1"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-11-23T09:45:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Flash Manufacturing PMI",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 54.5 · Previous: 56.0"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-11-23T09:45:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Flash Services PMI",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 55.6 · Previous: 57.9"
     }
   ]
 }
