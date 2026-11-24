@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-24T06:49:01.595698+00:00",
+  "generated_at": "2026-11-24T18:42:15.269793+00:00",
   "stories": [
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Tue, 24 Nov 2026 09:21:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Libya and Iraq Could Be the Next Big Headache for Oil Markets",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Brent struggles below $90 as escalating tensions in Libya and Iraq threaten fresh oil supply disruptions across the Mediterranean. Where’s El Niño When You Need It?- Ahead of the 2026/2027 winter season, Japan’s meteorol"
+    },
+    {
+      "category": "geo",
+      "impact": "critical",
+      "time": "Tue, 24 Nov 2026 09:00:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Iran Faces a Deepening Natural Gas Crisis Ahead of Winter",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Iran is heading into winter facing a worsening natural gas shortage, as damage to key processing facilities during the war with the United States and Israel compounds years of chronic supply deficits. President Masud Pez"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -45,6 +63,15 @@
       "headline": "USD Prelim GDP q/q",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 3.5% · Previous: 3.4%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "Tue, 24 Nov 2026 11:00:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Europe’s Gas Prices Jumped 163% in a Year",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Europe’s gas prices surged to four-year highs in October, with the TTF benchmark futures rising by 12% from the previous month and soaring by 163% from October 2025, amid tightening market balances ahead of the heating s"
     },
     {
       "category": "macro",
@@ -99,33 +126,6 @@
       "headline": "GBP Flash Services PMI",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Forecast: 53.0 · Previous: 53.1"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-11-23T09:45:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Flash Manufacturing PMI",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 54.5 · Previous: 56.0"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-11-23T09:45:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Flash Services PMI",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 55.6 · Previous: 57.9"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-11-24T10:00:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD CB Consumer Confidence",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 92.4 · Previous: 91.7"
     }
   ]
 }
