@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-25T02:57:25.621373+00:00",
+  "generated_at": "2026-11-25T12:33:01.863085+00:00",
   "stories": [
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Wed, 25 Nov 2026 06:00:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "UK Energy Price Cap Jumps 26% in January, Highest Since 2023",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Energy prices for UK households will surge by 26% from January 1 as the Middle East war is pushing wholesale gas prices higher, the UK’s energy regulator Ofgem said in its quarterly energy cap announcement on Wednesday. "
+    },
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Wed, 25 Nov 2026 02:30:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Global LNG Supply Crunch Set to Spill Into 2027",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "The global market for liquefied natural gas will remain relatively tight next year, Malaysia’s state energy major Petronas has forecast, noting the continued supply disruption in the Middle East, which will keep prices f"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -108,24 +126,6 @@
       "headline": "USD Flash Manufacturing PMI",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 54.5 · Previous: 56.0"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-11-23T09:45:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Flash Services PMI",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 55.6 · Previous: 57.9"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-11-24T10:00:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD CB Consumer Confidence",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 92.4 · Previous: 91.7"
     }
   ]
 }
