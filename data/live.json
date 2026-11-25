@@ -1,23 +1,14 @@
 {
-  "generated_at": "2026-11-25T12:33:01.863085+00:00",
+  "generated_at": "2026-11-25T22:11:13.368756+00:00",
   "stories": [
     {
-      "category": "macro",
+      "category": "geo",
       "impact": "critical",
-      "time": "Wed, 25 Nov 2026 06:00:00 -0600",
+      "time": "Wed, 25 Nov 2026 15:00:00 -0600",
       "source": "OilPrice.com",
-      "headline": "UK Energy Price Cap Jumps 26% in January, Highest Since 2023",
+      "headline": "The Pentagon Wants Detroit to Build America's Next Drone Army",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Energy prices for UK households will surge by 26% from January 1 as the Middle East war is pushing wholesale gas prices higher, the UK’s energy regulator Ofgem said in its quarterly energy cap announcement on Wednesday. "
-    },
-    {
-      "category": "macro",
-      "impact": "critical",
-      "time": "Wed, 25 Nov 2026 02:30:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "Global LNG Supply Crunch Set to Spill Into 2027",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The global market for liquefied natural gas will remain relatively tight next year, Malaysia’s state energy major Petronas has forecast, noting the continued supply disruption in the Middle East, which will keep prices f"
+      "summary": "The Department of War is in talks with General Motors, other automakers, and auto parts suppliers to convert civilian manufacturing capacity for military drone production. The discussions show a broader push to bolster t"
     },
     {
       "category": "macro",
@@ -63,6 +54,15 @@
       "headline": "USD Prelim GDP q/q",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 3.5% · Previous: 3.4%"
+    },
+    {
+      "category": "geo",
+      "impact": "high",
+      "time": "Wed, 25 Nov 2026 14:30:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "U.S.-Backed Consortium Signs Deal for Lukoil's International Oil Empire",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "US billionaire Todd Boehly has signed a deal with Lukoil to buy the sanctioned Russian oil company's international assets through a share swap backed by the US International Development Finance Corp (DFC), Reuters report"
     },
     {
       "category": "macro",
