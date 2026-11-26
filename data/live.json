@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-26T04:16:56.818081+00:00",
+  "generated_at": "2026-11-26T14:14:03.100417+00:00",
   "stories": [
     {
-      "category": "geo",
+      "category": "macro",
       "impact": "critical",
-      "time": "Wed, 25 Nov 2026 15:00:00 -0600",
+      "time": "Thu, 26 Nov 2026 07:30:00 -0600",
       "source": "OilPrice.com",
-      "headline": "The Pentagon Wants Detroit to Build America's Next Drone Army",
+      "headline": "Dutch Gas Network Operator Proposes Creation of Strategic Reserve",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "The Department of War is in talks with General Motors, other automakers, and auto parts suppliers to convert civilian manufacturing capacity for military drone production. The discussions show a broader push to bolster t"
+      "summary": "Gasunie, the Dutch gas network operator, has urged the Netherlands to create a strategic gas reserve to boost energy security amid international supply disruptions. The Netherlands remains vulnerable to external supply s"
     },
     {
       "category": "macro",
@@ -56,22 +56,13 @@
       "summary": "Forecast: 3.5% · Previous: 3.4%"
     },
     {
-      "category": "macro",
+      "category": "minerals",
       "impact": "high",
-      "time": "Wed, 25 Nov 2026 19:00:00 -0600",
+      "time": "Wed, 25 Nov 2026 23:18:59 -0600",
       "source": "OilPrice.com",
-      "headline": "Labor Shortages Could Derail Canada’s Oil and Gas Growth Momentum",
+      "headline": "Oil Rallies as Hormuz Mine Strikes Rattle Global Markets",
       "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "For the first time in years, the Canadian oil and gas services sector is looking at major upside potential and growth momentum over the long term as Canada expands its energy infrastructure to export oil and LNG to marke"
-    },
-    {
-      "category": "geo",
-      "impact": "high",
-      "time": "Wed, 25 Nov 2026 14:30:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "U.S.-Backed Consortium Signs Deal for Lukoil's International Oil Empire",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "US billionaire Todd Boehly has signed a deal with Lukoil to buy the sanctioned Russian oil company's international assets through a share swap backed by the US International Development Finance Corp (DFC), Reuters report"
+      "summary": "Crude oil prices bounced back in early Asian trade on Thursday, climbing higher after fresh reports of tankers hitting mines in the Strait of Hormuz and the latest Yemeni Houthi attack on Saudi Arabia, which targeted a r"
     },
     {
       "category": "macro",
@@ -126,6 +117,15 @@
       "headline": "GBP Flash Services PMI",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Forecast: 53.0 · Previous: 53.1"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-11-23T09:45:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Flash Manufacturing PMI",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 54.5 · Previous: 56.0"
     }
   ]
 }
