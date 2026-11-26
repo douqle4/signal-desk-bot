@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T22:11:13.368756+00:00",
+  "generated_at": "2026-11-26T04:16:56.818081+00:00",
   "stories": [
     {
       "category": "geo",
@@ -54,6 +54,15 @@
       "headline": "USD Prelim GDP q/q",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 3.5% · Previous: 3.4%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "Wed, 25 Nov 2026 19:00:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Labor Shortages Could Derail Canada’s Oil and Gas Growth Momentum",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "For the first time in years, the Canadian oil and gas services sector is looking at major upside potential and growth momentum over the long term as Canada expands its energy infrastructure to export oil and LNG to marke"
     },
     {
       "category": "geo",
@@ -117,15 +126,6 @@
       "headline": "GBP Flash Services PMI",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Forecast: 53.0 · Previous: 53.1"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-11-23T09:45:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Flash Manufacturing PMI",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 54.5 · Previous: 56.0"
     }
   ]
 }
