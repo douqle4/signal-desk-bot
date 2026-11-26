@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-11-26T14:14:03.100417+00:00",
+  "generated_at": "2026-11-26T23:11:46.392292+00:00",
   "stories": [
-    {
-      "category": "macro",
-      "impact": "critical",
-      "time": "Thu, 26 Nov 2026 07:30:00 -0600",
-      "source": "OilPrice.com",
-      "headline": "Dutch Gas Network Operator Proposes Creation of Strategic Reserve",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Gasunie, the Dutch gas network operator, has urged the Netherlands to create a strategic gas reserve to boost energy security amid international supply disruptions. The Netherlands remains vulnerable to external supply s"
-    },
     {
       "category": "macro",
       "impact": "high",
@@ -54,15 +45,6 @@
       "headline": "USD Prelim GDP q/q",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 3.5% · Previous: 3.4%"
-    },
-    {
-      "category": "minerals",
-      "impact": "high",
-      "time": "Wed, 25 Nov 2026 23:18:59 -0600",
-      "source": "OilPrice.com",
-      "headline": "Oil Rallies as Hormuz Mine Strikes Rattle Global Markets",
-      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
-      "summary": "Crude oil prices bounced back in early Asian trade on Thursday, climbing higher after fresh reports of tankers hitting mines in the Strait of Hormuz and the latest Yemeni Houthi attack on Saudi Arabia, which targeted a r"
     },
     {
       "category": "macro",
@@ -126,6 +108,24 @@
       "headline": "USD Flash Manufacturing PMI",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 54.5 · Previous: 56.0"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-11-23T09:45:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD Flash Services PMI",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 55.6 · Previous: 57.9"
+    },
+    {
+      "category": "macro",
+      "impact": "medium",
+      "time": "2026-11-24T10:00:00-05:00",
+      "source": "ForexFactory calendar",
+      "headline": "USD CB Consumer Confidence",
+      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
+      "summary": "Forecast: 92.4 · Previous: 91.7"
     }
   ]
 }
