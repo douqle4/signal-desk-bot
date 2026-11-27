@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-26T23:11:46.392292+00:00",
+  "generated_at": "2026-11-27T05:14:57.794157+00:00",
   "stories": [
+    {
+      "category": "macro",
+      "impact": "critical",
+      "time": "Thu, 26 Nov 2026 18:00:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Ukraine's Strike in Benghazi Threatens the Deal That Keeps Libya at Peace",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Ukraine's sinking of a Russian warship in Benghazi on November 22 is the spark that could ignite another civil war in Libya, just as Tripoli is pitching foreign oil companies at an energy summit for the $20 billion it sa"
+    },
     {
       "category": "macro",
       "impact": "high",
@@ -117,15 +126,6 @@
       "headline": "USD Flash Services PMI",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 55.6 · Previous: 57.9"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-11-24T10:00:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD CB Consumer Confidence",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 92.4 · Previous: 91.7"
     }
   ]
 }
