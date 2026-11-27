@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T15:27:47.546703+00:00",
+  "generated_at": "2026-11-27T23:40:08.417371+00:00",
   "stories": [
     {
       "category": "macro",
@@ -45,6 +45,33 @@
       "headline": "USD Prelim GDP q/q",
       "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
       "summary": "Forecast: 3.5% · Previous: 3.4%"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "Fri, 27 Nov 2026 11:00:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Soaring Fuel Prices Threaten to Push More Airlines Into Bankruptcy",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "More airlines could soon collapse, the boss of Easyjet has warned, as soaring fuel costs push carriers to the brink. Kenton Jarvis, the company’s chief executive, said Easyjet had sought to swerve the surge in jet fuel p"
+    },
+    {
+      "category": "macro",
+      "impact": "high",
+      "time": "Fri, 27 Nov 2026 10:30:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Oil Surge Pushes Indonesia to Mull First Subsidized Fuel Price Hike in Years",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Indonesia, the largest economy in Southeast Asia, has discussed hiking the price of subsidized fuel for the first time since 2022, as the weakening local currency and persistently high oil prices weigh on government outl"
+    },
+    {
+      "category": "minerals",
+      "impact": "high",
+      "time": "Fri, 27 Nov 2026 09:30:00 -0600",
+      "source": "OilPrice.com",
+      "headline": "Copper Heads for First Weekly Gain Since Early October After 6.5% Surge",
+      "why": "Flagged by keyword match on the headline/summary — check the source for full context.",
+      "summary": "Copper on the London Metal Exchange is on track to post the first weekly gain in nearly two months, as prices continued to rally on Friday amid improved risk sentiment. After hitting a record high of over $15,000 per ton"
     },
     {
       "category": "macro",
@@ -99,33 +126,6 @@
       "headline": "GBP Flash Services PMI",
       "why": "Scheduled GBP data release — historically moves GBP pairs, yields, and risk sentiment.",
       "summary": "Forecast: 53.0 · Previous: 53.1"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-11-23T09:45:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Flash Manufacturing PMI",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 54.5 · Previous: 56.0"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-11-23T09:45:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD Flash Services PMI",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 55.6 · Previous: 57.9"
-    },
-    {
-      "category": "macro",
-      "impact": "medium",
-      "time": "2026-11-24T10:00:00-05:00",
-      "source": "ForexFactory calendar",
-      "headline": "USD CB Consumer Confidence",
-      "why": "Scheduled USD data release — historically moves USD pairs, yields, and risk sentiment.",
-      "summary": "Forecast: 92.4 · Previous: 91.7"
     }
   ]
 }
